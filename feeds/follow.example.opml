@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Auto Lighting Radar RSS Example</title>
+  </head>
+  <body>
+    <outline text="Automotive lighting free RSS">
+      <outline
+        text="Valeo Press Releases"
+        title="Valeo Press Releases"
+        type="rss"
+        xmlUrl="https://www.valeo.com/en/press-releases/feed/"
+        htmlUrl="https://www.valeo.com/en/press-releases/"
+      />
+      <outline
+        text="IIHS News"
+        title="IIHS News"
+        type="rss"
+        xmlUrl="https://www.iihs.org/rss/news"
+        htmlUrl="https://www.iihs.org/news"
+      />
+      <outline
+        text="Electrive"
+        title="Electrive"
+        type="rss"
+        xmlUrl="https://www.electrive.com/feed/"
+        htmlUrl="https://www.electrive.com/"
+      />
+    </outline>
+    <outline text="Google News RSS keyword feeds">
+      <outline
+        text="Automotive lighting"
+        title="Automotive lighting"
+        type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=%22automotive%20lighting%22%20OR%20headlamp%20OR%20%22adaptive%20driving%20beam%22%20when%3A7d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"
+        htmlUrl="https://news.google.com/search?q=%22automotive%20lighting%22%20OR%20headlamp%20OR%20%22adaptive%20driving%20beam%22"
+      />
+      <outline
+        text="车灯/汽车照明"
+        title="车灯/汽车照明"
+        type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20%E6%99%BA%E8%83%BD%E8%BD%A6%E7%81%AF%20when%3A7d&amp;hl=zh-CN&amp;gl=CN&amp;ceid=CN:zh-Hans"
+        htmlUrl="https://news.google.com/search?q=%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF"
+      />
+      <outline
+        text="ADB / Matrix LED"
+        title="ADB / Matrix LED"
+        type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=%22adaptive%20driving%20beam%22%20OR%20%22matrix%20LED%22%20OR%20%22pixel%20headlight%22%20OR%20%22DLP%20headlamp%22%20when%3A14d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"
+        htmlUrl="https://news.google.com/search?q=%22adaptive%20driving%20beam%22%20OR%20%22matrix%20LED%22%20OR%20%22pixel%20headlight%22"
+      />
+    </outline>
+  </body>
+</opml>
