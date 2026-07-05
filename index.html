@@ -1,0 +1,205 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Auto Lighting Radar | 7-day Automotive Lighting Watch</title>
+    <meta
+      name="description"
+      content="Free automotive lighting news radar for headlamps, tail lamps, ADB, regulations, supplier news and recalls."
+    />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090d12;
+        --panel: #111820;
+        --panel2: #151f29;
+        --line: #273544;
+        --text: #edf4f8;
+        --muted: #9dafbd;
+        --accent: #6ee7b7;
+        --accent2: #7dd3fc;
+        --warn: #fbbf24;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: radial-gradient(circle at top left, #142337 0, transparent 36rem), var(--bg);
+        color: var(--text);
+      }
+      a { color: inherit; text-decoration: none; }
+      .shell { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0 48px; }
+      header { display: grid; gap: 18px; margin-bottom: 24px; }
+      .topline { display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }
+      .brand { display: flex; align-items: center; gap: 12px; font-weight: 800; letter-spacing: .02em; }
+      .mark { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 10px; background: linear-gradient(135deg, var(--accent), var(--accent2)); color: #071014; }
+      .links { display: flex; gap: 10px; flex-wrap: wrap; }
+      .links a, button, input, select {
+        border: 1px solid var(--line);
+        background: rgba(17, 24, 32, .82);
+        color: var(--text);
+        border-radius: 8px;
+        padding: 9px 12px;
+      }
+      h1 { margin: 0; font-size: clamp(32px, 6vw, 72px); letter-spacing: 0; line-height: 1; }
+      .lede { max-width: 760px; color: var(--muted); font-size: 16px; line-height: 1.7; }
+      .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin: 20px 0; }
+      .stat, .card, .panel { border: 1px solid var(--line); background: rgba(17, 24, 32, .78); border-radius: 8px; }
+      .stat { padding: 14px; }
+      .stat b { display: block; font-size: 24px; }
+      .stat span, .muted { color: var(--muted); font-size: 13px; }
+      .toolbar { display: grid; grid-template-columns: 1fr auto auto; gap: 10px; margin: 18px 0; }
+      input, select { width: 100%; }
+      .grid { display: grid; grid-template-columns: 1fr 320px; gap: 16px; align-items: start; }
+      .panel { padding: 16px; }
+      .section-title { display: flex; justify-content: space-between; gap: 10px; align-items: end; margin: 0 0 12px; }
+      .section-title h2 { margin: 0; font-size: 20px; }
+      .list { display: grid; gap: 10px; }
+      .card { padding: 15px; display: grid; gap: 10px; }
+      .meta { display: flex; gap: 8px; flex-wrap: wrap; color: var(--muted); font-size: 12px; }
+      .tag { border: 1px solid var(--line); border-radius: 999px; padding: 3px 8px; }
+      .score { color: var(--accent); font-weight: 700; }
+      .title { font-size: 16px; font-weight: 750; line-height: 1.45; }
+      .title:hover { color: var(--accent2); }
+      .sources { display: grid; gap: 8px; }
+      .source-row { display: grid; grid-template-columns: 1fr auto; gap: 8px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,.07); }
+      .empty { padding: 28px; text-align: center; color: var(--muted); }
+      @media (max-width: 860px) {
+        .stats, .grid, .toolbar { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <header>
+        <div class="topline">
+          <div class="brand"><div class="mark">AL</div><span>Auto Lighting Radar</span></div>
+          <nav class="links">
+            <a href="./data/latest-24h.json">JSON</a>
+            <a href="./data/source-status.json">Source Status</a>
+            <a href="./docs/SOURCES_AUTOLIGHTING.md">Sources</a>
+            <a href="https://github.com/zjl3369/auto-lighting-radar">GitHub</a>
+          </nav>
+        </div>
+        <h1>7-day vehicle lighting watch</h1>
+        <p class="lede">
+          Free weekly radar for headlamps, tail lamps, ADB, matrix LED, DLP, regulations,
+          safety ratings, recalls and supplier news. Built from RSS, public JSON and
+          static-page monitors. No paid API required.
+        </p>
+      </header>
+
+      <section class="stats" id="stats"></section>
+
+      <section class="toolbar">
+        <input id="search" type="search" placeholder="Search: headlamp, ADB, 杞︾伅, Valeo..." />
+        <select id="sourceFilter"><option value="">All sources</option></select>
+        <select id="sort">
+          <option value="time">Newest</option>
+          <option value="score">Highest relevance</option>
+        </select>
+      </section>
+
+      <section class="grid">
+        <div class="panel">
+          <div class="section-title">
+            <h2>Latest signals</h2>
+            <span class="muted" id="summary">Loading...</span>
+          </div>
+          <div class="list" id="list"></div>
+        </div>
+        <aside class="panel">
+          <div class="section-title"><h2>Sources</h2></div>
+          <div class="sources" id="sources"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script>
+      const state = { items: [], status: null };
+      const fmtDate = (v) => v ? new Date(v).toLocaleString("zh-CN", { hour12: false }) : "first seen";
+      const score = (item) => Math.round(Number(item.ai_score || 0) * 100);
+      const sourceName = (item) => item.source || item.site_name || item.site_id || "source";
+
+      function renderStats(payload) {
+        const stats = [
+          ["Signals", payload.total_items || state.items.length],
+          ["Raw pool", payload.total_items_raw || 0],
+          ["Sources", payload.source_count || 0],
+          ["Archive", payload.archive_total || 0],
+        ];
+        document.getElementById("stats").innerHTML = stats.map(([k, v]) => `
+          <div class="stat"><b>${v}</b><span>${k}</span></div>
+        `).join("");
+      }
+
+      function filteredItems() {
+        const q = document.getElementById("search").value.trim().toLowerCase();
+        const src = document.getElementById("sourceFilter").value;
+        const sort = document.getElementById("sort").value;
+        let rows = state.items.filter((item) => {
+          const hay = `${item.title || ""} ${item.title_zh || ""} ${item.source || ""} ${item.site_name || ""} ${(item.ai_signals || []).join(" ")}`.toLowerCase();
+          return (!q || hay.includes(q)) && (!src || sourceName(item) === src);
+        });
+        rows.sort((a, b) => sort === "score"
+          ? score(b) - score(a) || new Date(b.published_at || b.first_seen_at || 0) - new Date(a.published_at || a.first_seen_at || 0)
+          : new Date(b.published_at || b.first_seen_at || 0) - new Date(a.published_at || a.first_seen_at || 0)
+        );
+        return rows;
+      }
+
+      function renderList() {
+        const rows = filteredItems();
+        document.getElementById("summary").textContent = `${rows.length} shown / ${state.items.length} total`;
+        document.getElementById("list").innerHTML = rows.length ? rows.map((item) => `
+          <article class="card">
+            <div class="meta">
+              <span class="tag score">${score(item)} relevance</span>
+              <span class="tag">${item.ai_label || "lighting"}</span>
+              <span>${fmtDate(item.published_at || item.first_seen_at)}</span>
+            </div>
+            <a class="title" href="${item.url}" target="_blank" rel="noopener">${item.title_zh || item.title || "Untitled"}</a>
+            <div class="meta">
+              <span>${sourceName(item)}</span>
+              ${(item.ai_signals || []).slice(0, 4).map((s) => `<span class="tag">${s}</span>`).join("")}
+            </div>
+          </article>
+        `).join("") : `<div class="empty">No matching signals.</div>`;
+      }
+
+      function renderSources(payload) {
+        const sourceSet = new Set(state.items.map(sourceName).filter(Boolean));
+        const select = document.getElementById("sourceFilter");
+        select.innerHTML = `<option value="">All sources</option>` + [...sourceSet].sort().map((s) => `<option value="${s}">${s}</option>`).join("");
+        const rows = payload.site_stats || [];
+        document.getElementById("sources").innerHTML = rows.map((row) => `
+          <div class="source-row"><span>${row.site_name || row.site_id}</span><b>${row.count || 0}/${row.raw_count || 0}</b></div>
+        `).join("") || `<div class="empty">Source status loading.</div>`;
+      }
+
+      async function main() {
+        const [latest, status] = await Promise.all([
+          fetch("./data/latest-24h.json?t=" + Date.now()).then((r) => r.json()),
+          fetch("./data/source-status.json?t=" + Date.now()).then((r) => r.json()).catch(() => null),
+        ]);
+        state.items = latest.items || latest.items_ai || [];
+        state.status = status;
+        renderStats(latest);
+        renderSources(latest);
+        renderList();
+      }
+
+      ["search", "sourceFilter", "sort"].forEach((id) => {
+        document.addEventListener("input", (event) => {
+          if (event.target && event.target.id === id) renderList();
+        });
+      });
+      main().catch((error) => {
+        document.getElementById("summary").textContent = error.message;
+        document.getElementById("list").innerHTML = `<div class="empty">${error.message}</div>`;
+      });
+    </script>
+  </body>
+</html>
+
