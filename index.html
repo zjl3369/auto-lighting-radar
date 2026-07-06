@@ -44,7 +44,7 @@
       }
       h1 { margin: 0; font-size: clamp(32px, 6vw, 72px); letter-spacing: 0; line-height: 1; }
       .lede { max-width: 760px; color: var(--muted); font-size: 16px; line-height: 1.7; }
-      .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin: 20px 0; }
+      .stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; margin: 20px 0; }
       .stat, .card, .panel { border: 1px solid var(--line); background: rgba(17, 24, 32, .78); border-radius: 8px; }
       .stat { padding: 14px; }
       .stat b { display: block; font-size: 24px; }
@@ -77,6 +77,7 @@
           <div class="brand"><div class="mark">AL</div><span>Auto Lighting Radar</span></div>
           <nav class="links">
             <a href="./data/latest-24h.json">JSON</a>
+            <a href="./data/latest-24h-all.json">All JSON</a>
             <a href="./data/source-status.json">Source Status</a>
             <a href="./docs/SOURCES_AUTOLIGHTING.md">Sources</a>
             <a href="https://github.com/zjl3369/auto-lighting-radar">GitHub</a>
@@ -93,7 +94,11 @@
       <section class="stats" id="stats"></section>
 
       <section class="toolbar">
-        <input id="search" type="search" placeholder="Search: headlamp, ADB, 杞︾伅, Valeo..." />
+        <input id="search" type="search" placeholder="Search: headlamp, ADB, 车灯, Valeo..." />
+        <select id="mode">
+          <option value="all">All pool</option>
+          <option value="signals">Relevant signals</option>
+        </select>
         <select id="sourceFilter"><option value="">All sources</option></select>
         <select id="sort">
           <option value="time">Newest</option>
@@ -117,16 +122,19 @@
     </main>
 
     <script>
-      const state = { items: [], status: null };
+      const state = { signals: [], allItems: [], items: [], latestPayload: null, status: null };
       const fmtDate = (v) => v ? new Date(v).toLocaleString("zh-CN", { hour12: false }) : "first seen";
       const score = (item) => Math.round(Number(item.ai_score || 0) * 100);
       const sourceName = (item) => item.source || item.site_name || item.site_id || "source";
 
       function renderStats(payload) {
+        chooseItems();
+        const sourceCount = new Set(state.items.map(sourceName).filter(Boolean)).size;
         const stats = [
-          ["Signals", payload.total_items || state.items.length],
-          ["Raw pool", payload.total_items_raw || 0],
-          ["Sources", payload.source_count || 0],
+          ["Shown", state.items.length],
+          ["Signals", state.signals.length],
+          ["Raw pool", payload.total_items_raw || state.allItems.length || 0],
+          ["Sources", payload.source_count || sourceCount],
           ["Archive", payload.archive_total || 0],
         ];
         document.getElementById("stats").innerHTML = stats.map(([k, v]) => `
@@ -149,7 +157,13 @@
         return rows;
       }
 
+      function chooseItems() {
+        const mode = document.getElementById("mode").value;
+        state.items = mode === "signals" ? state.signals : state.allItems;
+      }
+
       function renderList() {
+        chooseItems();
         const rows = filteredItems();
         document.getElementById("summary").textContent = `${rows.length} shown / ${state.items.length} total`;
         document.getElementById("list").innerHTML = rows.length ? rows.map((item) => `
@@ -169,30 +183,47 @@
       }
 
       function renderSources(payload) {
+        chooseItems();
         const sourceSet = new Set(state.items.map(sourceName).filter(Boolean));
         const select = document.getElementById("sourceFilter");
         select.innerHTML = `<option value="">All sources</option>` + [...sourceSet].sort().map((s) => `<option value="${s}">${s}</option>`).join("");
-        const rows = payload.site_stats || [];
+        const rows = payload.site_stats && payload.site_stats.length
+          ? payload.site_stats
+          : [...sourceSet].sort().map((source) => ({
+              site_name: source,
+              count: state.items.filter((item) => sourceName(item) === source).length,
+              raw_count: state.items.filter((item) => sourceName(item) === source).length,
+            }));
         document.getElementById("sources").innerHTML = rows.map((row) => `
           <div class="source-row"><span>${row.site_name || row.site_id}</span><b>${row.count || 0}/${row.raw_count || 0}</b></div>
         `).join("") || `<div class="empty">Source status loading.</div>`;
       }
 
       async function main() {
-        const [latest, status] = await Promise.all([
+        const [latest, allLatest, status] = await Promise.all([
           fetch("./data/latest-24h.json?t=" + Date.now()).then((r) => r.json()),
+          fetch("./data/latest-24h-all.json?t=" + Date.now()).then((r) => r.json()),
           fetch("./data/source-status.json?t=" + Date.now()).then((r) => r.json()).catch(() => null),
         ]);
-        state.items = latest.items || latest.items_ai || [];
+        state.signals = latest.items || latest.items_ai || [];
+        state.allItems = allLatest.items_all || allLatest.items || allLatest.items_ai || state.signals;
+        state.items = state.allItems;
+        state.latestPayload = allLatest;
         state.status = status;
-        renderStats(latest);
-        renderSources(latest);
+        renderStats(allLatest);
+        renderSources(allLatest);
         renderList();
       }
 
-      ["search", "sourceFilter", "sort"].forEach((id) => {
+      ["search", "mode", "sourceFilter", "sort"].forEach((id) => {
         document.addEventListener("input", (event) => {
-          if (event.target && event.target.id === id) renderList();
+          if (!event.target || event.target.id !== id) return;
+          if (id === "mode") {
+            document.getElementById("sourceFilter").value = "";
+            renderStats(state.latestPayload || { total_items_raw: state.allItems.length });
+            renderSources(state.latestPayload || { site_stats: [] });
+          }
+          renderList();
         });
       });
       main().catch((error) => {
