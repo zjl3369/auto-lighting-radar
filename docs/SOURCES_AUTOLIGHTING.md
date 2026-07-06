@@ -13,6 +13,7 @@ login cookies, no private database.
 | Electrive | RSS | EV and supplier news; filtered by lighting and supplier keywords. |
 | 36Kr | RSS | Domestic smart-car and supplier news; filtered by Chinese keywords. |
 | InfoQ China | RSS | Domestic intelligent-vehicle technology context. |
+| 盖世汽车搜索 | HTML search page | Domestic automotive industry source for 车灯, 汽车照明, 矩阵大灯, 智能车灯, 尾灯, ADB. |
 | Google News: automotive lighting | RSS search | Broad English discovery for headlamp, ADB, vehicle lighting. |
 | Google News: 车灯/汽车照明 | RSS search | Broad Chinese discovery for 车灯, 汽车照明, 矩阵大灯, 智能车灯. |
 | Google News: 智能大灯技术 | RSS search | Tracks ADB, 像素大灯, DLP 大灯, 自适应远光. |
