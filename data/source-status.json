@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-06T12:39:56.394921Z",
+  "generated_at": "2026-07-06T13:05:06.647384Z",
   "sites": [
     {
       "site_id": "lighting_official",
       "site_name": "Official / Safety Sources",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 169749,
+      "item_count": 90,
+      "duration_ms": 17427,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Search / Topic Feeds",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 16014,
+      "duration_ms": 16023,
       "error": null
     }
   ],
@@ -24,9 +24,9 @@
     "lighting_search"
   ],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 10,
-  "items_before_topic_filter": 95,
-  "items_in_24h": 3,
+  "fetched_raw_items": 90,
+  "items_before_topic_filter": 139,
+  "items_in_24h": 12,
   "rss_opml": {
     "enabled": false,
     "path": null,
