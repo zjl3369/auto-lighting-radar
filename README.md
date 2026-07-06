@@ -30,7 +30,7 @@ No database is required. The GitHub Action writes JSON files into `data/`.
 
 ```bash
 python -m pip install -r requirements.txt
-python scripts/update_news.py --output-dir data --window-hours 168 --archive-days 21 --translate-max-new 0 --rss-opml feeds/follow.example.opml --rss-max-feeds 20
+python scripts/update_news.py --output-dir data --window-hours 4320 --archive-days 365 --translate-max-new 0 --rss-opml feeds/follow.example.opml --rss-max-feeds 20
 python -m http.server 8080
 ```
 
