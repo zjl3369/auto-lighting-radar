@@ -173,6 +173,51 @@ GOOGLE_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     },
 )
 
+BING_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
+    {
+        "title": "Bing News: 车灯/汽车照明",
+        "xml_url": "https://www.bing.com/news/search?q=%E8%BD%A6%E7%81%AF%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E8%BD%A6%E7%81%AF%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E",
+        "max_entries": 15,
+    },
+    {
+        "title": "Bing News: 智能车灯/矩阵大灯",
+        "xml_url": "https://www.bing.com/news/search?q=%E6%99%BA%E8%83%BD%E8%BD%A6%E7%81%AF%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20ADB%20OR%20%E5%83%8F%E7%B4%A0%E5%A4%A7%E7%81%AF&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E6%99%BA%E8%83%BD%E8%BD%A6%E7%81%AF%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20ADB%20OR%20%E5%83%8F%E7%B4%A0%E5%A4%A7%E7%81%AF",
+        "max_entries": 20,
+    },
+    {
+        "title": "Bing News: 尾灯/OLED/光导",
+        "xml_url": "https://www.bing.com/news/search?q=%E8%B4%AF%E7%A9%BF%E5%BC%8F%E5%B0%BE%E7%81%AF%20OR%20OLED%E5%B0%BE%E7%81%AF%20OR%20%E5%85%89%E5%AF%BC%E5%B0%BE%E7%81%AF%20OR%20%E6%B5%81%E6%B0%B4%E8%BD%AC%E5%90%91%E7%81%AF&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E8%B4%AF%E7%A9%BF%E5%BC%8F%E5%B0%BE%E7%81%AF%20OR%20OLED%E5%B0%BE%E7%81%AF%20OR%20%E5%85%89%E5%AF%BC%E5%B0%BE%E7%81%AF",
+        "max_entries": 15,
+    },
+    {
+        "title": "Bing News: 国内车灯供应商",
+        "xml_url": "https://www.bing.com/news/search?q=%E5%8D%8E%E5%9F%9F%E8%A7%86%E8%A7%89%20OR%20%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%20OR%20%E6%9B%BC%E5%BE%B7%E5%85%89%E7%94%B5%20OR%20%E5%B8%B8%E8%AF%9A%E8%BD%A6%E7%81%AF%20OR%20%E5%98%89%E5%88%A9%E8%82%A1%E4%BB%BD&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E5%8D%8E%E5%9F%9F%E8%A7%86%E8%A7%89%20OR%20%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%20OR%20%E6%9B%BC%E5%BE%B7%E5%85%89%E7%94%B5%20OR%20%E5%B8%B8%E8%AF%9A%E8%BD%A6%E7%81%AF",
+        "max_entries": 25,
+    },
+    {
+        "title": "Bing News: 盖世汽车车灯",
+        "xml_url": "https://www.bing.com/news/search?q=site%3Agasgoo.com%20%28%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E5%A4%A7%E7%81%AF%20OR%20%E5%B0%BE%E7%81%AF%29&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=site%3Agasgoo.com%20%E8%BD%A6%E7%81%AF",
+        "max_entries": 20,
+    },
+    {
+        "title": "Bing News: OFweek/高工LED车灯",
+        "xml_url": "https://www.bing.com/news/search?q=%28site%3Aofweek.com%20OR%20site%3Agaogong123.com%29%20%28%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E8%BD%A6%E8%A7%84LED%29&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=OFweek%20%E8%BD%A6%E7%81%AF%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E",
+        "max_entries": 20,
+    },
+    {
+        "title": "Bing News: 主机厂灯光配置",
+        "xml_url": "https://www.bing.com/news/search?q=%E5%A4%A7%E7%81%AF%20%28%E6%AF%94%E4%BA%9A%E8%BF%AA%20OR%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20OR%20%E9%97%AE%E7%95%8C%20OR%20%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%20OR%20%E8%94%9A%E6%9D%A5%20OR%20%E5%B0%8F%E9%B9%8F%20OR%20%E5%90%89%E5%88%A9%20OR%20%E5%A5%87%E7%91%9E%29&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E5%A4%A7%E7%81%AF%20%E6%AF%94%E4%BA%9A%E8%BF%AA%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E9%97%AE%E7%95%8C",
+        "max_entries": 20,
+    },
+)
+
 LIGHTING_PAGE_MONITORS: tuple[dict[str, str], ...] = (
     {
         "title": "FMVSS 108 Lamps and Reflective Devices",
@@ -184,6 +229,15 @@ LIGHTING_PAGE_MONITORS: tuple[dict[str, str], ...] = (
         "url": "https://www.iihs.org/ratings",
         "source": "IIHS Ratings",
     },
+)
+
+GASGOO_SEARCH_KEYWORDS: tuple[str, ...] = (
+    "车灯",
+    "汽车照明",
+    "矩阵大灯",
+    "智能车灯",
+    "尾灯",
+    "ADB",
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
@@ -400,6 +454,19 @@ def normalize_url(raw_url: str) -> str:
         return normalized.rstrip("/")
     except Exception:
         return raw_url.strip()
+
+
+def unwrap_bing_news_url(raw_url: str) -> str:
+    try:
+        parsed = urlparse(raw_url.strip())
+        if "bing.com" not in parsed.netloc.lower():
+            return raw_url.strip()
+        for key, value in parse_qsl(parsed.query, keep_blank_values=True):
+            if key.lower() == "url" and value.startswith(("http://", "https://")):
+                return value
+    except Exception:
+        pass
+    return raw_url.strip()
 
 
 def host_of_url(raw_url: str) -> str:
@@ -1772,6 +1839,74 @@ def fetch_lighting_page_monitors(session: requests.Session, now: datetime) -> li
     return out
 
 
+def fetch_gasgoo_search(session: requests.Session, now: datetime) -> list[RawItem]:
+    site_id = "lighting_media"
+    site_name = "Industry / News Search"
+    out: list[RawItem] = []
+    seen: set[str] = set()
+
+    for keyword in GASGOO_SEARCH_KEYWORDS:
+        search_url = f"https://auto.gasgoo.com/search.aspx?{urlencode({'keyword': keyword})}"
+        try:
+            resp = session.get(
+                search_url,
+                timeout=12,
+                headers={
+                    "User-Agent": BROWSER_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                },
+            )
+            resp.raise_for_status()
+        except Exception:
+            continue
+
+        resp.encoding = "utf-8"
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for link in soup.select('a[href*="/news/"]'):
+            href = str(link.get("href") or "").strip()
+            title = maybe_fix_mojibake(link.get_text(" ", strip=True))
+            if not href or not title:
+                continue
+            if href.endswith("#SOHUCS") or title in {"[详细]", "详细"}:
+                continue
+            if re.fullmatch(r"\d{1,2}:\d{2}", title):
+                continue
+
+            url = normalize_url(urljoin("https://auto.gasgoo.com/", href))
+            if url in seen:
+                continue
+            seen.add(url)
+
+            container = link
+            text_for_date = title
+            for _ in range(3):
+                if container.parent is None:
+                    break
+                container = container.parent
+                text_for_date = container.get_text(" ", strip=True)
+                if re.search(r"20\d{2}-\d{1,2}-\d{1,2}", text_for_date):
+                    break
+            date_match = re.search(r"20\d{2}-\d{1,2}-\d{1,2}(?:\s+\d{1,2}:\d{2}:\d{2})?", text_for_date)
+            published = parse_date_any(date_match.group(0), now) if date_match else None
+
+            out.append(
+                RawItem(
+                    site_id=site_id,
+                    site_name=site_name,
+                    source="盖世汽车",
+                    title=title,
+                    url=url,
+                    published_at=published,
+                    meta={"search_keyword": keyword, "feed_url": search_url},
+                )
+            )
+            if len(out) >= 80:
+                return out
+
+    return out
+
+
 def fetch_google_news_lighting(session: requests.Session, now: datetime) -> list[RawItem]:
     out: list[RawItem] = []
     for feed in GOOGLE_NEWS_RSS_FEEDS:
@@ -1795,6 +1930,33 @@ def fetch_google_news_lighting(session: requests.Session, now: datetime) -> list
     return out
 
 
+def fetch_bing_news_lighting(session: requests.Session, now: datetime) -> list[RawItem]:
+    out: list[RawItem] = []
+    for feed in BING_NEWS_RSS_FEEDS:
+        feed_with_site = dict(feed)
+        feed_with_site["site_id"] = "lighting_media"
+        feed_with_site["site_name"] = "Industry / News Search"
+        try:
+            resp = session.get(
+                str(feed_with_site["xml_url"]),
+                timeout=10,
+                headers={
+                    "User-Agent": BROWSER_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+                },
+            )
+            resp.raise_for_status()
+            items = parse_curated_ai_media_feed_items(resp.content, feed_with_site, now)
+            for item in items:
+                item.url = normalize_url(unwrap_bing_news_url(item.url))
+                item.meta["feed_provider"] = "bing_news"
+            out.extend(items)
+        except Exception:
+            continue
+    return out
+
+
 def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[RawItem]:
     out: list[RawItem] = []
 
@@ -1806,7 +1968,10 @@ def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[
 
     out.extend(fetch_koito_news(session, now))
     out.extend(fetch_lighting_page_monitors(session, now))
-    out.extend(fetch_google_news_lighting(session, now))
+    out.extend(fetch_gasgoo_search(session, now))
+    if os.getenv("ENABLE_NEWS_AGGREGATORS", "").strip().lower() in {"1", "true", "yes"}:
+        out.extend(fetch_bing_news_lighting(session, now))
+        out.extend(fetch_google_news_lighting(session, now))
 
     if not out:
         raise ValueError("No automotive lighting sources returned items")
