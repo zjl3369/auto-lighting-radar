@@ -229,7 +229,7 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     has_primary = bool(primary) or EN_PRIMARY_RE.search(text) is not None
     has_context = bool(tech or companies)
 
-    if site_id in {"lighting_regulatory", "lighting_official"}:
+    if site_id == "lighting_regulatory":
         score = prior + 0.34 + min(0.18, 0.04 * len(primary)) + min(0.12, 0.03 * len(tech + companies))
         if noise and not has_primary:
             score -= 0.18
@@ -239,6 +239,28 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             _label(text),
             "trusted_lighting_source",
             primary + tech + companies or [site_id],
+            noise,
+        )
+
+    if site_id == "lighting_official":
+        if not (has_primary or companies):
+            return _result(
+                False,
+                prior + min(0.20, 0.05 * len(tech)),
+                "not_lighting",
+                "trusted_source_without_lighting_signal",
+                primary + tech + companies,
+                noise,
+            )
+        score = prior + (0.36 if has_primary else 0.26) + min(0.18, 0.04 * len(primary)) + min(0.12, 0.03 * len(tech + companies))
+        if noise and not has_primary:
+            score -= 0.18
+        return _result(
+            score >= RELEVANCE_THRESHOLD,
+            score,
+            _label(text),
+            "trusted_source_with_lighting_signal",
+            primary + tech + companies,
             noise,
         )
 
