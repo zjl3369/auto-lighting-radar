@@ -5555,7 +5555,9 @@ def main() -> int:
         max_new_translations=0,
     )
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
-    latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
+    # Public "all mode" means all topic-related industry items, not every raw
+    # candidate. Keep rejected candidates only in source-status diagnostics.
+    latest_items_all_dedup = dedupe_items_by_title_url(latest_items, random_pick=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
@@ -5603,7 +5605,7 @@ def main() -> int:
         "window_hours": args.window_hours,
         "total_items": len(latest_items_ai_dedup),
         "total_items_ai_raw": len(latest_items),
-        "total_items_raw": len(latest_items_all),
+        "total_items_raw": len(latest_items),
         "total_items_all_mode": len(latest_items_all_dedup),
         "topic_filter": "ai_relevance_scoring_v0_4",
         "ai_relevance_threshold": 0.65,
@@ -5617,7 +5619,7 @@ def main() -> int:
         "creator_items_all": creator_items_all,
         "items": latest_items_ai_dedup,
         "items_ai": latest_items_ai_dedup,
-        "items_all_raw": latest_items_all,
+        "items_all_raw": latest_items,
         "items_all": latest_items_all_dedup,
     }
 
