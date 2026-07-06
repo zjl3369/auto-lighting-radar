@@ -94,25 +94,82 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
         "title": "Electrive",
         "xml_url": "https://www.electrive.com/feed/",
         "html_url": "https://www.electrive.com/",
-        "include_keywords": "headlight,headlamp,lighting,led,oled,laser,vehicle,car,automotive,supplier,valeo,hella,koito,marelli,zkw",
+        "include_keywords": "headlight,headlamp,lighting,matrix led,oled tail,laser headlight,adaptive driving beam,valeo,hella,koito,marelli,zkw",
+    },
+    {
+        "title": "36Kr",
+        "xml_url": "https://36kr.com/feed",
+        "html_url": "https://36kr.com/",
+        "include_keywords": "车灯,大灯,尾灯,汽车照明,智能驾驶,自动驾驶,新能源汽车,座舱,激光雷达,LED",
+    },
+    {
+        "title": "InfoQ China",
+        "xml_url": "https://www.infoq.cn/feed",
+        "html_url": "https://www.infoq.cn/",
+        "include_keywords": "车灯,汽车照明,智能汽车,自动驾驶,智能驾驶,新能源汽车,视觉,传感器",
     },
 )
 
-GOOGLE_NEWS_RSS_FEEDS: tuple[dict[str, str], ...] = (
+GOOGLE_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     {
         "title": "Google News: automotive lighting",
         "xml_url": "https://news.google.com/rss/search?q=%22automotive%20lighting%22%20OR%20headlamp%20OR%20%22adaptive%20driving%20beam%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
         "html_url": "https://news.google.com/search?q=%22automotive%20lighting%22%20OR%20headlamp%20OR%20%22adaptive%20driving%20beam%22",
+        "max_entries": 25,
     },
     {
         "title": "Google News: 车灯/汽车照明",
         "xml_url": "https://news.google.com/rss/search?q=%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20%E6%99%BA%E8%83%BD%E8%BD%A6%E7%81%AF%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "html_url": "https://news.google.com/search?q=%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF",
+        "max_entries": 30,
+    },
+    {
+        "title": "Google News: 智能大灯技术",
+        "xml_url": "https://news.google.com/rss/search?q=%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20ADB%20OR%20%E5%83%8F%E7%B4%A0%E5%A4%A7%E7%81%AF%20OR%20DLP%E5%A4%A7%E7%81%AF%20OR%20%E8%87%AA%E9%80%82%E5%BA%94%E8%BF%9C%E5%85%89%20when%3A14d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E7%9F%A9%E9%98%B5%E5%A4%A7%E7%81%AF%20OR%20ADB%20OR%20%E5%83%8F%E7%B4%A0%E5%A4%A7%E7%81%AF%20OR%20DLP%E5%A4%A7%E7%81%AF",
+        "max_entries": 30,
+    },
+    {
+        "title": "Google News: 尾灯/贯穿式/OLED",
+        "xml_url": "https://news.google.com/rss/search?q=%E8%B4%AF%E7%A9%BF%E5%BC%8F%E5%B0%BE%E7%81%AF%20OR%20OLED%E5%B0%BE%E7%81%AF%20OR%20%E5%85%89%E5%AF%BC%E5%B0%BE%E7%81%AF%20OR%20%E6%B5%81%E6%B0%B4%E8%BD%AC%E5%90%91%E7%81%AF%20when%3A14d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E8%B4%AF%E7%A9%BF%E5%BC%8F%E5%B0%BE%E7%81%AF%20OR%20OLED%E5%B0%BE%E7%81%AF%20OR%20%E5%85%89%E5%AF%BC%E5%B0%BE%E7%81%AF",
+        "max_entries": 25,
+    },
+    {
+        "title": "Google News: 车灯法规/召回",
+        "xml_url": "https://news.google.com/rss/search?q=%E8%BD%A6%E7%81%AF%20%E5%8F%AC%E5%9B%9E%20OR%20%E5%A4%A7%E7%81%AF%20%E5%8F%AC%E5%9B%9E%20OR%20GB%204785%20OR%20GB%204599%20OR%20FMVSS%20108%20OR%20ECE%20R149%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E8%BD%A6%E7%81%AF%20%E5%8F%AC%E5%9B%9E%20OR%20%E5%A4%A7%E7%81%AF%20%E5%8F%AC%E5%9B%9E%20OR%20GB%204785",
+        "max_entries": 25,
+    },
+    {
+        "title": "Google News: 国内车灯供应商",
+        "xml_url": "https://news.google.com/rss/search?q=%E5%8D%8E%E5%9F%9F%E8%A7%86%E8%A7%89%20OR%20%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%20OR%20%E6%9B%BC%E5%BE%B7%E5%85%89%E7%94%B5%20OR%20%E5%B8%B8%E8%AF%9A%E8%BD%A6%E7%81%AF%20OR%20%E5%98%89%E5%88%A9%E8%82%A1%E4%BB%BD%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E5%8D%8E%E5%9F%9F%E8%A7%86%E8%A7%89%20OR%20%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%20OR%20%E6%9B%BC%E5%BE%B7%E5%85%89%E7%94%B5%20OR%20%E5%B8%B8%E8%AF%9A%E8%BD%A6%E7%81%AF",
+        "max_entries": 35,
+    },
+    {
+        "title": "Google News: 国际车灯供应商中文",
+        "xml_url": "https://news.google.com/rss/search?q=%E6%B3%95%E9%9B%B7%E5%A5%A5%20%E8%BD%A6%E7%81%AF%20OR%20%E6%B5%B7%E6%8B%89%20%E8%BD%A6%E7%81%AF%20OR%20%E5%B0%8F%E7%B3%B8%20%E8%BD%A6%E7%81%AF%20OR%20%E9%A9%AC%E7%91%9E%E5%88%A9%20%E8%BD%A6%E7%81%AF%20OR%20ZKW%20%E8%BD%A6%E7%81%AF%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E6%B3%95%E9%9B%B7%E5%A5%A5%20%E8%BD%A6%E7%81%AF%20OR%20%E6%B5%B7%E6%8B%89%20%E8%BD%A6%E7%81%AF%20OR%20%E5%B0%8F%E7%B3%B8%20%E8%BD%A6%E7%81%AF",
+        "max_entries": 25,
+    },
+    {
+        "title": "Google News: 主机厂灯光配置",
+        "xml_url": "https://news.google.com/rss/search?q=%E5%A4%A7%E7%81%AF%20%28%E6%AF%94%E4%BA%9A%E8%BF%AA%20OR%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20OR%20%E9%97%AE%E7%95%8C%20OR%20%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%20OR%20%E8%94%9A%E6%9D%A5%20OR%20%E5%B0%8F%E9%B9%8F%20OR%20%E5%90%89%E5%88%A9%20OR%20%E5%A5%87%E7%91%9E%29%20when%3A14d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E5%A4%A7%E7%81%AF%20%28%E6%AF%94%E4%BA%9A%E8%BF%AA%20OR%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20OR%20%E9%97%AE%E7%95%8C%20OR%20%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%20OR%20%E8%94%9A%E6%9D%A5%20OR%20%E5%B0%8F%E9%B9%8F%29",
+        "max_entries": 35,
+    },
+    {
+        "title": "Google News: LED/光学产业链",
+        "xml_url": "https://news.google.com/rss/search?q=%E8%BD%A6%E8%A7%84LED%20OR%20%E6%B1%BD%E8%BD%A6LED%20OR%20%E8%BD%A6%E7%94%A8OLED%20OR%20%E8%BD%A6%E7%81%AF%E9%80%8F%E9%95%9C%20OR%20%E5%85%89%E5%AF%BC%20%E8%BD%A6%E7%81%AF%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E8%BD%A6%E8%A7%84LED%20OR%20%E6%B1%BD%E8%BD%A6LED%20OR%20%E8%BD%A6%E7%94%A8OLED%20OR%20%E8%BD%A6%E7%81%AF%E9%80%8F%E9%95%9C",
+        "max_entries": 30,
     },
     {
         "title": "Google News: supplier lighting",
         "xml_url": "https://news.google.com/rss/search?q=Valeo%20OR%20HELLA%20OR%20Koito%20OR%20Marelli%20%22lighting%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
         "html_url": "https://news.google.com/search?q=Valeo%20OR%20HELLA%20OR%20Koito%20OR%20Marelli%20%22lighting%22",
+        "max_entries": 25,
     },
 )
 
