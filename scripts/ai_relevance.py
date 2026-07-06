@@ -150,6 +150,32 @@ NOISE_KEYWORDS = [
     "足球",
     "明星",
     "娱乐",
+    "改装",
+    "翻新",
+    "升级机构",
+    "哪家强",
+    "实力解析",
+    "甄选",
+    "焕新",
+]
+
+CORPORATE_NOISE_KEYWORDS = [
+    "ordinary general meeting",
+    "shareholders",
+    "treasury shares",
+    "own shares",
+    "accounting auditor",
+    "human rights policy",
+    "restricted stock",
+    "remuneration plan",
+    "股东",
+    "回购",
+    "审计",
+    "会计师",
+    "库存股",
+    "限制性股票",
+    "薪酬",
+    "人权政策",
 ]
 
 EN_PRIMARY_RE = re.compile(
@@ -173,10 +199,11 @@ def _text(record: dict[str, Any]) -> str:
         host = urlparse(url).netloc.lower()
     except Exception:
         host = ""
-    return " ".join(
-        str(record.get(k) or "")
-        for k in ("title", "source", "site_name")
-    ).lower() + " " + host
+    if str(record.get("site_id") or "") in {"lighting_media", "lighting_search", "opmlrss"}:
+        fields = ("title",)
+    else:
+        fields = ("title", "source", "site_name")
+    return " ".join(str(record.get(k) or "") for k in fields).lower() + " " + host
 
 
 def _matched(haystack: str, keywords: list[str]) -> list[str]:
@@ -224,10 +251,32 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     tech = _matched(text, TECH_KEYWORDS)
     companies = _matched(text, COMPANY_KEYWORDS)
     noise = _matched(text, NOISE_KEYWORDS)
+    corporate_noise = _matched(text, CORPORATE_NOISE_KEYWORDS)
     prior = SOURCE_PRIORS.get(site_id, 0.0)
 
     has_primary = bool(primary) or EN_PRIMARY_RE.search(text) is not None
     has_context = bool(tech or companies)
+    ad_like = any(k in text for k in ["改装", "翻新", "升级机构", "哪家强", "实力解析", "甄选", "焕新"])
+
+    if corporate_noise and not (has_primary or tech):
+        return _result(
+            False,
+            max(0.0, prior + 0.12),
+            "not_lighting",
+            "corporate_governance_without_lighting_signal",
+            primary + tech + companies,
+            noise + corporate_noise,
+        )
+
+    if ad_like and not companies:
+        return _result(
+            False,
+            max(0.0, prior + 0.16),
+            "not_lighting",
+            "aftermarket_ad_or_local_service",
+            primary + tech + companies,
+            noise,
+        )
 
     if site_id == "lighting_regulatory":
         score = prior + 0.34 + min(0.18, 0.04 * len(primary)) + min(0.12, 0.03 * len(tech + companies))
@@ -275,8 +324,8 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
         )
 
     score = prior + (0.48 if has_primary else 0.30) + min(0.18, 0.04 * len(primary)) + min(0.12, 0.025 * len(tech + companies))
-    if noise and not has_primary:
-        score -= min(0.20, 0.05 * len(noise))
+    if noise:
+        score -= min(0.24, 0.06 * len(noise))
 
     return _result(
         score >= RELEVANCE_THRESHOLD,
