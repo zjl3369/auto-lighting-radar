@@ -96,7 +96,7 @@
       <section class="toolbar">
         <input id="search" type="search" placeholder="Search: headlamp, ADB, 车灯, Valeo..." />
         <select id="mode">
-          <option value="all">All pool</option>
+          <option value="all">Industry pool</option>
           <option value="signals">Relevant signals</option>
         </select>
         <select id="sourceFilter"><option value="">All sources</option></select>
@@ -133,7 +133,7 @@
         const stats = [
           ["Shown", state.items.length],
           ["Signals", state.signals.length],
-          ["Raw pool", payload.total_items_raw || state.allItems.length || 0],
+          ["Industry pool", payload.total_items_raw || state.allItems.length || 0],
           ["Sources", payload.source_count || sourceCount],
           ["Archive", payload.archive_total || 0],
         ];
