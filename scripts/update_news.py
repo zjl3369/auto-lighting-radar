@@ -12,6 +12,7 @@ import math
 import os
 import random
 import re
+import subprocess
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -173,6 +174,46 @@ GOOGLE_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     },
 )
 
+GOOGLE_NEWS_RSS_FEEDS = tuple(
+    {
+        **feed,
+        "xml_url": str(feed["xml_url"]).replace("when%3A7d", "when%3A30d").replace("when%3A14d", "when%3A30d"),
+        "max_entries": max(45, int(feed.get("max_entries") or 0)),
+    }
+    for feed in GOOGLE_NEWS_RSS_FEEDS
+) + (
+    {
+        "title": "Google News: 车型灯组/灯光配置",
+        "xml_url": "https://news.google.com/rss/search?q=%E6%B1%BD%E8%BD%A6%20%28%E5%A4%A7%E7%81%AF%20OR%20%E5%B0%BE%E7%81%AF%20OR%20%E7%81%AF%E7%BB%84%20OR%20%E7%81%AF%E5%85%89%20OR%20%E6%B0%9B%E5%9B%B4%E7%81%AF%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E6%B1%BD%E8%BD%A6%20%E5%A4%A7%E7%81%AF%20%E5%B0%BE%E7%81%AF%20%E7%81%AF%E7%BB%84",
+        "max_entries": 60,
+    },
+    {
+        "title": "Google News: 智能座舱/氛围灯",
+        "xml_url": "https://news.google.com/rss/search?q=%E6%B0%9B%E5%9B%B4%E7%81%AF%20OR%20%E5%BA%A7%E8%88%B1%E7%81%AF%20OR%20%28%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%20%E7%81%AF%E5%85%89%29%20OR%20%28%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%20%E6%98%BE%E7%A4%BA%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E6%B0%9B%E5%9B%B4%E7%81%AF%20%E5%BA%A7%E8%88%B1%E7%81%AF%20%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%20%E7%81%AF%E5%85%89",
+        "max_entries": 60,
+    },
+    {
+        "title": "Google News: 车规LED/显示/光学",
+        "xml_url": "https://news.google.com/rss/search?q=%E8%BD%A6%E8%A7%84LED%20OR%20%E8%BD%A6%E7%94%A8LED%20OR%20%E6%B1%BD%E8%BD%A6LED%20OR%20%28%E6%B1%BD%E8%BD%A6%20Micro%20LED%29%20OR%20%28%E6%B1%BD%E8%BD%A6%20%E5%85%89%E5%AD%A6%29%20OR%20%28%E8%BD%A6%E8%BD%BD%E6%98%BE%E7%A4%BA%20LED%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=%E8%BD%A6%E8%A7%84LED%20%E8%BD%A6%E7%94%A8LED%20%E6%B1%BD%E8%BD%A6%20%E5%85%89%E5%AD%A6",
+        "max_entries": 60,
+    },
+    {
+        "title": "Google News: 站点限定-汽车媒体",
+        "xml_url": "https://news.google.com/rss/search?q=%28site%3Aautohome.com.cn%20OR%20site%3Ayiche.com%20OR%20site%3Apcauto.com.cn%20OR%20site%3Adongchedi.com%29%20%28%E5%A4%A7%E7%81%AF%20OR%20%E5%B0%BE%E7%81%AF%20OR%20%E7%81%AF%E7%BB%84%20OR%20%E6%B0%9B%E5%9B%B4%E7%81%AF%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=site%3Aautohome.com.cn%20%E5%A4%A7%E7%81%AF%20OR%20%E5%B0%BE%E7%81%AF",
+        "max_entries": 60,
+    },
+    {
+        "title": "Google News: 站点限定-LED/产业链",
+        "xml_url": "https://news.google.com/rss/search?q=%28site%3Aofweek.com%20OR%20site%3Aledinside.cn%20OR%20site%3Atrendforce.cn%20OR%20site%3Ahangjianet.com%29%20%28%E8%BD%A6%E7%81%AF%20OR%20%E6%B1%BD%E8%BD%A6%E7%85%A7%E6%98%8E%20OR%20%E8%BD%A6%E8%A7%84LED%20OR%20%E6%B1%BD%E8%BD%A6LED%20OR%20%E5%85%89%E5%AD%A6%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "html_url": "https://news.google.com/search?q=site%3Aofweek.com%20%E8%BD%A6%E7%81%AF%20%E8%BD%A6%E8%A7%84LED",
+        "max_entries": 60,
+    },
+)
+
 BING_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     {
         "title": "Bing News: 车灯/汽车照明",
@@ -218,6 +259,24 @@ BING_NEWS_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     },
 )
 
+BING_NEWS_RSS_FEEDS = tuple(
+    {**feed, "max_entries": max(35, int(feed.get("max_entries") or 0))}
+    for feed in BING_NEWS_RSS_FEEDS
+) + (
+    {
+        "title": "Bing News: 汽车灯光配置",
+        "xml_url": "https://www.bing.com/news/search?q=%E6%B1%BD%E8%BD%A6%20%E5%A4%A7%E7%81%AF%20%E5%B0%BE%E7%81%AF%20%E7%81%AF%E7%BB%84%20%E6%B0%9B%E5%9B%B4%E7%81%AF&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E6%B1%BD%E8%BD%A6%20%E5%A4%A7%E7%81%AF%20%E5%B0%BE%E7%81%AF%20%E7%81%AF%E7%BB%84%20%E6%B0%9B%E5%9B%B4%E7%81%AF",
+        "max_entries": 45,
+    },
+    {
+        "title": "Bing News: 车规LED/光学",
+        "xml_url": "https://www.bing.com/news/search?q=%E8%BD%A6%E8%A7%84LED%20%E6%B1%BD%E8%BD%A6LED%20%E8%BD%A6%E7%94%A8LED%20%E6%B1%BD%E8%BD%A6%20%E5%85%89%E5%AD%A6%20%E6%98%BE%E7%A4%BA&format=rss",
+        "html_url": "https://www.bing.com/news/search?q=%E8%BD%A6%E8%A7%84LED%20%E6%B1%BD%E8%BD%A6LED%20%E6%B1%BD%E8%BD%A6%20%E5%85%89%E5%AD%A6",
+        "max_entries": 45,
+    },
+)
+
 LIGHTING_PAGE_MONITORS: tuple[dict[str, str], ...] = (
     {
         "title": "FMVSS 108 Lamps and Reflective Devices",
@@ -238,6 +297,12 @@ GASGOO_SEARCH_KEYWORDS: tuple[str, ...] = (
     "智能车灯",
     "尾灯",
     "ADB",
+    "大灯",
+    "灯组",
+    "氛围灯",
+    "车规LED",
+    "汽车LED",
+    "智能座舱 灯光",
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
@@ -1696,6 +1761,54 @@ def curated_feed_entry_allowed(feed: dict[str, Any], title: str, link: str) -> b
     return any(keyword in haystack for keyword in include_keywords)
 
 
+def looks_like_feed_content(content: bytes) -> bool:
+    head = content[:2048].lstrip(b"\xef\xbb\xbf\r\n\t ")
+    head_lower = head.lower()
+    return b"<rss" in head_lower or b"<feed" in head_lower or b"<?xml" in head_lower
+
+
+def fetch_feed_content(session: requests.Session, url: str, timeout: int = 10, allow_windows_fallback: bool = True) -> bytes:
+    headers = {
+        "User-Agent": BROWSER_UA,
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    }
+    try:
+        resp = session.get(url, timeout=timeout, headers=headers)
+        resp.raise_for_status()
+        if looks_like_feed_content(resp.content):
+            return resp.content
+    except Exception:
+        pass
+
+    if os.name != "nt" or not allow_windows_fallback:
+        return b""
+
+    ps_script = (
+        "$ProgressPreference='SilentlyContinue';"
+        "[Console]::OutputEncoding=[System.Text.Encoding]::UTF8;"
+        "$headers=@{'User-Agent'='Mozilla/5.0';"
+        "'Accept'='application/rss+xml, application/atom+xml, application/xml, text/xml, */*';"
+        "'Accept-Language'='zh-CN,zh;q=0.9,en;q=0.8'};"
+        "$r=Invoke-WebRequest -UseBasicParsing -Uri $env:LIGHTING_RSS_URL -TimeoutSec 12 -Headers $headers;"
+        "$r.Content"
+    )
+    env = dict(os.environ)
+    env["LIGHTING_RSS_URL"] = url
+    try:
+        proc = subprocess.run(
+            ["powershell", "-NoProfile", "-Command", ps_script],
+            capture_output=True,
+            timeout=timeout + 8,
+            check=False,
+            env=env,
+        )
+    except Exception:
+        return b""
+    content = proc.stdout or b""
+    return content if proc.returncode == 0 and looks_like_feed_content(content) else b""
+
+
 def parse_curated_ai_media_feed_items(
     feed_content: bytes,
     feed: dict[str, Any],
@@ -1908,52 +2021,49 @@ def fetch_gasgoo_search(session: requests.Session, now: datetime) -> list[RawIte
 
 
 def fetch_google_news_lighting(session: requests.Session, now: datetime) -> list[RawItem]:
-    out: list[RawItem] = []
-    for feed in GOOGLE_NEWS_RSS_FEEDS:
+    def fetch_one(feed: dict[str, Any]) -> list[RawItem]:
         feed_with_site = dict(feed)
         feed_with_site["site_id"] = "lighting_media"
         feed_with_site["site_name"] = "Industry / News Search"
         try:
-            resp = session.get(
-                str(feed_with_site["xml_url"]),
-                timeout=8,
-                headers={
-                    "User-Agent": BROWSER_UA,
-                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-                },
-            )
-            resp.raise_for_status()
-            out.extend(parse_curated_ai_media_feed_items(resp.content, feed_with_site, now))
+            content = fetch_feed_content(create_session(), str(feed_with_site["xml_url"]), timeout=4, allow_windows_fallback=True)
+            if content:
+                return parse_curated_ai_media_feed_items(content, feed_with_site, now)
         except Exception:
-            continue
+            return []
+        return []
+
+    out: list[RawItem] = []
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = [pool.submit(fetch_one, feed) for feed in GOOGLE_NEWS_RSS_FEEDS]
+        for future in as_completed(futures):
+            out.extend(future.result())
     return out
 
 
 def fetch_bing_news_lighting(session: requests.Session, now: datetime) -> list[RawItem]:
-    out: list[RawItem] = []
-    for feed in BING_NEWS_RSS_FEEDS:
+    def fetch_one(feed: dict[str, Any]) -> list[RawItem]:
         feed_with_site = dict(feed)
         feed_with_site["site_id"] = "lighting_media"
         feed_with_site["site_name"] = "Industry / News Search"
         try:
-            resp = session.get(
-                str(feed_with_site["xml_url"]),
-                timeout=10,
-                headers={
-                    "User-Agent": BROWSER_UA,
-                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-                },
-            )
-            resp.raise_for_status()
-            items = parse_curated_ai_media_feed_items(resp.content, feed_with_site, now)
+            content = fetch_feed_content(create_session(), str(feed_with_site["xml_url"]), timeout=4, allow_windows_fallback=False)
+            if not content:
+                return []
+            items = parse_curated_ai_media_feed_items(content, feed_with_site, now)
             for item in items:
                 item.url = normalize_url(unwrap_bing_news_url(item.url))
                 item.meta["feed_provider"] = "bing_news"
-            out.extend(items)
+            return items
         except Exception:
-            continue
+            return []
+        return []
+
+    out: list[RawItem] = []
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = [pool.submit(fetch_one, feed) for feed in BING_NEWS_RSS_FEEDS]
+        for future in as_completed(futures):
+            out.extend(future.result())
     return out
 
 
@@ -1969,7 +2079,7 @@ def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[
     out.extend(fetch_koito_news(session, now))
     out.extend(fetch_lighting_page_monitors(session, now))
     out.extend(fetch_gasgoo_search(session, now))
-    if os.getenv("ENABLE_NEWS_AGGREGATORS", "").strip().lower() in {"1", "true", "yes"}:
+    if os.getenv("DISABLE_NEWS_AGGREGATORS", "").strip().lower() not in {"1", "true", "yes"}:
         out.extend(fetch_bing_news_lighting(session, now))
         out.extend(fetch_google_news_lighting(session, now))
 
@@ -4893,6 +5003,8 @@ def dedupe_items_by_title_url(items: list[dict[str, Any]], random_pick: bool = T
         url = normalize_url(str(item.get("url") or ""))
         if site_id == "aihubtoday":
             key = f"url::{url}"
+        elif site_id in {"lighting_media", "lighting_search", "opmlrss"} and title:
+            key = f"title::{title}"
         else:
             key = f"{title}||{url}"
         groups.setdefault(key, []).append(item)
@@ -5476,6 +5588,15 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
         "ai_relevance_threshold": latest_payload.get("ai_relevance_threshold"),
         "total_items_raw": latest_payload.get("total_items_raw"),
         "total_items_all_mode": latest_payload.get("total_items_all_mode"),
+        "archive_total": latest_payload.get("archive_total"),
+        "source_count": latest_payload.get("source_count"),
+        "site_count": latest_payload.get("site_count"),
+        "site_stats": latest_payload.get("site_stats", []),
+        "tier_counts": latest_payload.get("tier_counts", {}),
+        "core_count": latest_payload.get("core_count"),
+        "adjacent_count": latest_payload.get("adjacent_count"),
+        "broad_count": latest_payload.get("broad_count"),
+        "rejected_count": latest_payload.get("rejected_count"),
         "items_all": latest_payload.get("items_all", []),
         "items_all_raw": latest_payload.get("items_all_raw", []),
     }
@@ -5486,11 +5607,36 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
     return slim_payload, all_payload
 
 
+PUBLIC_LIGHTING_TIERS = {"core", "adjacent", "broad"}
+
+
+def lighting_tier(record: dict[str, Any]) -> str:
+    tier = str(record.get("lighting_relevance_tier") or "").strip().lower()
+    if tier in PUBLIC_LIGHTING_TIERS:
+        return tier
+    return "rejected"
+
+
+def tier_count_payload(items: list[dict[str, Any]], rejected_count: int = 0) -> dict[str, int]:
+    counts = {"core_count": 0, "adjacent_count": 0, "broad_count": 0, "rejected_count": rejected_count}
+    for item in items:
+        tier = lighting_tier(item)
+        if tier == "core":
+            counts["core_count"] += 1
+        elif tier == "adjacent":
+            counts["adjacent_count"] += 1
+        elif tier == "broad":
+            counts["broad_count"] += 1
+        else:
+            counts["rejected_count"] += 1
+    return counts
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Aggregate AI news updates from multiple sources")
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
-    parser.add_argument("--window-hours", type=int, default=24, help="24h window size")
-    parser.add_argument("--archive-days", type=int, default=21, help="Keep archive for N days")
+    parser.add_argument("--window-hours", type=int, default=720, help="Rolling window size in hours")
+    parser.add_argument("--archive-days", type=int, default=180, help="Keep archive for N days")
     parser.add_argument("--translate-max-new", type=int, default=80, help="Max new EN->ZH title translations per run")
     parser.add_argument("--rss-opml", default="", help="Optional OPML file path to include RSS sources")
     parser.add_argument("--rss-max-feeds", type=int, default=0, help="Optional max OPML RSS feeds to fetch (0 means all)")
@@ -5701,11 +5847,16 @@ def main() -> int:
     latest_items_all = normalize_aihubtoday_records(latest_items_all)
 
     latest_items_all.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
-    latest_items = [record for record in latest_items_all if record.get("ai_is_related", is_ai_related_record(record))]
+    public_items = [
+        record
+        for record in latest_items_all
+        if record.get("ai_is_related", is_ai_related_record(record)) and lighting_tier(record) in PUBLIC_LIGHTING_TIERS
+    ]
+    latest_items = [record for record in public_items if lighting_tier(record) == "core"]
     title_cache = load_title_zh_cache(title_cache_path)
-    latest_items, latest_items_all, title_cache = add_bilingual_fields(
+    latest_items, public_items, title_cache = add_bilingual_fields(
         latest_items,
-        latest_items_all,
+        public_items,
         session,
         title_cache,
         max_new_translations=max(0, args.translate_max_new),
@@ -5720,9 +5871,7 @@ def main() -> int:
         max_new_translations=0,
     )
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
-    # Public "all mode" means all topic-related industry items, not every raw
-    # candidate. Keep rejected candidates only in source-status diagnostics.
-    latest_items_all_dedup = dedupe_items_by_title_url(latest_items, random_pick=True)
+    latest_items_all_dedup = dedupe_items_by_title_url(public_items, random_pick=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
@@ -5744,7 +5893,7 @@ def main() -> int:
         if sid not in site_name_by_id:
             site_name_by_id[sid] = s.get("site_name") or sid
 
-    for record in latest_items_ai_dedup:
+    for record in latest_items_all_dedup:
         sid = record["site_id"]
         if sid not in site_stat:
             site_stat[sid] = {
@@ -5752,7 +5901,7 @@ def main() -> int:
                 "site_name": record["site_name"],
                 "count": 0,
                 "raw_count": raw_count_by_site.get(sid, 0),
-            }
+        }
         site_stat[sid]["count"] += 1
 
     for sid, site_name in site_name_by_id.items():
@@ -5765,18 +5914,23 @@ def main() -> int:
             "raw_count": raw_count_by_site.get(sid, 0),
         }
 
+    rejected_count = max(0, len(latest_items_all) - len(public_items))
+    tier_counts = tier_count_payload(latest_items_all_dedup, rejected_count=rejected_count)
+
     latest_payload = {
         "generated_at": generated_at,
         "window_hours": args.window_hours,
         "total_items": len(latest_items_ai_dedup),
         "total_items_ai_raw": len(latest_items),
-        "total_items_raw": len(latest_items),
+        "total_items_raw": len(public_items),
         "total_items_all_mode": len(latest_items_all_dedup),
-        "topic_filter": "ai_relevance_scoring_v0_4",
-        "ai_relevance_threshold": 0.65,
+        "topic_filter": "lighting_relevance_tiers_v1",
+        "ai_relevance_threshold": 0.25,
+        "tier_counts": tier_counts,
+        **tier_counts,
         "archive_total": len(archive),
         "site_count": len(site_stat),
-        "source_count": len({f"{i['site_id']}::{i['source']}" for i in latest_items_ai_dedup}),
+        "source_count": len({f"{i['site_id']}::{i['source']}" for i in latest_items_all_dedup}),
         "site_stats": sorted(site_stat.values(), key=lambda x: x["count"], reverse=True),
         "creator_window_days": CREATOR_HOT_WINDOW_DAYS,
         "creator_ranking": "engagement_85_fresh_24h_bonus_15_v1",
@@ -5784,7 +5938,7 @@ def main() -> int:
         "creator_items_all": creator_items_all,
         "items": latest_items_ai_dedup,
         "items_ai": latest_items_ai_dedup,
-        "items_all_raw": latest_items,
+        "items_all_raw": public_items,
         "items_all": latest_items_all_dedup,
     }
 
@@ -5829,6 +5983,9 @@ def main() -> int:
         "fetched_raw_items": len(raw_items),
         "items_before_topic_filter": len(latest_items_all),
         "items_in_24h": len(latest_items_ai_dedup),
+        "items_in_window": len(latest_items_all_dedup),
+        "tier_counts": tier_counts,
+        **tier_counts,
         "rss_opml": {
             "enabled": bool(args.rss_opml),
             "path": "configured" if args.rss_opml else None,
