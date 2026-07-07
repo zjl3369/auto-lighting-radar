@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Auto Lighting Radar | 180-day Automotive Lighting Watch</title>
+    <title>Auto Lighting Radar | 30-day Automotive Lighting Intelligence</title>
     <meta
       name="description"
       content="Free automotive lighting news radar for headlamps, tail lamps, ADB, regulations, supplier news and recalls."
@@ -83,10 +83,10 @@
             <a href="https://github.com/zjl3369/auto-lighting-radar">GitHub</a>
           </nav>
         </div>
-        <h1>180-day vehicle lighting watch</h1>
+        <h1>30-day vehicle lighting intelligence</h1>
         <p class="lede">
-          Free rolling radar for headlamps, tail lamps, ADB, matrix LED, DLP, regulations,
-          safety ratings, recalls and supplier news. Built from RSS, public JSON and
+          Free rolling radar for headlamps, tail lamps, ADB, matrix LED, DLP, cabin lighting,
+          LED optics, OEM lighting features, regulations, recalls and supplier news. Built from RSS, public JSON and
           static-page monitors. No paid API required.
         </p>
       </header>
@@ -96,8 +96,10 @@
       <section class="toolbar">
         <input id="search" type="search" placeholder="Search: headlamp, ADB, 车灯, Valeo..." />
         <select id="mode">
-          <option value="all">Industry pool</option>
-          <option value="signals">Relevant signals</option>
+          <option value="all">All intelligence</option>
+          <option value="core">Core lighting</option>
+          <option value="adjacent">Adjacent</option>
+          <option value="broad">Broad</option>
         </select>
         <select id="sourceFilter"><option value="">All sources</option></select>
         <select id="sort">
@@ -126,16 +128,18 @@
       const fmtDate = (v) => v ? new Date(v).toLocaleString("zh-CN", { hour12: false }) : "first seen";
       const score = (item) => Math.round(Number(item.ai_score || 0) * 100);
       const sourceName = (item) => item.source || item.site_name || item.site_id || "source";
+      const tierName = (item) => ({ core: "Core", adjacent: "Adjacent", broad: "Broad" }[item.lighting_relevance_tier] || "Signal");
 
       function renderStats(payload) {
         chooseItems();
         const sourceCount = new Set(state.items.map(sourceName).filter(Boolean)).size;
+        const tierCounts = payload.tier_counts || {};
         const stats = [
           ["Shown", state.items.length],
-          ["Signals", state.signals.length],
-          ["Industry pool", payload.total_items_raw || state.allItems.length || 0],
+          ["Core", payload.core_count ?? tierCounts.core_count ?? state.signals.length],
+          ["Adjacent", payload.adjacent_count ?? tierCounts.adjacent_count ?? 0],
+          ["Broad", payload.broad_count ?? tierCounts.broad_count ?? 0],
           ["Sources", payload.source_count || sourceCount],
-          ["Archive", payload.archive_total || 0],
         ];
         document.getElementById("stats").innerHTML = stats.map(([k, v]) => `
           <div class="stat"><b>${v}</b><span>${k}</span></div>
@@ -159,7 +163,9 @@
 
       function chooseItems() {
         const mode = document.getElementById("mode").value;
-        state.items = mode === "signals" ? state.signals : state.allItems;
+        state.items = mode === "all"
+          ? state.allItems
+          : state.allItems.filter((item) => item.lighting_relevance_tier === mode);
       }
 
       function renderList() {
@@ -170,6 +176,7 @@
           <article class="card">
             <div class="meta">
               <span class="tag score">${score(item)} relevance</span>
+              <span class="tag">${tierName(item)}</span>
               <span class="tag">${item.ai_label || "lighting"}</span>
               <span>${fmtDate(item.published_at || item.first_seen_at)}</span>
             </div>
