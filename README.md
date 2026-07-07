@@ -3,7 +3,7 @@
 Automotive lighting news radar based on the static pipeline from
 `LearnPrompt/ai-news-radar`.
 
-It tracks vehicle lighting topics with zero paid API budget:
+It tracks a rolling 30-day vehicle lighting intelligence pool with zero paid API budget:
 
 - headlamps / headlights
 - tail lamps and signal lamps
@@ -11,7 +11,7 @@ It tracks vehicle lighting topics with zero paid API budget:
 - FMVSS 108 / ECE / GB regulation watch
 - IIHS safety and headlight ratings
 - supplier news from Valeo, KOITO and free news feeds
-- Google News RSS keyword feeds for English and Chinese industry coverage
+- Google/Bing News RSS keyword feeds for Chinese automotive, LED, optics and supplier coverage
 
 ## How it works
 
@@ -30,7 +30,7 @@ No database is required. The GitHub Action writes JSON files into `data/`.
 
 ```bash
 python -m pip install -r requirements.txt
-python scripts/update_news.py --output-dir data --window-hours 4320 --archive-days 365 --translate-max-new 0 --rss-opml feeds/follow.example.opml --rss-max-feeds 20
+python scripts/update_news.py --output-dir data --window-hours 720 --archive-days 180 --translate-max-new 0 --rss-opml feeds/follow.example.opml --rss-max-feeds 20
 python -m http.server 8080
 ```
 
