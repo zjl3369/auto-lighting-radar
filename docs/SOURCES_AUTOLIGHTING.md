@@ -2,7 +2,9 @@
 
 This fork keeps the upstream static GitHub Pages pipeline but changes the topic
 from AI to automotive lighting. It is designed for zero budget: no paid API, no
-login cookies, no private database.
+login cookies, no private database. Public output is split into `core`,
+`adjacent` and `broad` relevance tiers; the default page shows the full
+30-day intelligence pool.
 
 ## Live sources
 
@@ -13,7 +15,7 @@ login cookies, no private database.
 | Electrive | RSS | EV and supplier news; filtered by lighting and supplier keywords. |
 | 36Kr | RSS | Domestic smart-car and supplier news; filtered by Chinese keywords. |
 | InfoQ China | RSS | Domestic intelligent-vehicle technology context. |
-| 盖世汽车搜索 | HTML search page | Domestic automotive industry source for 车灯, 汽车照明, 矩阵大灯, 智能车灯, 尾灯, ADB. |
+| 盖世汽车搜索 | HTML search page | Domestic automotive industry source for 车灯, 汽车照明, 矩阵大灯, 智能车灯, 尾灯, 大灯, 灯组, 氛围灯, 车规 LED. |
 | Google News: automotive lighting | RSS search | Broad English discovery for headlamp, ADB, vehicle lighting. |
 | Google News: 车灯/汽车照明 | RSS search | Broad Chinese discovery for 车灯, 汽车照明, 矩阵大灯, 智能车灯. |
 | Google News: 智能大灯技术 | RSS search | Tracks ADB, 像素大灯, DLP 大灯, 自适应远光. |
@@ -23,8 +25,14 @@ login cookies, no private database.
 | Google News: 国际车灯供应商中文 | RSS search | Tracks 法雷奥, 海拉, 小糸, 马瑞利, ZKW Chinese coverage. |
 | Google News: 主机厂灯光配置 | RSS search | Tracks lighting configuration in BYD, Xiaomi, AITO, Li Auto, NIO, XPeng, Geely, Chery. |
 | Google News: LED/光学产业链 | RSS search | Tracks automotive LED, OLED, lens, light-guide supply-chain updates. |
+| Google News: 车型灯组/灯光配置 | RSS search | Tracks OEM launches and lighting feature mentions in Chinese auto media. |
+| Google News: 智能座舱/氛围灯 | RSS search | Tracks cabin lighting, ambient light and automotive display context. |
+| Google News: 车规LED/显示/光学 | RSS search | Tracks automotive LED, display, HUD and optical upstream news. |
+| Google News: 站点限定-汽车媒体 | RSS search | Site-limited queries for 汽车之家, 易车, 太平洋汽车 and 懂车帝. |
+| Google News: 站点限定-LED/产业链 | RSS search | Site-limited queries for OFweek, LEDinside, TrendForce and 行家说. |
 | Google News: supplier lighting | RSS search | Watches Valeo, HELLA, Koito, Marelli and lighting terms. |
 | Google News: ADB / Matrix LED | RSS search | Watches technical terms such as ADB, matrix LED, pixel headlights and DLP headlamps. |
+| Bing News RSS | RSS search | Optional fast supplemental source; HTML fallbacks are skipped automatically. |
 | KOITO English News | Public JSON | KOITO publishes page data at `/english/news/include/news_list_for_index.json`; no key required. |
 | eCFR FMVSS 108 | Static page monitor | U.S. lamps/reflective-devices regulation watch. |
 | IIHS ratings page | Static page monitor | Headlight rating index watch. |
