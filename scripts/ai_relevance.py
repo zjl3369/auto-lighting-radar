@@ -59,6 +59,13 @@ PRIMARY_KEYWORDS = [
     "远光辅助",
     "灯语",
     "氛围灯",
+    "座舱灯",
+    "律动灯",
+    "交互灯",
+    "智能交互灯",
+    "灯组",
+    "灯光",
+    "光幕",
     "光导",
     "透镜",
 ]
@@ -77,9 +84,13 @@ TECH_KEYWORDS = [
     "heat dissipation",
     "phosphor",
     "driver ic",
+    "driver chip",
     "light source",
     "illumination",
     "luminous",
+    "display",
+    "ambient light",
+    "ambient lighting",
     "lumens",
     "glare",
     "beam pattern",
@@ -101,6 +112,13 @@ TECH_KEYWORDS = [
     "眩光",
     "散热",
     "车规",
+    "车规led",
+    "驱动ic",
+    "驱动芯片",
+    "显示",
+    "智能驾驶",
+    "感知",
+    "激光雷达",
     "法规",
     "标准",
     "召回",
@@ -126,12 +144,61 @@ COMPANY_KEYWORDS = [
     "nichia",
     "seoul semiconductor",
     "星宇",
+    "星宇股份",
     "华域视觉",
     "曼德光电",
+    "常诚车灯",
+    "嘉利",
+    "嘉利股份",
     "佛山照明",
+    "得邦照明",
+    "鸿利智汇",
+    "英迪芯微",
+    "晶合集成",
     "国星光电",
     "瑞丰光电",
     "聚飞光电",
+    "比亚迪",
+    "小米汽车",
+    "问界",
+    "理想",
+    "理想汽车",
+    "蔚来",
+    "小鹏",
+    "吉利",
+    "奇瑞",
+    "长安",
+    "上汽",
+    "广汽",
+    "零跑",
+    "极氪",
+    "奥迪",
+    "奔驰",
+    "宝马",
+    "丰田",
+    "特斯拉",
+]
+
+OEM_KEYWORDS = [
+    "比亚迪",
+    "小米汽车",
+    "问界",
+    "理想",
+    "理想汽车",
+    "蔚来",
+    "小鹏",
+    "吉利",
+    "奇瑞",
+    "长安",
+    "上汽",
+    "广汽",
+    "零跑",
+    "极氪",
+    "奥迪",
+    "奔驰",
+    "宝马",
+    "丰田",
+    "特斯拉",
 ]
 
 NOISE_KEYWORDS = [
@@ -157,6 +224,16 @@ NOISE_KEYWORDS = [
     "实力解析",
     "甄选",
     "焕新",
+    "hiking",
+    "running",
+    "trail",
+    "flashlight",
+    "head torch",
+    "petzl",
+    "光模块",
+    "光互连",
+    "激光除草",
+    "光掩膜",
 ]
 
 CORPORATE_NOISE_KEYWORDS = [
@@ -178,6 +255,23 @@ CORPORATE_NOISE_KEYWORDS = [
     "人权政策",
 ]
 
+AUTO_CONTEXT_KEYWORDS = [
+    "automotive",
+    "vehicle",
+    "car",
+    "auto",
+    "suv",
+    "sedan",
+    "oem",
+    "汽车",
+    "车型",
+    "整车",
+    "车载",
+    "主机厂",
+    "新能源车",
+    "乘用车",
+]
+
 EN_PRIMARY_RE = re.compile(
     r"(?i)(?<![a-z0-9])(headlamp|headlight|taillamp|tail lamp|adaptive driving beam|matrix led|pixel led|drl|fmvss 108|ece r48|r149|automotive lighting|vehicle lighting)(?![a-z0-9])"
 )
@@ -192,6 +286,10 @@ SOURCE_PRIORS = {
     "opmlrss": 0.10,
 }
 
+CORE_THRESHOLD = 0.75
+ADJACENT_THRESHOLD = 0.45
+BROAD_THRESHOLD = 0.25
+
 
 def _text(record: dict[str, Any]) -> str:
     url = str(record.get("url") or "")
@@ -200,9 +298,10 @@ def _text(record: dict[str, Any]) -> str:
     except Exception:
         host = ""
     if str(record.get("site_id") or "") in {"lighting_media", "lighting_search", "opmlrss"}:
-        fields = ("title",)
-    else:
-        fields = ("title", "source", "site_name")
+        title = str(record.get("title") or "")
+        title = re.sub(r"\s+-\s+[^-]{2,80}$", "", title)
+        return title.lower()
+    fields = ("title", "source", "site_name")
     return " ".join(str(record.get(k) or "") for k in fields).lower() + " " + host
 
 
@@ -233,14 +332,26 @@ def _result(
     reason: str,
     signals: list[str] | None = None,
     noise: list[str] | None = None,
+    tier: str | None = None,
 ) -> dict[str, Any]:
+    clipped_score = round(max(0.0, min(1.0, score)), 2)
+    if tier is None:
+        if not is_related:
+            tier = "rejected"
+        elif clipped_score >= CORE_THRESHOLD:
+            tier = "core"
+        elif clipped_score >= ADJACENT_THRESHOLD:
+            tier = "adjacent"
+        else:
+            tier = "broad"
     return {
         "is_ai_related": bool(is_related),
-        "score": round(max(0.0, min(1.0, score)), 2),
+        "score": clipped_score,
         "label": label,
         "reason": reason,
         "signals": signals or [],
         "noise": noise or [],
+        "tier": tier,
     }
 
 
@@ -250,13 +361,49 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     primary = _matched(text, PRIMARY_KEYWORDS)
     tech = _matched(text, TECH_KEYWORDS)
     companies = _matched(text, COMPANY_KEYWORDS)
+    oems = _matched(text, OEM_KEYWORDS)
     noise = _matched(text, NOISE_KEYWORDS)
     corporate_noise = _matched(text, CORPORATE_NOISE_KEYWORDS)
     prior = SOURCE_PRIORS.get(site_id, 0.0)
 
     has_primary = bool(primary) or EN_PRIMARY_RE.search(text) is not None
-    has_context = bool(tech or companies)
+    has_context = bool(tech)
+    has_light_signal = has_primary or bool(tech)
     ad_like = any(k in text for k in ["改装", "翻新", "升级机构", "哪家强", "实力解析", "甄选", "焕新"])
+    portable_noise = any(k in text for k in ["hiking", "running", "trail", "flashlight", "head torch", "petzl"])
+    english_portable_headlamp = (
+        site_id in {"lighting_media", "lighting_search", "opmlrss"}
+        and re.search(r"(?i)(?<![a-z0-9])(headlamps?|headlights?|head torch)(?![a-z0-9])", text) is not None
+        and not any(k in text for k in AUTO_CONTEXT_KEYWORDS)
+        and not companies
+    )
+    generic_optics_only = (
+        site_id in {"lighting_media", "lighting_search", "opmlrss"}
+        and not has_primary
+        and not any(k in text for k in AUTO_CONTEXT_KEYWORDS)
+        and bool(tech)
+        and not any(k in text for k in ["led", "oled", "micro led", "mini led", "车规led", "汽车led", "车用led", "汽车照明"])
+    )
+
+    if english_portable_headlamp:
+        return _result(
+            False,
+            max(0.0, prior + 0.18),
+            "not_lighting",
+            "portable_or_non_automotive_headlamp_without_vehicle_context",
+            primary + tech + companies,
+            noise,
+        )
+
+    if generic_optics_only:
+        return _result(
+            False,
+            max(0.0, prior + 0.18),
+            "not_lighting",
+            "generic_optics_without_automotive_or_led_context",
+            primary + tech + companies,
+            noise,
+        )
 
     if corporate_noise and not (has_primary or tech):
         return _result(
@@ -268,7 +415,7 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             noise + corporate_noise,
         )
 
-    if ad_like and not companies:
+    if ad_like or (portable_noise and not any(k in text for k in AUTO_CONTEXT_KEYWORDS)):
         return _result(
             False,
             max(0.0, prior + 0.16),
@@ -289,10 +436,11 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             "trusted_lighting_source",
             primary + tech + companies or [site_id],
             noise,
+            "core",
         )
 
     if site_id == "lighting_official":
-        if not (has_primary or companies):
+        if not (has_light_signal or (companies and not oems)):
             return _result(
                 False,
                 prior + min(0.20, 0.05 * len(tech)),
@@ -305,7 +453,7 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
         if noise and not has_primary:
             score -= 0.18
         return _result(
-            score >= RELEVANCE_THRESHOLD,
+            score >= BROAD_THRESHOLD,
             score,
             _label(text),
             "trusted_source_with_lighting_signal",
@@ -328,7 +476,7 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
         score -= min(0.24, 0.06 * len(noise))
 
     return _result(
-        score >= RELEVANCE_THRESHOLD,
+        score >= BROAD_THRESHOLD,
         score,
         _label(text),
         "matched_lighting_signal",
@@ -350,4 +498,5 @@ def add_ai_relevance_fields(record: dict[str, Any]) -> dict[str, Any]:
     out["ai_relevance_reason"] = relevance["reason"]
     out["ai_signals"] = relevance["signals"]
     out["ai_noise"] = relevance["noise"]
+    out["lighting_relevance_tier"] = relevance["tier"]
     return out
