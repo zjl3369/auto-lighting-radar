@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-07-12T03:22:55.288876Z",
+  "generated_at": "2026-07-12T03:31:31.441060Z",
   "window_hours": 720,
-  "total_items": 0,
-  "items": []
+  "total_items": 1,
+  "items": [
+    {
+      "story_id": "story_85b52dbb70d6",
+      "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
+      "source": "Google News: 车规LED/显示/光学",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
+          "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T04:17:00Z"
+        },
+        {
+          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车规LED/显示/光学"
+      ],
+      "items": [
+        {
+          "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
+          "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T04:17:00Z"
+        },
+        {
+          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4966,
+      "importance": 0.4966,
+      "importance_score": 0.4966,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.0158,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T03:41:32Z",
+      "latest_at": "2026-06-30T04:17:00Z",
+      "primary_item": {
+        "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
+        "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
+        "source": "Google News: 车规LED/显示/光学",
+        "source_name": "Industry / News Search"
+      }
+    }
+  ]
 }
