@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-07-12T03:31:31.441060Z",
+  "generated_at": "2026-07-12T04:09:19.155356Z",
   "sites": [
     {
       "site_id": "lighting_official",
       "site_name": "Official / Safety Sources",
       "ok": true,
-      "item_count": 642,
-      "duration_ms": 41219,
+      "item_count": 649,
+      "duration_ms": 20571,
       "error": null
     },
     {
       "site_id": "lighting_search",
       "site_name": "Search / Topic Feeds",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 16016,
+      "item_count": 20,
+      "duration_ms": 266,
       "error": null
     }
   ],
   "successful_sites": 2,
   "failed_sites": [],
-  "zero_item_sites": [
-    "lighting_search"
-  ],
+  "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 642,
-  "items_before_topic_filter": 1009,
-  "items_in_24h": 57,
-  "items_in_window": 318,
+  "fetched_raw_items": 669,
+  "items_before_topic_filter": 1090,
+  "items_in_24h": 61,
+  "items_in_window": 331,
   "tier_counts": {
-    "core_count": 63,
-    "adjacent_count": 255,
+    "core_count": 67,
+    "adjacent_count": 264,
     "broad_count": 0,
-    "rejected_count": 609
+    "rejected_count": 667
   },
-  "core_count": 63,
-  "adjacent_count": 255,
+  "core_count": 67,
+  "adjacent_count": 264,
   "broad_count": 0,
-  "rejected_count": 609,
+  "rejected_count": 667,
   "rss_opml": {
     "enabled": false,
     "path": null,

@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-07-12T03:31:31.441060Z",
+  "generated_at": "2026-07-12T04:09:19.155356Z",
   "window_hours": 720,
-  "total_items": 1,
+  "total_items": 3,
   "items": [
+    {
+      "story_id": "story_5304be3e0f53",
+      "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "b7046372a56e164c134ebcd6a38b29554e96eec7",
+          "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-09T15:09:00Z"
+        },
+        {
+          "id": "64b37513125911a41dba9544d25ac5f3918766df",
+          "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-09T15:09:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "b7046372a56e164c134ebcd6a38b29554e96eec7",
+          "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-09T15:09:00Z"
+        },
+        {
+          "id": "64b37513125911a41dba9544d25ac5f3918766df",
+          "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-09T15:09:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5725,
+      "importance": 0.5725,
+      "importance_score": 0.5725,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5976,
+        "source_tier": 0.58,
+        "ai_relevance": 0.83,
+        "recency": 0.4144,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-09T15:09:00Z",
+      "latest_at": "2026-07-09T15:09:00Z",
+      "primary_item": {
+        "id": "b7046372a56e164c134ebcd6a38b29554e96eec7",
+        "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
+        "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_85b52dbb70d6",
       "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
@@ -56,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.0158,
+        "recency": 0.0157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -79,6 +158,84 @@
         "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
         "source": "Google News: 车规LED/显示/光学",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_4de7903f3e8a",
+      "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+      "source": "Google News: 尾灯/贯穿式/OLED",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "450bdcee11fe2b8a965b739472c156813a176464",
+          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-15T07:00:00Z"
+        },
+        {
+          "id": "17c9ab1357457e3ec7f14f6beb83f1d0ade47160",
+          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-15T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 尾灯/贯穿式/OLED"
+      ],
+      "items": [
+        {
+          "id": "450bdcee11fe2b8a965b739472c156813a176464",
+          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-15T07:00:00Z"
+        },
+        {
+          "id": "17c9ab1357457e3ec7f14f6beb83f1d0ade47160",
+          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-15T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4771,
+      "importance": 0.4771,
+      "importance_score": 0.4771,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.0001,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-15T07:00:00Z",
+      "latest_at": "2026-06-15T07:00:00Z",
+      "primary_item": {
+        "id": "450bdcee11fe2b8a965b739472c156813a176464",
+        "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
+        "source": "Google News: 尾灯/贯穿式/OLED",
         "source_name": "Industry / News Search"
       }
     }
