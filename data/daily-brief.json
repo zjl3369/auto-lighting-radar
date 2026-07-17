@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-07-15T04:39:43.889331Z",
+  "generated_at": "2026-07-17T04:53:06.190734Z",
   "window_hours": 720,
   "total_items": 3,
   "items": [
+    {
+      "story_id": "story_2733115bd9a4",
+      "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.6952,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-16T03:29:46Z",
+      "latest_at": "2026-07-16T03:42:42Z",
+      "primary_item": {
+        "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+        "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_5304be3e0f53",
       "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
@@ -56,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.1454,
+        "recency": 0.0725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.0055,
+        "recency": 0.0027,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -158,84 +237,6 @@
         "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
         "source": "Google News: 车规LED/显示/光学",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_4de7903f3e8a",
-      "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-      "source": "Google News: 尾灯/贯穿式/OLED",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "450bdcee11fe2b8a965b739472c156813a176464",
-          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-06-15T07:00:00Z"
-        },
-        {
-          "id": "17c9ab1357457e3ec7f14f6beb83f1d0ade47160",
-          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-06-15T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 尾灯/贯穿式/OLED"
-      ],
-      "items": [
-        {
-          "id": "450bdcee11fe2b8a965b739472c156813a176464",
-          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-06-15T07:00:00Z"
-        },
-        {
-          "id": "17c9ab1357457e3ec7f14f6beb83f1d0ade47160",
-          "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-06-15T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4771,
-      "importance": 0.4771,
-      "importance_score": 0.4771,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-15T07:00:00Z",
-      "latest_at": "2026-06-15T07:00:00Z",
-      "primary_item": {
-        "id": "450bdcee11fe2b8a965b739472c156813a176464",
-        "title": "6月15日河南许昌，蛙眼大灯、碳纤维后视镜、贯穿式尾灯，老人花32000元买到“小卡宴”车抖得像“... - news.qq.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZHpRV2lwZzVVUnJWVml5R0diU3c0WTFPZkpWam9UMjhMbm9IUk1pUWs0ZXRHYUE1QllGMHVFZDd2clFxV2hrUktXMlZmZGRNcU5pTkJB?oc=5",
-        "source": "Google News: 尾灯/贯穿式/OLED",
         "source_name": "Industry / News Search"
       }
     }
