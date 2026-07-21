@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-07-19T05:01:36.046746Z",
+  "generated_at": "2026-07-21T04:58:03.056251Z",
   "window_hours": 720,
-  "total_items": 3,
+  "total_items": 4,
   "items": [
     {
-      "story_id": "story_2733115bd9a4",
-      "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
+      "story_id": "story_282a59b5a721",
+      "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+      "source": "Google News: 车灯/汽车照明",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
+          "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:42:42Z"
+          "published_at": "2026-07-20T05:03:05Z"
         },
         {
-          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "204f0c7f0da3f6f1c067b3354ef40984cfd90c2e",
+          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYTBvRDBzenFkT0drbGdMUGR1VmhLSVRhWnRJQlR1UTlidzZwTVMwaWxHSmRrN21nbmEwSnFkSU9YNFRKV0JNdEp0UzRqZzk3bjFxd3RxaHNCSi12TlgtcVFaUTFPVFFYeExrRkRrV1NxV2lWQWZrX2tKeFBIdw?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:29:46Z"
+          "published_at": "2026-07-20T03:53:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 站点限定-汽车媒体",
-        "Google News: 车型灯组/灯光配置"
+        "Google News: 国际车灯供应商中文",
+        "Google News: 车灯/汽车照明"
       ],
       "items": [
         {
-          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
+          "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:42:42Z"
+          "published_at": "2026-07-20T05:03:05Z"
         },
         {
-          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "204f0c7f0da3f6f1c067b3354ef40984cfd90c2e",
+          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYTBvRDBzenFkT0drbGdMUGR1VmhLSVRhWnRJQlR1UTlidzZwTVMwaWxHSmRrN21nbmEwSnFkSU9YNFRKV0JNdEp0UzRqZzk3bjFxd3RxaHNCSi12TlgtcVFaUTFPVFFYeExrRkRrV1NxV2lWQWZrX2tKeFBIdw?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:29:46Z"
+          "published_at": "2026-07-20T03:53:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.6087,
+      "importance": 0.6087,
+      "importance_score": 0.6087,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.54,
+        "editorial": 0.5688,
         "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.3469,
+        "ai_relevance": 0.79,
+        "recency": 0.708,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-16T03:29:46Z",
-      "latest_at": "2026-07-16T03:42:42Z",
+      "earliest_at": "2026-07-20T03:53:00Z",
+      "latest_at": "2026-07-20T05:03:05Z",
       "primary_item": {
-        "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-        "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
+        "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+        "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -135,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.0362,
+        "recency": 0.0181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -158,6 +158,85 @@
         "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
         "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_2733115bd9a4",
+      "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.1736,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-16T03:29:46Z",
+      "latest_at": "2026-07-16T03:42:42Z",
+      "primary_item": {
+        "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+        "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -214,15 +293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.494,
-      "importance": 0.494,
-      "importance_score": 0.494,
+      "score": 0.4938,
+      "importance": 0.4938,
+      "importance_score": 0.4938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.0014,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
