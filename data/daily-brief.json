@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T04:58:03.056251Z",
+  "generated_at": "2026-07-23T05:14:49.272263Z",
   "window_hours": 720,
-  "total_items": 4,
+  "total_items": 5,
   "items": [
     {
       "story_id": "story_282a59b5a721",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6087,
-      "importance": 0.6087,
-      "importance_score": 0.6087,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.708,
+        "recency": 0.3526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.0181,
+        "recency": 0.009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -158,6 +158,85 @@
         "title": "蔚来投影大灯爆火出圈，蔚来CEO也接车灯投影代写了！李斌回应自定义灯光代写热梗 - news.qq.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZVo2cVlLVS1DQWROaVRvNHlaTGFNcHJWSnBSVTRBclQzeEFFcmlLcHgxcllWekhmY1BfWm5LVkp4d0poaWM5cUNSZ2h3ampjT2FLMFd3?oc=5",
         "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_85b52dbb70d6",
+      "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+      "source": "Google News: 车规LED/显示/光学",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "7d8b0448411509ef99f90187b25a6aadc231454e",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        },
+        {
+          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车规LED/显示/光学"
+      ],
+      "items": [
+        {
+          "id": "7d8b0448411509ef99f90187b25a6aadc231454e",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        },
+        {
+          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
+          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+          "source": "Google News: 车规LED/显示/光学",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-30T03:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4855,
+      "importance": 0.4855,
+      "importance_score": 0.4855,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.576,
+        "source_tier": 0.58,
+        "ai_relevance": 0.8,
+        "recency": 0.0003,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T03:41:32Z",
+      "latest_at": "2026-06-30T03:41:32Z",
+      "primary_item": {
+        "id": "7d8b0448411509ef99f90187b25a6aadc231454e",
+        "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
+        "source": "Google News: 车规LED/显示/光学",
         "source_name": "Industry / News Search"
       }
     },
@@ -215,15 +294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.1736,
+        "recency": 0.0865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -241,81 +320,80 @@
       }
     },
     {
-      "story_id": "story_85b52dbb70d6",
-      "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
-      "source": "Google News: 车规LED/显示/光学",
+      "story_id": "story_7f6adf802143",
+      "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
-          "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
-          "source": "Google News: 车规LED/显示/光学",
+          "id": "9f18f2c682d53bef1d506e8b514c6284f575bc01",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-06-30T04:17:00Z"
+          "published_at": "2026-07-06T07:00:00Z"
         },
         {
-          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
-          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
-          "source": "Google News: 车规LED/显示/光学",
+          "id": "29a1ffec5bc8d3bab764b256e6c8f08f7cae5bfc",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - qq.co",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-06-30T03:41:32Z"
+          "published_at": "2026-07-06T07:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 车规LED/显示/光学"
+        "Google News: 车型灯组/灯光配置"
       ],
       "items": [
         {
-          "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
-          "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
-          "source": "Google News: 车规LED/显示/光学",
+          "id": "9f18f2c682d53bef1d506e8b514c6284f575bc01",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-06-30T04:17:00Z"
+          "published_at": "2026-07-06T07:00:00Z"
         },
         {
-          "id": "25a25c3e19e33302a8d544f33d8cbe8ac4db0f09",
-          "title": "瑞丰光电MiniLED背光导入蔚来ES9座舱显示 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNPLXZ1bDM5cWZkdmlMZ25waEIya3FWT2ZSNG5CN1NNWkt1WGRLa0NjakhySndWa005SzA5MnRQV0xTVlV5bzdPVEhOek1fZzhGcHlJcUJ1TWM4Q0ZFd3Q4MDloS0txcVNYcHl1bTkxY3lrQkxrTENZd0F0Nkw5RnppZ0JRbHU0?oc=5",
-          "source": "Google News: 车规LED/显示/光学",
+          "id": "29a1ffec5bc8d3bab764b256e6c8f08f7cae5bfc",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - qq.co",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-06-30T03:41:32Z"
+          "published_at": "2026-07-06T07:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
+      "score": 0.4651,
+      "importance": 0.4651,
+      "importance_score": 0.4651,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5904,
+        "editorial": 0.54,
         "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.0007,
+        "ai_relevance": 0.75,
+        "recency": 0.0028,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-30T03:41:32Z",
-      "latest_at": "2026-06-30T04:17:00Z",
+      "earliest_at": "2026-07-06T07:00:00Z",
+      "latest_at": "2026-07-06T07:00:00Z",
       "primary_item": {
-        "id": "56dcfc146d0bfb554e97a9c7f0b4205f89383205",
-        "title": "瑞丰光电Mini LED背光导入蔚来ES9座舱显示 - 新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWg1SlFMbENmcnN5ckczdVRSN3E1akFvMUNpNlVSUUxRVzMyWnpFcmJMdjA0X0gtWmlITlpkcm5rTjZBQnRaOTlRdzJzbEdaWmFnSHdTWFhyeHgwR2hlM21pQ1FZNXJSTEtJMUdTbzhFbkZySldwc0xzR0hJWkRNODR0SXlUOE1C?oc=5",
-        "source": "Google News: 车规LED/显示/光学",
+        "id": "9f18f2c682d53bef1d506e8b514c6284f575bc01",
+        "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     }
