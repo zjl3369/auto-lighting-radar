@@ -1,5 +1,7 @@
 # Auto Lighting Radar
 
+网站链接：https://zjl3369.github.io/auto-lighting-radar/
+
 Automotive lighting news radar based on the static pipeline from
 `LearnPrompt/ai-news-radar`.
 
