@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-23T05:14:49.272263Z",
+  "generated_at": "2026-07-25T04:55:16.924416Z",
   "window_hours": 720,
-  "total_items": 5,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_282a59b5a721",
       "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
-      "source": "Google News: 车灯/汽车照明",
+      "source": "Google News: 车型灯组/灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+          "id": "dde266c1f1696fb28e5ca1d81000bf56a9390dd7",
           "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-07-20T05:03:05Z"
@@ -33,14 +33,14 @@
       "source_count": 2,
       "source_names": [
         "Google News: 国际车灯供应商中文",
-        "Google News: 车灯/汽车照明"
+        "Google News: 车型灯组/灯光配置"
       ],
       "items": [
         {
-          "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+          "id": "dde266c1f1696fb28e5ca1d81000bf56a9390dd7",
           "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
+          "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-07-20T05:03:05Z"
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.3526,
+        "recency": 0.1771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -75,9 +75,87 @@
       "earliest_at": "2026-07-20T03:53:00Z",
       "latest_at": "2026-07-20T05:03:05Z",
       "primary_item": {
-        "id": "0b1bf04007a6b0389ae6ed5f24813b3e196fa05f",
+        "id": "dde266c1f1696fb28e5ca1d81000bf56a9390dd7",
         "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_0c8c69feffc0",
+      "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        },
+        {
+          "id": "e58e578982b1c838aed708540793467088986e84",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        },
+        {
+          "id": "e58e578982b1c838aed708540793467088986e84",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.256,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-21T06:34:00Z",
+      "latest_at": "2026-07-21T06:34:00Z",
+      "primary_item": {
+        "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+        "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -135,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.009,
+        "recency": 0.0045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -214,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4855,
-      "importance": 0.4855,
-      "importance_score": 0.4855,
+      "score": 0.4854,
+      "importance": 0.4854,
+      "importance_score": 0.4854,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0003,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -294,15 +372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4802,
-      "importance": 0.4802,
-      "importance_score": 0.4802,
+      "score": 0.4724,
+      "importance": 0.4724,
+      "importance_score": 0.4724,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0865,
+        "recency": 0.0434,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -344,9 +422,18 @@
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-07-06T07:00:00Z"
+        },
+        {
+          "id": "87f9789b45d1b9296c48132321c7ea1faf9c7d8b",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-06T07:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Google News: 车型灯组/灯光配置"
       ],
@@ -368,22 +455,31 @@
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-07-06T07:00:00Z"
+        },
+        {
+          "id": "87f9789b45d1b9296c48132321c7ea1faf9c7d8b",
+          "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-06T07:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0028,
-        "story_heat": 0.25
+        "recency": 0.0014,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
@@ -394,6 +490,163 @@
         "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_4e7153516056",
+      "title": "小鹏MONAL03细节体验|小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "ecf222f45d0050e191cd167a18316d7cd02679bc",
+          "title": "小鹏MONAL03细节体验|小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-26T07:00:00Z"
+        },
+        {
+          "id": "f5931fcdf2e80b4d3cbc74b2a41346a7a2defd53",
+          "title": "小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门_新浪新闻 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-26T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "ecf222f45d0050e191cd167a18316d7cd02679bc",
+          "title": "小鹏MONAL03细节体验|小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-26T07:00:00Z"
+        },
+        {
+          "id": "f5931fcdf2e80b4d3cbc74b2a41346a7a2defd53",
+          "title": "小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门_新浪新闻 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-06-26T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T07:00:00Z",
+      "latest_at": "2026-06-26T07:00:00Z",
+      "primary_item": {
+        "id": "ecf222f45d0050e191cd167a18316d7cd02679bc",
+        "title": "小鹏MONAL03细节体验|小鹏monal03|星舰大灯|贯穿式星环尾灯|无框车门 - 新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XeXJNUzNzb0U5bEd4SVFaUFhUdW5BeUl0NlYxcFBFLUJQRFRDcEhWMEJZejQ2WUJNSm95VWFLRHM2QXdnTUlVUXBIanV4UmlfY2lsTUNobHJjajFKVGhVbVpSVQ?oc=5",
+        "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_79dd3ff5e27e",
+      "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZG5hWlhDWG4wYllrQjVSa21ZeVZMeVBtNkszM3czSHB1dThMVzU2aUpRN1pDNjgwbWxwNld2RGYxWkoxYW00eVQwZkp4ZG1rMWJCVUh6YVZXaE9BdjZ6OUdYR19hcmNuREtKM3g4X250bTlMeGMxLThrZTFNYWFLRDRBaGNsMlNJd1EteFV2LXVaeWlfbWx5Sk9IakV6NHRMQ2JYTjJiOV9NM3p5T1E4MVhUTjdSVEt3XzNBcmVCTUZVX3dRMVNqdmYwNGFxTDNaVFdweUxDVDZKLUJnaDItdnVzQm1KYjE5SGM5M1B6Y29FWXNSMlMyRkhPZ3FtU1h5a1ZhQjVHWEJyQ0ZreG8xc2Zoa3NXaFpZUnJwcldHVjJUeE5HZDdVQjZaMExtSTBOb1J2WDhSN21qQlVUY3ZuSXI4SkVXd0JwdEdubFVyLU1KVHF2aEVJa0NJNnRmVWVCVVE1QUwtWFp0V3pyandTNHd1RE52YzV6cEU4NzU1X0RFWEQ2ZzI2enNTdS1tN3Q2?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZG5hWlhDWG4wYllrQjVSa21ZeVZMeVBtNkszM3czSHB1dThMVzU2aUpRN1pDNjgwbWxwNld2RGYxWkoxYW00eVQwZkp4ZG1rMWJCVUh6YVZXaE9BdjZ6OUdYR19hcmNuREtKM3g4X250bTlMeGMxLThrZTFNYWFLRDRBaGNsMlNJd1EteFV2LXVaeWlfbWx5Sk9IakV6NHRMQ2JYTjJiOV9NM3p5T1E4MVhUTjdSVEt3XzNBcmVCTUZVX3dRMVNqdmYwNGFxTDNaVFdweUxDVDZKLUJnaDItdnVzQm1KYjE5SGM5M1B6Y29FWXNSMlMyRkhPZ3FtU1h5a1ZhQjVHWEJyQ0ZreG8xc2Zoa3NXaFpZUnJwcldHVjJUeE5HZDdVQjZaMExtSTBOb1J2WDhSN21qQlVUY3ZuSXI4SkVXd0JwdEdubFVyLU1KVHF2aEVJa0NJNnRmVWVCVVE1QUwtWFp0V3pyandTNHd1RE52YzV6cEU4NzU1X0RFWEQ2ZzI2enNTdS1tN3Q2?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "e98b92286f553441917aa40a790c7e6f1204dd78",
+          "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZG5hWlhDWG4wYllrQjVSa21ZeVZMeVBtNkszM3czSHB1dThMVzU2aUpRN1pDNjgwbWxwNld2RGYxWkoxYW00eVQwZkp4ZG1rMWJCVUh6YVZXaE9BdjZ6OUdYR19hcmNuREtKM3g4X250bTlMeGMxLThrZTFNYWFLRDRBaGNsMlNJd1EteFV2LXVaeWlfbWx5Sk9IakV6NHRMQ2JYTjJiOV9NM3p5T1E4MVhUTjdSVEt3XzNBcmVCTUZVX3dRMVNqdmYwNGFxTDNaVFdweUxDVDZKLUJnaDItdnVzQm1KYjE5SGM5M1B6Y29FWXNSMlMyRkhPZ3FtU1h5a1ZhQjVHWEJyQ0ZreG8xc2Zoa3NXaFpZUnJwcldHVjJUeE5HZDdVQjZaMExtSTBOb1J2WDhSN21qQlVUY3ZuSXI4SkVXd0JwdEdubFVyLU1KVHF2aEVJa0NJNnRmVWVCVVE1QUwtWFp0V3pyandTNHd1RE52YzV6cEU4NzU1X0RFWEQ2ZzI2enNTdS1tN3Q2?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-12T07:00:00Z"
+        },
+        {
+          "id": "e29ed1ef367f369836a9af031d0981d63da5c909",
+          "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 17173",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBM21ibEEtQ0F2aHdPWmt5bm4wTWFvUENpOGMxbnQ2WW1GTXRKNWRpQ1NfQ0U3aWZYZkJVUzJFNmlpMEZrWHl2QXFBX3BYNDdTUWp2UEVHalNqOGtaYXhUOHBORW8?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-12T04:00:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置",
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "e98b92286f553441917aa40a790c7e6f1204dd78",
+          "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZG5hWlhDWG4wYllrQjVSa21ZeVZMeVBtNkszM3czSHB1dThMVzU2aUpRN1pDNjgwbWxwNld2RGYxWkoxYW00eVQwZkp4ZG1rMWJCVUh6YVZXaE9BdjZ6OUdYR19hcmNuREtKM3g4X250bTlMeGMxLThrZTFNYWFLRDRBaGNsMlNJd1EteFV2LXVaeWlfbWx5Sk9IakV6NHRMQ2JYTjJiOV9NM3p5T1E4MVhUTjdSVEt3XzNBcmVCTUZVX3dRMVNqdmYwNGFxTDNaVFdweUxDVDZKLUJnaDItdnVzQm1KYjE5SGM5M1B6Y29FWXNSMlMyRkhPZ3FtU1h5a1ZhQjVHWEJyQ0ZreG8xc2Zoa3NXaFpZUnJwcldHVjJUeE5HZDdVQjZaMExtSTBOb1J2WDhSN21qQlVUY3ZuSXI4SkVXd0JwdEdubFVyLU1KVHF2aEVJa0NJNnRmVWVCVVE1QUwtWFp0V3pyandTNHd1RE52YzV6cEU4NzU1X0RFWEQ2ZzI2enNTdS1tN3Q2?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-12T07:00:00Z"
+        },
+        {
+          "id": "e29ed1ef367f369836a9af031d0981d63da5c909",
+          "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 17173",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBM21ibEEtQ0F2aHdPWmt5bm4wTWFvUENpOGMxbnQ2WW1GTXRKNWRpQ1NfQ0U3aWZYZkJVUzJFNmlpMEZrWHl2QXFBX3BYNDdTUWp2UEVHalNqOGtaYXhUOHBORW8?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-12T04:00:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4666,
+      "importance": 0.4666,
+      "importance_score": 0.4666,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0114,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T04:00:41Z",
+      "latest_at": "2026-07-12T07:00:00Z",
+      "primary_item": {
+        "id": "e98b92286f553441917aa40a790c7e6f1204dd78",
+        "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界 - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZG5hWlhDWG4wYllrQjVSa21ZeVZMeVBtNkszM3czSHB1dThMVzU2aUpRN1pDNjgwbWxwNld2RGYxWkoxYW00eVQwZkp4ZG1rMWJCVUh6YVZXaE9BdjZ6OUdYR19hcmNuREtKM3g4X250bTlMeGMxLThrZTFNYWFLRDRBaGNsMlNJd1EteFV2LXVaeWlfbWx5Sk9IakV6NHRMQ2JYTjJiOV9NM3p5T1E4MVhUTjdSVEt3XzNBcmVCTUZVX3dRMVNqdmYwNGFxTDNaVFdweUxDVDZKLUJnaDItdnVzQm1KYjE5SGM5M1B6Y29FWXNSMlMyRkhPZ3FtU1h5a1ZhQjVHWEJyQ0ZreG8xc2Zoa3NXaFpZUnJwcldHVjJUeE5HZDdVQjZaMExtSTBOb1J2WDhSN21qQlVUY3ZuSXI4SkVXd0JwdEdubFVyLU1KVHF2aEVJa0NJNnRmVWVCVVE1QUwtWFp0V3pyandTNHd1RE52YzV6cEU4NzU1X0RFWEQ2ZzI2enNTdS1tN3Q2?oc=5",
+        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     }
