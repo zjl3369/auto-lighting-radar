@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T04:58:31.492358Z",
+  "generated_at": "2026-07-31T05:23:59.299291Z",
   "sites": [
     {
       "site_id": "lighting_official",
       "site_name": "Official / Safety Sources",
       "ok": true,
-      "item_count": 671,
-      "duration_ms": 25220,
+      "item_count": 664,
+      "duration_ms": 25070,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Search / Topic Feeds",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 303,
+      "duration_ms": 340,
       "error": null
     }
   ],
@@ -22,20 +22,20 @@
   "failed_sites": [],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 691,
-  "items_before_topic_filter": 2899,
-  "items_in_24h": 115,
-  "items_in_window": 880,
+  "fetched_raw_items": 684,
+  "items_before_topic_filter": 3070,
+  "items_in_24h": 124,
+  "items_in_window": 916,
   "tier_counts": {
-    "core_count": 132,
-    "adjacent_count": 748,
+    "core_count": 140,
+    "adjacent_count": 776,
     "broad_count": 0,
-    "rejected_count": 1707
+    "rejected_count": 1826
   },
-  "core_count": 132,
-  "adjacent_count": 748,
+  "core_count": 140,
+  "adjacent_count": 776,
   "broad_count": 0,
-  "rejected_count": 1707,
+  "rejected_count": 1826,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -70,7 +70,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-29",
+    "generated_date_utc": "2026-07-31",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -95,7 +95,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-07-29",
+    "generated_date_utc": "2026-07-31",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -120,7 +120,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-07-29",
+    "generated_date_utc": "2026-07-31",
     "disabled_reason": "no_api_key"
   }
 }
