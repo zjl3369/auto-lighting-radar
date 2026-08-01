@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T05:23:59.299291Z",
+  "generated_at": "2026-08-01T05:16:48.061907Z",
   "window_hours": 720,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_7bc9a2102f8f",
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.654,
-      "importance": 0.654,
-      "importance_score": 0.654,
+      "score": 0.6024,
+      "importance": 0.6024,
+      "importance_score": 0.6024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9826,
+        "recency": 0.696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -78,6 +78,84 @@
         "title": "长城H10定档8月5日上市，飞棱尾灯+矩阵大灯，800V高压平台 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0dkZhTnQ0T25NTlM3czU4b2hNRlRZSjRvM29OMXA2S2JTR24tVWxnYUc1ZWFRSFZENnN3RzRGUmlkN0VRZ05sUi02Z01FOF9KYS1ZOC1ZUjlxWjQ?oc=5",
         "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_c25e162264e0",
+      "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T14:00:00Z"
+        },
+        {
+          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T14:00:00Z"
+        },
+        {
+          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.401,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T14:00:00Z",
+      "latest_at": "2026-07-29T14:00:00Z",
+      "primary_item": {
+        "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+        "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -160,7 +238,7 @@
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.0006,
+        "recency": 0.0004,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -231,15 +309,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.4935,
+      "importance": 0.4935,
+      "importance_score": 0.4935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.2271,
+        "recency": 0.1608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -253,6 +331,163 @@
         "title": "氛围灯最美的3款车：蔚来ET9/ES8、丰田卡罗拉，谁才是夜店之王？+FAQ - 手机新浪网",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ydFdfNHdfZkIwUm1PTVBLSl9VNnRNUnhRWVM2VlU2RDFfMjNKWVI4UWZtc0NyTzRLZW1CRWJpaE1jYVVNSXZXUGJLWjJCYUhIVjN0dmZEZTFRYmJBbE5zTGlHLTdITUNvZHcyeWNoM0hUUQ?oc=5",
         "source": "Google News: 国际车灯供应商中文",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_0c8c69feffc0",
+      "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        },
+        {
+          "id": "e58e578982b1c838aed708540793467088986e84",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        },
+        {
+          "id": "e58e578982b1c838aed708540793467088986e84",
+          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-21T06:34:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4687,
+      "importance": 0.4687,
+      "importance_score": 0.4687,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0225,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-21T06:34:00Z",
+      "latest_at": "2026-07-21T06:34:00Z",
+      "primary_item": {
+        "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
+        "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
+        "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_2733115bd9a4",
+      "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:42:42Z"
+        },
+        {
+          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
+          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-16T03:29:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0038,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-16T03:29:46Z",
+      "latest_at": "2026-07-16T03:42:42Z",
+      "primary_item": {
+        "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
+        "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -335,7 +570,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -349,163 +584,6 @@
         "title": "对标宝马7系很成功，灯光效果一流，全新奔驰S级轿车登场 - QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbGVfYUZlV3JZekFteW02RFY3WkVvYVU5ZTc5UG5pNlRCak53VkhZYl9zSXN2d2ZGLWxrcW9veHoyLUdfaVV1YV82QldCVWk0RlFYaFN3?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_0c8c69feffc0",
-      "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
-          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-21T06:34:00Z"
-        },
-        {
-          "id": "e58e578982b1c838aed708540793467088986e84",
-          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-21T06:34:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
-          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-21T06:34:00Z"
-        },
-        {
-          "id": "e58e578982b1c838aed708540793467088986e84",
-          "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-21T06:34:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T06:34:00Z",
-      "latest_at": "2026-07-21T06:34:00Z",
-      "primary_item": {
-        "id": "8c2236b1891ab08d4a74e8ec76906f4b436cd3cc",
-        "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_2733115bd9a4",
-      "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:42:42Z"
-        },
-        {
-          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:29:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体",
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:42:42Z"
-        },
-        {
-          "id": "ad012deed3b72162f2d5378f799d56712006ec0e",
-          "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVG1DMFR0cV9HVC1TT1FWMmFrN1NpblhiZFBvZTVIc3lNVEZSWlY5YUJwSDF3OTk2cmVubXA4TVA4NmViSzNid3pGSlFZYUs1OEQyMVVEV1IyQ2dUWWt0a3JR?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-16T03:29:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4656,
-      "importance": 0.4656,
-      "importance_score": 0.4656,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0054,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-16T03:29:46Z",
-      "latest_at": "2026-07-16T03:42:42Z",
-      "primary_item": {
-        "id": "700a29b5dbc03081c98975eff9740e25d0f84c9e",
-        "title": "新款深蓝S05现身，换装花瓣大灯+半隐藏式门把手，可选激光雷达 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ra1J2czFNMUMxMFBYdnJZSVBfekxXODRzZ1lKOV8xdGhWV1ZtM3Zsa1dobUt4bkswZVpHcm1tY1lNejVMNUdYYzVQRV9OZFMxdWwwRUpRY3VzSWs?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -563,15 +641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4852,
-      "importance": 0.4852,
-      "importance_score": 0.4852,
+      "score": 0.484,
+      "importance": 0.484,
+      "importance_score": 0.484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.022,
+        "recency": 0.0156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -641,15 +719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4675,
-      "importance": 0.4675,
-      "importance_score": 0.4675,
+      "score": 0.4666,
+      "importance": 0.4666,
+      "importance_score": 0.4666,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.016,
+        "recency": 0.0113,
         "story_heat": 0.25
       },
       "category": "watch",
