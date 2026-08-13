@@ -1,8 +1,165 @@
 {
-  "generated_at": "2026-08-11T03:25:21.136933Z",
+  "generated_at": "2026-08-13T03:58:49.120944Z",
   "window_hours": 720,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_484d8e28362c",
+      "title": "【网通社快报】小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 凤凰网汽车",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UWjFwSFkteGF0VHhUbml6M2NLMTFLS0o5NVVUaUVNa1lIaXVkU000eUR3VzZvSllHTzdXaDlzNUdyd3RhTklISWJZVzU?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UWjFwSFkteGF0VHhUbml6M2NLMTFLS0o5NVVUaUVNa1lIaXVkU000eUR3VzZvSllHTzdXaDlzNUdyd3RhTklISWJZVzU?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "913827c7b0ff307604aa7f9fd20d2eb763b0bcd8",
+          "title": "【网通社快报】小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 凤凰网汽车",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UWjFwSFkteGF0VHhUbml6M2NLMTFLS0o5NVVUaUVNa1lIaXVkU000eUR3VzZvSllHTzdXaDlzNUdyd3RhTklISWJZVzU?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T11:51:10Z"
+        },
+        {
+          "id": "c5651325fd173d5d4cdf47eb633730d07a26b1a4",
+          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 网通社",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T11:51:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置",
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "913827c7b0ff307604aa7f9fd20d2eb763b0bcd8",
+          "title": "【网通社快报】小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 凤凰网汽车",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UWjFwSFkteGF0VHhUbml6M2NLMTFLS0o5NVVUaUVNa1lIaXVkU000eUR3VzZvSllHTzdXaDlzNUdyd3RhTklISWJZVzU?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T11:51:10Z"
+        },
+        {
+          "id": "c5651325fd173d5d4cdf47eb633730d07a26b1a4",
+          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 网通社",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T11:51:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.5602,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-11T11:51:10Z",
+      "latest_at": "2026-08-11T11:51:10Z",
+      "primary_item": {
+        "id": "913827c7b0ff307604aa7f9fd20d2eb763b0bcd8",
+        "title": "【网通社快报】小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 凤凰网汽车",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UWjFwSFkteGF0VHhUbml6M2NLMTFLS0o5NVVUaUVNa1lIaXVkU000eUR3VzZvSllHTzdXaDlzNUdyd3RhTklISWJZVzU?oc=5",
+        "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_ced489f472a4",
+      "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+      "source": "Google News: 尾灯/贯穿式/OLED",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T13:26:20Z"
+        },
+        {
+          "id": "6c59b56750d1599270539212765db8c67059b6e3",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T13:26:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 尾灯/贯穿式/OLED"
+      ],
+      "items": [
+        {
+          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T13:26:20Z"
+        },
+        {
+          "id": "6c59b56750d1599270539212765db8c67059b6e3",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T13:26:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.2866,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T13:26:20Z",
+      "latest_at": "2026-08-09T13:26:20Z",
+      "primary_item": {
+        "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+        "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+        "source": "Google News: 尾灯/贯穿式/OLED",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_9e8a4018d835",
       "title": "新股消息 | 星宇股份再次递表港交所 是中国最大的汽车照明产品提供商 - qq.com",
@@ -92,15 +249,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0165,
+        "recency": 0.0082,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -118,54 +275,168 @@
       }
     },
     {
-      "story_id": "story_a5334b5bde90",
-      "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-      "source": "Google News: 智能大灯技术",
+      "story_id": "story_0944404ea653",
+      "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+      "source": "Google News: 主机厂灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
-          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-06T03:39:37Z"
+          "published_at": "2026-07-29T07:00:00Z"
         },
         {
-          "id": "9779945cb2a7766d6dc055978644856ccd27abcb",
-          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "93f9eda6516549f2c0bb4276e91de91ff86df375",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-06T03:39:37Z"
+          "published_at": "2026-07-29T07:00:00Z"
+        },
+        {
+          "id": "7894a85dd57e1db5caba71d4906634267aa905a3",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        },
+        {
+          "id": "b232b9c18899370bde8a73e4d9f066b894704911",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        },
+        {
+          "id": "93f9eda6516549f2c0bb4276e91de91ff86df375",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        },
+        {
+          "id": "7894a85dd57e1db5caba71d4906634267aa905a3",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        },
+        {
+          "id": "b232b9c18899370bde8a73e4d9f066b894704911",
+          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-29T07:00:00Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0058,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T07:00:00Z",
+      "latest_at": "2026-07-29T07:00:00Z",
+      "primary_item": {
+        "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
+        "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+        "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_8a406af0833c",
+      "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - tgbus.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+      "source": "Google News: LED/光学产业链",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "82be0ff30a2b2bc09925a5191ba7af6dd898ca68",
+          "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T09:20:06Z"
+        },
+        {
+          "id": "5bd4bfe190ead36f21618e881ba3d398d208539b",
+          "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T09:20:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 智能大灯技术"
+        "Google News: LED/光学产业链"
       ],
       "items": [
         {
-          "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
-          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "82be0ff30a2b2bc09925a5191ba7af6dd898ca68",
+          "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+          "source": "Google News: LED/光学产业链",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-06T03:39:37Z"
+          "published_at": "2026-08-09T09:20:06Z"
         },
         {
-          "id": "9779945cb2a7766d6dc055978644856ccd27abcb",
-          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "5bd4bfe190ead36f21618e881ba3d398d208539b",
+          "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+          "source": "Google News: LED/光学产业链",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-06T03:39:37Z"
+          "published_at": "2026-08-09T09:20:06Z"
         }
       ],
       "item_count": 2,
@@ -175,23 +446,102 @@
       "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5688,
+        "editorial": 0.54,
         "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.1774,
+        "ai_relevance": 0.75,
+        "recency": 0.2701,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-06T03:39:37Z",
-      "latest_at": "2026-08-06T03:39:37Z",
+      "earliest_at": "2026-08-09T09:20:06Z",
+      "latest_at": "2026-08-09T09:20:06Z",
       "primary_item": {
-        "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
-        "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
-        "source": "Google News: 智能大灯技术",
+        "id": "82be0ff30a2b2bc09925a5191ba7af6dd898ca68",
+        "title": "8000颗微型LED：ZKW为NBA赛事定制大灯揭示爱游戏平台技术新突破 - tgbus.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNHplM1pFeWFsOU9DV0xBM0gwNFkzTmlYSkhYTTVRUEJGUFRlamRnWl93UkFLaWc0OUFwcWN4c2dGLTlfQk1ydmx2ZnMwVXdQTG5RWFB4dVpONmlMRHRPQ2hja242WDlqUVd6QlpNOWU?oc=5",
+        "source": "Google News: LED/光学产业链",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_dc50c60befa6",
+      "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - chejiahao.m.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "20522ffba5935182a4e397a1decf2d311be3a628",
+          "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-07T21:41:54Z"
+        },
+        {
+          "id": "9da904a9a8a1761516de88a991b15023609d0b20",
+          "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-07T21:41:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "20522ffba5935182a4e397a1decf2d311be3a628",
+          "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-07T21:41:54Z"
+        },
+        {
+          "id": "9da904a9a8a1761516de88a991b15023609d0b20",
+          "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-07T21:41:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.1614,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T21:41:54Z",
+      "latest_at": "2026-08-07T21:41:54Z",
+      "primary_item": {
+        "id": "20522ffba5935182a4e397a1decf2d311be3a628",
+        "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - chejiahao.m.autohome.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -276,7 +626,7 @@
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0005,
+        "recency": 0.0003,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -294,98 +644,178 @@
       }
     },
     {
-      "story_id": "story_f35bc04fe921",
-      "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-      "source": "Google News: 主机厂灯光配置",
+      "story_id": "story_a9ad3c53319b",
+      "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资",
+      "url": "https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html",
+      "primary_url": "https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html",
+      "source": "Bing News: OFweek/高工LED车灯",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "ca8ad031ce835457008037f4ff07516dbbc7bf02",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资",
+          "url": "https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html",
+          "source": "Bing News: OFweek/高工LED车灯",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-06T02:42:00Z"
         },
         {
-          "id": "25a1ac0a5a515f059d3b46d83020f5725fbed835",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "7d3c8d2cf501a3a44de08d7d44f10e07b5e6dd09",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPZEZUZ1puck8wY0NnUktldDFNbEhaekFza21LVU9vY25FaDRPek9ITkVab2lNbnU3eDVVdzlpUGlNM0xJNU1kX0FTQUhjdkROTl9wNXgyT2ZFdlltRWFfMGNfc1lmYlRWTGhEQmNDcEI1eFNsX2REQUpvUW83MWdVOTdwYmZ6eGt0VmZvUFNGSXBpRFdkajI0eTlJSkZvem1PNFNpd2tYS1lUVjZTcldUZjh5ajZWeTdKU0luYWJYZ3BFMFFscWUzZkplLTZ6NGY3cGJYUkdRUngyTjlpOTd6OUJkTThfY0ZqWExLdFZUajRaY2pXOWFWRmViQjk3RHFVdVgzY1BORk9wYXhGVlZCNGYwT0w4Z0c4Y1J0V05BUk5OeUF3dnRjSUFlTEVsOXpCTU8tUXdwdV8xVkdUSkJFUEdVQzZac0h3RmR0ODhMalBRLVpDTHZfdzFTbnJENkZ4S20zMkc4d3JKeEMydmVqY1E5dkwxcU1xU2VERF9MMjFwX0tRSUxzTFdIaDNnU1pfT1dHTXQwOHNQemIyTkJGMjZ1VUdJcHFRTlZfZXhuWlR6RlVTQkVrczh0amhVVUkwOFpyREUzX0hjTm9SaUc3aFpqaF9iSnk3T0FwSmMxT04xejltLWFrZ3FBeUc?oc=5",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-06T02:21:33Z"
         },
         {
-          "id": "c1d3ce37d9aa6e82fcec9f620d94719818cf3320",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "bff6231f2dd2aa05b67a5e15b645d06d34f7325c",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaF9BY0tvdjY0a0ZPa1ZWVTdkTHlrX1lib1dGZU1FNzFnNlc0RGZ4V2dKNlhZaHo2cTdGdlhYallmSjZaNXVlbExDZ0VKRzRvZ05OZGpvV0pmYjZ0cEVaaFU1Q1VSY29NRzB4ZE5BQk1ZY0E5NzlQaEZSYnZaMGdCazhpQUpxWVFLTEcxZQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-05T23:04:00Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Google News: 主机厂灯光配置"
+        "Bing News: OFweek/高工LED车灯",
+        "Google News: 国内车灯供应商",
+        "Google News: 车灯/汽车照明"
       ],
       "items": [
         {
-          "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "ca8ad031ce835457008037f4ff07516dbbc7bf02",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资",
+          "url": "https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html",
+          "source": "Bing News: OFweek/高工LED车灯",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-06T02:42:00Z"
         },
         {
-          "id": "25a1ac0a5a515f059d3b46d83020f5725fbed835",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "7d3c8d2cf501a3a44de08d7d44f10e07b5e6dd09",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPZEZUZ1puck8wY0NnUktldDFNbEhaekFza21LVU9vY25FaDRPek9ITkVab2lNbnU3eDVVdzlpUGlNM0xJNU1kX0FTQUhjdkROTl9wNXgyT2ZFdlltRWFfMGNfc1lmYlRWTGhEQmNDcEI1eFNsX2REQUpvUW83MWdVOTdwYmZ6eGt0VmZvUFNGSXBpRFdkajI0eTlJSkZvem1PNFNpd2tYS1lUVjZTcldUZjh5ajZWeTdKU0luYWJYZ3BFMFFscWUzZkplLTZ6NGY3cGJYUkdRUngyTjlpOTd6OUJkTThfY0ZqWExLdFZUajRaY2pXOWFWRmViQjk3RHFVdVgzY1BORk9wYXhGVlZCNGYwT0w4Z0c4Y1J0V05BUk5OeUF3dnRjSUFlTEVsOXpCTU8tUXdwdV8xVkdUSkJFUEdVQzZac0h3RmR0ODhMalBRLVpDTHZfdzFTbnJENkZ4S20zMkc4d3JKeEMydmVqY1E5dkwxcU1xU2VERF9MMjFwX0tRSUxzTFdIaDNnU1pfT1dHTXQwOHNQemIyTkJGMjZ1VUdJcHFRTlZfZXhuWlR6RlVTQkVrczh0amhVVUkwOFpyREUzX0hjTm9SaUc3aFpqaF9iSnk3T0FwSmMxT04xejltLWFrZ3FBeUc?oc=5",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-06T02:21:33Z"
         },
         {
-          "id": "c1d3ce37d9aa6e82fcec9f620d94719818cf3320",
-          "title": "蔚来智驾+投影大灯晚上安全感满满 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "bff6231f2dd2aa05b67a5e15b645d06d34f7325c",
+          "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaF9BY0tvdjY0a0ZPa1ZWVTdkTHlrX1lib1dGZU1FNzFnNlc0RGZ4V2dKNlhZaHo2cTdGdlhYallmSjZaNXVlbExDZ0VKRzRvZ05OZGpvV0pmYjZ0cEVaaFU1Q1VSY29NRzB4ZE5BQk1ZY0E5NzlQaEZSYnZaMGdCazhpQUpxWVFLTEcxZQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T14:58:00Z"
+          "published_at": "2026-08-05T23:04:00Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0522,
+        "recency": 0.0868,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T14:58:00Z",
-      "latest_at": "2026-08-02T14:58:00Z",
+      "earliest_at": "2026-08-05T23:04:00Z",
+      "latest_at": "2026-08-06T02:42:00Z",
       "primary_item": {
-        "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
-        "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
-        "source": "Google News: 主机厂灯光配置",
+        "id": "ca8ad031ce835457008037f4ff07516dbbc7bf02",
+        "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资",
+        "url": "https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html",
+        "source": "Bing News: OFweek/高工LED车灯",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_865234112596",
+      "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - tgbus.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "76fc985fc3818c04bde44876209fd9484cf085a9",
+          "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-08T16:48:10Z"
+        },
+        {
+          "id": "180ee29dcd09c7b4fb160a80536aff6a9e1e771c",
+          "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-08T16:48:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "76fc985fc3818c04bde44876209fd9484cf085a9",
+          "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-08T16:48:10Z"
+        },
+        {
+          "id": "180ee29dcd09c7b4fb160a80536aff6a9e1e771c",
+          "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-08T16:48:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.2127,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T16:48:10Z",
+      "latest_at": "2026-08-08T16:48:10Z",
+      "primary_item": {
+        "id": "76fc985fc3818c04bde44876209fd9484cf085a9",
+        "title": "球竞体育app携手ZKW推出配备768颗微型LED的矩阵大灯技术 - tgbus.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3E1S0FxRXBxOVQ2M1diODdpR1N5dFdTZ0pOR1NRVU1QUENmSGdOYW1uUmFCVXhJRnAySmJxVUpzbzZXenljLWYzN3ZmUGpzVjBmN0pNaTJPdw?oc=5",
+        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -443,15 +873,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4773,
-      "importance": 0.4773,
-      "importance_score": 0.4773,
+      "score": 0.4709,
+      "importance": 0.4709,
+      "importance_score": 0.4709,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0708,
+        "recency": 0.0351,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,241 +895,6 @@
         "title": "星宇股份创始人周晓萍：从三尺讲台到全球车灯霸主：周晓萍的三十三年造灯记丨【商业人物档案】 - sohu.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0hPakZtOHpMc19URTFDczlaQ1k5Vld1U2kwSWR3UUd2dmJtSVJNSlFlMDZIWVpBTi1MeXBsQ3hCcnRzclRVZFZtQWt1aFFuYzNUTFg4UHBrVEdqZy1kSG44bmxqWDM5dlpVT2IyT25OWEgwbDRRcDZJTEhYVkx0LWNmQ0t5V0Yt?oc=5",
         "source": "Google News: 国际车灯供应商中文",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_f554f2eea929",
-      "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
-        },
-        {
-          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
-        },
-        {
-          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4759,
-      "importance": 0.4759,
-      "importance_score": 0.4759,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:45:39Z",
-      "latest_at": "2026-08-01T19:45:39Z",
-      "primary_item": {
-        "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-        "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_730f74a23fbc",
-      "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - tgbus.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "bd64894508f4e00d95990ba06cd80789a99f31ae",
-          "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-03T16:50:36Z"
-        },
-        {
-          "id": "b8d3a37df374f6fe7a67377e897bbdb1223ed489",
-          "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-03T16:50:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "bd64894508f4e00d95990ba06cd80789a99f31ae",
-          "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-03T16:50:36Z"
-        },
-        {
-          "id": "b8d3a37df374f6fe7a67377e897bbdb1223ed489",
-          "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-03T16:50:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.0759,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T16:50:36Z",
-      "latest_at": "2026-08-03T16:50:36Z",
-      "primary_item": {
-        "id": "bd64894508f4e00d95990ba06cd80789a99f31ae",
-        "title": "2026年4月lm体育网页版官网期间ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术- TGBUS - tgbus.com",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cW16ZDNhenFIYVdwMDZubUxTbFRCdjEwMjJTcVEwUXIzLUFJQVkzYWlVZ0NMN2I2ekpBaHQyR1BZQXlobWpjQ3VjX2F4RzVfeElkNjFVQUl0SkJRRzBrUUhB?oc=5",
-        "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_b8ceead3fd62",
-      "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-      "source": "Google News: 国内车灯供应商",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "fa41c5f14304aa54c20e401a1b0a587bb1f300bb",
-          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - sohu.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-06T09:37:08Z"
-        },
-        {
-          "id": "4bc24b86888365d407ee26b8aa1eb547e411aba9",
-          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-06T09:37:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 国内车灯供应商"
-      ],
-      "items": [
-        {
-          "id": "fa41c5f14304aa54c20e401a1b0a587bb1f300bb",
-          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - sohu.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-06T09:37:08Z"
-        },
-        {
-          "id": "4bc24b86888365d407ee26b8aa1eb547e411aba9",
-          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-06T09:37:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.1933,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-06T09:37:08Z",
-      "latest_at": "2026-08-06T09:37:08Z",
-      "primary_item": {
-        "id": "fa41c5f14304aa54c20e401a1b0a587bb1f300bb",
-        "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - sohu.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
-        "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
     },
@@ -783,39 +978,39 @@
       }
     },
     {
-      "story_id": "story_0944404ea653",
-      "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+      "story_id": "story_f35bc04fe921",
+      "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
       "source": "Google News: 主机厂灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         },
         {
-          "id": "7894a85dd57e1db5caba71d4906634267aa905a3",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "25a1ac0a5a515f059d3b46d83020f5725fbed835",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         },
         {
-          "id": "b232b9c18899370bde8a73e4d9f066b894704911",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "c1d3ce37d9aa6e82fcec9f620d94719818cf3320",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         }
       ],
       "source_count": 3,
@@ -824,163 +1019,163 @@
       ],
       "items": [
         {
-          "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         },
         {
-          "id": "7894a85dd57e1db5caba71d4906634267aa905a3",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "25a1ac0a5a515f059d3b46d83020f5725fbed835",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         },
         {
-          "id": "b232b9c18899370bde8a73e4d9f066b894704911",
-          "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+          "id": "c1d3ce37d9aa6e82fcec9f620d94719818cf3320",
+          "title": "蔚来智驾+投影大灯晚上安全感满满 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
           "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-29T07:00:00Z"
+          "published_at": "2026-08-02T14:58:00Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0116,
+        "recency": 0.0259,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-29T07:00:00Z",
-      "latest_at": "2026-07-29T07:00:00Z",
+      "earliest_at": "2026-08-02T14:58:00Z",
+      "latest_at": "2026-08-02T14:58:00Z",
       "primary_item": {
-        "id": "29113683084c4509bdc98b65626e6f5e9ee9496d",
-        "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
+        "id": "6d12afc9b80587a1121affabad07f8acb45e2a5d",
+        "title": "蔚来智驾+投影大灯晚上安全感满满 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zY0xlSTZsOUtuZlJ3MmItYlVRb01YR0IwZmZWZnJVOTh6cHBha241TnVfREprRVB0NTJpaVpIbUx4bGhMTUI3YmFzSXdWaURhQ2RUbkh3?oc=5",
         "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
     {
-      "story_id": "story_cf9621701e83",
-      "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
+      "story_id": "story_b8ceead3fd62",
+      "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+      "source": "Google News: 国内车灯供应商",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "a7cbfa7f74a74974903c96ed6a5dcc918c2733d9",
+          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-08-06T09:37:08Z"
         },
         {
-          "id": "29295e2347806e30ccf97508607d7bb864683308",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "4bc24b86888365d407ee26b8aa1eb547e411aba9",
+          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-08-06T09:37:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 车型灯组/灯光配置"
+        "Google News: 国内车灯供应商"
       ],
       "items": [
         {
-          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "a7cbfa7f74a74974903c96ed6a5dcc918c2733d9",
+          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-08-06T09:37:08Z"
         },
         {
-          "id": "29295e2347806e30ccf97508607d7bb864683308",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "4bc24b86888365d407ee26b8aa1eb547e411aba9",
+          "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-08-06T09:37:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.473,
-      "importance": 0.473,
-      "importance_score": 0.473,
+      "score": 0.4819,
+      "importance": 0.4819,
+      "importance_score": 0.4819,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.54,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0236,
+        "ai_relevance": 0.75,
+        "recency": 0.0959,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T08:05:00Z",
-      "latest_at": "2026-07-31T08:05:00Z",
+      "earliest_at": "2026-08-06T09:37:08Z",
+      "latest_at": "2026-08-06T09:37:08Z",
       "primary_item": {
-        "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-        "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
+        "id": "a7cbfa7f74a74974903c96ed6a5dcc918c2733d9",
+        "title": "招股书失效仅三天，“车灯一哥”星宇股份IPO二次递表 - Sohu",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTA4bU1PVlMtSG80b2Qzckd4YnZsb1cxaHBDbVZmNnFYODc4TWVEVHBFQk5jTF9pNWVRU2xMY29WamhIeFZGaGJNd3ZCbjZLNmZGNUVmMVczZVZvc09oNmtzaDVpR0E3R01vaUpRUjk5Y1NPbGNNSXQxdHFkSGdDWFgyS0pHbTlvbXJMUQ?oc=5",
+        "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
     },
     {
-      "story_id": "story_dd3b0e2ab0ef",
-      "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - tgbus.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+      "story_id": "story_2d319b1a528d",
+      "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - tgbus.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
       "source": "Google News: 智能大灯技术",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "8444974d17a018a6e70d5de3162966c8b17f7454",
-          "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+          "id": "3cf0787fc835175fd878d6c7e27034a6a3363791",
+          "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T21:46:20Z"
+          "published_at": "2026-08-06T17:22:20Z"
         },
         {
-          "id": "e96287766004c1aea5b2104c9355577a13b3b5f3",
-          "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+          "id": "cdea43be1df2c28ca518834e0e9cbe72c9fa879d",
+          "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T21:46:20Z"
+          "published_at": "2026-08-06T17:22:20Z"
         }
       ],
       "source_count": 2,
@@ -989,35 +1184,35 @@
       ],
       "items": [
         {
-          "id": "8444974d17a018a6e70d5de3162966c8b17f7454",
-          "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - tgbus.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+          "id": "3cf0787fc835175fd878d6c7e27034a6a3363791",
+          "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T21:46:20Z"
+          "published_at": "2026-08-06T17:22:20Z"
         },
         {
-          "id": "e96287766004c1aea5b2104c9355577a13b3b5f3",
-          "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - 电玩巴士",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+          "id": "cdea43be1df2c28ca518834e0e9cbe72c9fa879d",
+          "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-02T21:46:20Z"
+          "published_at": "2026-08-06T17:22:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4999,
-      "importance": 0.4999,
-      "importance_score": 0.4999,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0576,
+        "recency": 0.1072,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1025,13 +1220,91 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-02T21:46:20Z",
-      "latest_at": "2026-08-02T21:46:20Z",
+      "earliest_at": "2026-08-06T17:22:20Z",
+      "latest_at": "2026-08-06T17:22:20Z",
       "primary_item": {
-        "id": "8444974d17a018a6e70d5de3162966c8b17f7454",
-        "title": "ZKW为梅赛德斯-奔驰S级配备256像素微型LED矩阵大灯：hg9393体育官网般的精准照明技术-TGBUS - tgbus.com",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nems4NG4teTFIa0hxZUh1NFlaTGk5dEhNeFhmcERvN0dpd0tScHJhclZwbWhPMXpSd19mSGVLMUhrM3JZaUxZNHZ5MFFxR1B6cHptdG9EMC10T2NHbWc?oc=5",
+        "id": "3cf0787fc835175fd878d6c7e27034a6a3363791",
+        "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - tgbus.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
         "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_f554f2eea929",
+      "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
+          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-01T19:45:39Z"
+        },
+        {
+          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
+          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-01T19:45:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
+          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-01T19:45:39Z"
+        },
+        {
+          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
+          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-01T19:45:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0196,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T19:45:39Z",
+      "latest_at": "2026-08-01T19:45:39Z",
+      "primary_item": {
+        "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
+        "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -1096,7 +1369,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,6 +1383,84 @@
         "title": "特斯拉车灯晃眼被要求召回，省成本省出来的锅？ - news.qq.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96N0R6QTlqY2dkaVNOOXoyamRPYnBDV05PcE9QNDVDY0hNQmVjXzQ4R1J2ZElnVjlaMWR6R2FTR1p2bnd0MFMybkoxaE5mOXBoUVpjbkVB?oc=5",
         "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_cf9621701e83",
+      "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-31T08:05:00Z"
+        },
+        {
+          "id": "29295e2347806e30ccf97508607d7bb864683308",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-31T08:05:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-31T08:05:00Z"
+        },
+        {
+          "id": "29295e2347806e30ccf97508607d7bb864683308",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-07-31T08:05:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4709,
+      "importance": 0.4709,
+      "importance_score": 0.4709,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0117,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T08:05:00Z",
+      "latest_at": "2026-07-31T08:05:00Z",
+      "primary_item": {
+        "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+        "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -1166,15 +1517,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
+      "score": 0.4708,
+      "importance": 0.4708,
+      "importance_score": 0.4708,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.069,
+        "recency": 0.0342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,84 +1539,6 @@
         "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - sohu.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
         "source": "Google News: 国内车灯供应商",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_c25e162264e0",
-      "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
-          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T14:00:00Z"
-        },
-        {
-          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
-          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T14:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
-          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T14:00:00Z"
-        },
-        {
-          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
-          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T14:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4711,
-      "importance": 0.4711,
-      "importance_score": 0.4711,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0129,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T14:00:00Z",
-      "latest_at": "2026-07-29T14:00:00Z",
-      "primary_item": {
-        "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
-        "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -1322,15 +1595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4701,
-      "importance": 0.4701,
-      "importance_score": 0.4701,
+      "score": 0.4673,
+      "importance": 0.4673,
+      "importance_score": 0.4673,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0308,
+        "recency": 0.0153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,315 +1621,80 @@
       }
     },
     {
-      "story_id": "story_ccb04749b15d",
-      "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "17b167041d9b2a81826a0a6b8382ecc2cc54588f",
-          "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T15:54:20Z"
-        },
-        {
-          "id": "496699e86ce4e2d7ea258ac5508d499f684c15dd",
-          "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T15:54:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "17b167041d9b2a81826a0a6b8382ecc2cc54588f",
-          "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T15:54:20Z"
-        },
-        {
-          "id": "496699e86ce4e2d7ea258ac5508d499f684c15dd",
-          "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-29T15:54:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4711,
-      "importance": 0.4711,
-      "importance_score": 0.4711,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0132,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T15:54:20Z",
-      "latest_at": "2026-07-29T15:54:20Z",
-      "primary_item": {
-        "id": "17b167041d9b2a81826a0a6b8382ecc2cc54588f",
-        "title": "新车禁用智驾小蓝灯？中国汽车标准化研究院解读规范汽车灯光新标准 - cj.sina.cn",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JazhEenJYZmxWNW5SdEhDdU1VOWVNV1R1VDNmXzVzaEVPTDYtOGw5ejdQOHlFMkxobldiRm5ERkdPa2pWbXJyeURWdmhzVmJYZXB4Ry1IOWR4dGttRHg5RlJoMF9rdGJyR0V3eG5WVm5ONHBpNl9XRWRyWjg?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_1fa939bfd3da",
-      "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0pBaUhOeDBhSWlMLXl1RG1ZNE8yVVd0bHN6YjZqei1ZSzRKbExmY3Z6ZDZMUDZ0X2tPUEY2QmEweWFhSzh4c0Ixd3kxS3RTTkluZjBWSG5hdW9lTE94a3dQOFJ2VXh6ODBIN1ZWNXg2eVdJdzBVRHpEbHBDUFNRUEVodXJpSmdz?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0pBaUhOeDBhSWlMLXl1RG1ZNE8yVVd0bHN6YjZqei1ZSzRKbExmY3Z6ZDZMUDZ0X2tPUEY2QmEweWFhSzh4c0Ixd3kxS3RTTkluZjBWSG5hdW9lTE94a3dQOFJ2VXh6ODBIN1ZWNXg2eVdJdzBVRHpEbHBDUFNRUEVodXJpSmdz?oc=5",
-      "source": "Google News: 国内车灯供应商",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "301e2002e852a7c6e38f352439648c333a2c7c1a",
-          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0pBaUhOeDBhSWlMLXl1RG1ZNE8yVVd0bHN6YjZqei1ZSzRKbExmY3Z6ZDZMUDZ0X2tPUEY2QmEweWFhSzh4c0Ixd3kxS3RTTkluZjBWSG5hdW9lTE94a3dQOFJ2VXh6ODBIN1ZWNXg2eVdJdzBVRHpEbHBDUFNRUEVodXJpSmdz?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-31T01:04:00Z"
-        },
-        {
-          "id": "3866223809b5a779dd419b40c4e0df04464129f2",
-          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - 财华智库网",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzdzU5TlU0Ny1KamRaeTZiUXlfc2Y1dFBhc0xBdlkwSzF3M2d6Q2lhQTJkNjZDdjdPV25kZER1b2lYcC1fYmZBVWF0aTVFUUpxaHl1NEFfdnJwbExxbFV6Sko3ckRtTS1qSVpv?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-31T00:59:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 国内车灯供应商"
-      ],
-      "items": [
-        {
-          "id": "301e2002e852a7c6e38f352439648c333a2c7c1a",
-          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0pBaUhOeDBhSWlMLXl1RG1ZNE8yVVd0bHN6YjZqei1ZSzRKbExmY3Z6ZDZMUDZ0X2tPUEY2QmEweWFhSzh4c0Ixd3kxS3RTTkluZjBWSG5hdW9lTE94a3dQOFJ2VXh6ODBIN1ZWNXg2eVdJdzBVRHpEbHBDUFNRUEVodXJpSmdz?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-31T01:04:00Z"
-        },
-        {
-          "id": "3866223809b5a779dd419b40c4e0df04464129f2",
-          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - 财华智库网",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzdzU5TlU0Ny1KamRaeTZiUXlfc2Y1dFBhc0xBdlkwSzF3M2d6Q2lhQTJkNjZDdjdPV25kZER1b2lYcC1fYmZBVWF0aTVFUUpxaHl1NEFfdnJwbExxbFV6Sko3ckRtTS1qSVpv?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-31T00:59:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0214,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T00:59:00Z",
-      "latest_at": "2026-07-31T01:04:00Z",
-      "primary_item": {
-        "id": "301e2002e852a7c6e38f352439648c333a2c7c1a",
-        "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0pBaUhOeDBhSWlMLXl1RG1ZNE8yVVd0bHN6YjZqei1ZSzRKbExmY3Z6ZDZMUDZ0X2tPUEY2QmEweWFhSzh4c0Ixd3kxS3RTTkluZjBWSG5hdW9lTE94a3dQOFJ2VXh6ODBIN1ZWNXg2eVdJdzBVRHpEbHBDUFNRUEVodXJpSmdz?oc=5",
-        "source": "Google News: 国内车灯供应商",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_b1fcdc7770cc",
-      "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
+      "story_id": "story_a5334b5bde90",
+      "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
       "source": "Google News: 智能大灯技术",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "8dc66393fb70fab63c01f9f5dd27fe8847808dc8",
-          "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
+          "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
+          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-30T22:16:00Z"
+          "published_at": "2026-08-06T03:39:37Z"
         },
         {
-          "id": "a8aa55274d45296b606260fb4246ab645725b1d7",
-          "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "9779945cb2a7766d6dc055978644856ccd27abcb",
+          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-30T22:16:00Z"
+          "published_at": "2026-08-06T03:39:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 主机厂灯光配置",
         "Google News: 智能大灯技术"
       ],
       "items": [
         {
-          "id": "8dc66393fb70fab63c01f9f5dd27fe8847808dc8",
-          "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
+          "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
+          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-30T22:16:00Z"
+          "published_at": "2026-08-06T03:39:37Z"
         },
         {
-          "id": "a8aa55274d45296b606260fb4246ab645725b1d7",
-          "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "9779945cb2a7766d6dc055978644856ccd27abcb",
+          "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - 电玩巴士",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-30T22:16:00Z"
+          "published_at": "2026-08-06T03:39:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.54,
+        "editorial": 0.5688,
         "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0205,
+        "ai_relevance": 0.79,
+        "recency": 0.088,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-30T22:16:00Z",
-      "latest_at": "2026-07-30T22:16:00Z",
+      "earliest_at": "2026-08-06T03:39:37Z",
+      "latest_at": "2026-08-06T03:39:37Z",
       "primary_item": {
-        "id": "8dc66393fb70fab63c01f9f5dd27fe8847808dc8",
-        "title": "蔚来ADB多光束大灯也太牛了，就算没有数字投影大灯，依旧安全性拉满！ - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmgtMDhIVGxvclhzb3pYYXhrSlUyMjlRS2pPNGxDTXl2eDhXYl9hTFFrbGtYMVFWWjBTUm03eDRiRlBXakpydmpDdzhxcGN6Mi1TT1VjcUJWaVlSWjBVQ2F0eGI2UExrcmpicS1nTjBJWnNjUUdz?oc=5",
+        "id": "0740cc6c03965e9b8bebf0e409c5237fe654fe04",
+        "title": "米兰全站体育app登录下载携手ZKW推出配备768颗微型LED的矩阵大灯技术- TGBUS - tgbus.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVEJxMFY4S3U3YVFRN0JKN2NsSE1DX0lIeWRib3ZUc1ZFNWJWekVDVlZsdFBNQUZCY3VPakRYUnhoYnRoRUpsQ29kWndzRlJOa2RCd3JUYWFjSlE?oc=5",
         "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_2703f3131748",
-      "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-      "source": "Google News: 国内车灯供应商",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "6fbdbff74a2338b57d847a7e151733316f217b90",
-          "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-24T07:00:00Z"
-        },
-        {
-          "id": "37270a3291f0d9b9670068659e6eb37c8dca1864",
-          "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-24T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 国内车灯供应商"
-      ],
-      "items": [
-        {
-          "id": "6fbdbff74a2338b57d847a7e151733316f217b90",
-          "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-24T07:00:00Z"
-        },
-        {
-          "id": "37270a3291f0d9b9670068659e6eb37c8dca1864",
-          "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-          "source": "Google News: 国内车灯供应商",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-24T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0021,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T07:00:00Z",
-      "latest_at": "2026-07-24T07:00:00Z",
-      "primary_item": {
-        "id": "6fbdbff74a2338b57d847a7e151733316f217b90",
-        "title": "星宇股份获得实用新型专利授权：“一种应用于汽车灯具的可伸缩线束” - cj.sina.cn",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LMEMya180MnlSNHN2YzhXYTJZWklMaE5yUVNidUVQM2RIbFlwalRLRWlaX19MQUc3bEJOdGZFZ0FEZVphZFYxWHlnTkV1UzllWUFFOWlZYUdMUUMwZ0wwMTUxbDNqenRSbWhPeFhn?oc=5",
-        "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
     }
