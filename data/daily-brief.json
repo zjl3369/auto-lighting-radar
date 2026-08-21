@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:48:33.643863Z",
+  "generated_at": "2026-08-21T02:54:03.126159Z",
   "window_hours": 720,
   "total_items": 20,
   "items": [
@@ -94,15 +94,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.011,
+        "recency": 0.0055,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -208,15 +208,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.001,
+        "recency": 0.0005,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -330,7 +330,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0004,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -344,104 +344,6 @@
         "title": "蔚来投影大灯是我用过最亮最安全的大灯！ - QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbTRzME9OQm9ZNkNSeUxTUFdzR3E4NmF2X3BCLTFqTTNuTExCY1JHS01lNTFpM2dydFQ3MDVFVTdDOTJWQnpFSDRXWU1vb2RXaUlzaTJR?oc=5",
         "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_282a59b5a721",
-      "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMnRuWlNsOXEwLWVNdmpzN2VBNGl4LTV6WUtGblpicU1PejNITVpkLVdCMkhoc3ZjME55UWxmd25IZWo2WWRnWW5FcE1vbktYMmVRcmhR?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMnRuWlNsOXEwLWVNdmpzN2VBNGl4LTV6WUtGblpicU1PejNITVpkLVdCMkhoc3ZjME55UWxmd25IZWo2WWRnWW5FcE1vbktYMmVRcmhR?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "97cab2d1646d2620467dab99a712acb5ea87fd20",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMnRuWlNsOXEwLWVNdmpzN2VBNGl4LTV6WUtGblpicU1PejNITVpkLVdCMkhoc3ZjME55UWxmd25IZWo2WWRnWW5FcE1vbktYMmVRcmhR?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T07:00:00Z"
-        },
-        {
-          "id": "dde266c1f1696fb28e5ca1d81000bf56a9390dd7",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T05:03:05Z"
-        },
-        {
-          "id": "204f0c7f0da3f6f1c067b3354ef40984cfd90c2e",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYTBvRDBzenFkT0drbGdMUGR1VmhLSVRhWnRJQlR1UTlidzZwTVMwaWxHSmRrN21nbmEwSnFkSU9YNFRKV0JNdEp0UzRqZzk3bjFxd3RxaHNCSi12TlgtcVFaUTFPVFFYeExrRkRrV1NxV2lWQWZrX2tKeFBIdw?oc=5",
-          "source": "Google News: 国际车灯供应商中文",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T03:53:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Google News: 国际车灯供应商中文",
-        "Google News: 车型灯组/灯光配置",
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "97cab2d1646d2620467dab99a712acb5ea87fd20",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMnRuWlNsOXEwLWVNdmpzN2VBNGl4LTV6WUtGblpicU1PejNITVpkLVdCMkhoc3ZjME55UWxmd25IZWo2WWRnWW5FcE1vbktYMmVRcmhR?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T07:00:00Z"
-        },
-        {
-          "id": "dde266c1f1696fb28e5ca1d81000bf56a9390dd7",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtclVSSmZEbWZVS20wUnpMQnVjLVkwRUdZWEZwZjllU1R1WXBxY21NMVJIeFNadG1ETXRDR1ZLd0FHV1E5cG1mSVA3WWlTS25wZjJ0TzhUeEJDSVM3UXc?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T05:03:05Z"
-        },
-        {
-          "id": "204f0c7f0da3f6f1c067b3354ef40984cfd90c2e",
-          "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYTBvRDBzenFkT0drbGdMUGR1VmhLSVRhWnRJQlR1UTlidzZwTVMwaWxHSmRrN21nbmEwSnFkSU9YNFRKV0JNdEp0UzRqZzk3bjFxd3RxaHNCSi12TlgtcVFaUTFPVFFYeExrRkRrV1NxV2lWQWZrX2tKeFBIdw?oc=5",
-          "source": "Google News: 国际车灯供应商中文",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-07-20T03:53:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T03:53:00Z",
-      "latest_at": "2026-07-20T07:00:00Z",
-      "primary_item": {
-        "id": "97cab2d1646d2620467dab99a712acb5ea87fd20",
-        "title": "车灯是不是越亮越好？因大灯过亮，特斯拉在美召回近2万台车 - qq.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMnRuWlNsOXEwLWVNdmpzN2VBNGl4LTV6WUtGblpicU1PejNITVpkLVdCMkhoc3ZjME55UWxmd25IZWo2WWRnWW5FcE1vbktYMmVRcmhR?oc=5",
-        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -498,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.492,
-      "importance": 0.492,
-      "importance_score": 0.492,
+      "score": 0.4908,
+      "importance": 0.4908,
+      "importance_score": 0.4908,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0136,
+        "recency": 0.0068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -577,15 +479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4878,
-      "importance": 0.4878,
-      "importance_score": 0.4878,
+      "score": 0.4845,
+      "importance": 0.4845,
+      "importance_score": 0.4845,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0364,
+        "recency": 0.0182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -599,6 +501,84 @@
         "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
         "source": "Google News: 尾灯/贯穿式/OLED",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_61fa82d77855",
+      "title": "【图】丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！_凯美瑞论坛 - 汽车之家论坛",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdnQ0ctaHNUak1hOGlFODExdlBCWG51UXF1ZngyYkw4TE5fWjVQeEh0NFVadDJMdFZHaDRKMmxxRnBuSDZJd1ZrV09MeU00M3EyR3BYNHdUV2UxVjgyLWlHeGNHT0NPcEhwOHFUM1RuVUo4Q0k3M0JuNmhkU2hwRUU3dw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdnQ0ctaHNUak1hOGlFODExdlBCWG51UXF1ZngyYkw4TE5fWjVQeEh0NFVadDJMdFZHaDRKMmxxRnBuSDZJd1ZrV09MeU00M3EyR3BYNHdUV2UxVjgyLWlHeGNHT0NPcEhwOHFUM1RuVUo4Q0k3M0JuNmhkU2hwRUU3dw?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "6c763e1536c3abd1849424f58a86e987bbbb9cfb",
+          "title": "【图】丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！_凯美瑞论坛 - 汽车之家论坛",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdnQ0ctaHNUak1hOGlFODExdlBCWG51UXF1ZngyYkw4TE5fWjVQeEh0NFVadDJMdFZHaDRKMmxxRnBuSDZJd1ZrV09MeU00M3EyR3BYNHdUV2UxVjgyLWlHeGNHT0NPcEhwOHFUM1RuVUo4Q0k3M0JuNmhkU2hwRUU3dw?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T07:00:00Z"
+        },
+        {
+          "id": "2153ca6ef15d8d6dfa59191e63d691521388dbd8",
+          "title": "图 丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！ - 汽车之家论坛",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2NQWFcybkh2MDd3Z1hfaFItS09ZZ21ycUNROFVFSkNUcnNybDd5NTgyX1EzWFVJWUJDb245UFdHUnZfb0FNRWc4VWNTSUJJOW1sS3hGQ1VCZm82VnkwYW1tdTZZck5Odk9tX3hFSnIwRnI3ei14ajZES0RvdHhwUg?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T05:45:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体"
+      ],
+      "items": [
+        {
+          "id": "6c763e1536c3abd1849424f58a86e987bbbb9cfb",
+          "title": "【图】丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！_凯美瑞论坛 - 汽车之家论坛",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdnQ0ctaHNUak1hOGlFODExdlBCWG51UXF1ZngyYkw4TE5fWjVQeEh0NFVadDJMdFZHaDRKMmxxRnBuSDZJd1ZrV09MeU00M3EyR3BYNHdUV2UxVjgyLWlHeGNHT0NPcEhwOHFUM1RuVUo4Q0k3M0JuNmhkU2hwRUU3dw?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T07:00:00Z"
+        },
+        {
+          "id": "2153ca6ef15d8d6dfa59191e63d691521388dbd8",
+          "title": "图 丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！ - 汽车之家论坛",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2NQWFcybkh2MDd3Z1hfaFItS09ZZ21ycUNROFVFSkNUcnNybDd5NTgyX1EzWFVJWUJDb245UFdHUnZfb0FNRWc4VWNTSUJJOW1sS3hGQ1VCZm82VnkwYW1tdTZZck5Odk9tX3hFSnIwRnI3ei14ajZES0RvdHhwUg?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-09T05:45:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4842,
+      "importance": 0.4842,
+      "importance_score": 0.4842,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.0166,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T05:45:40Z",
+      "latest_at": "2026-08-09T07:00:00Z",
+      "primary_item": {
+        "id": "6c763e1536c3abd1849424f58a86e987bbbb9cfb",
+        "title": "【图】丰田九代凯美瑞大灯不够亮， 升级光科五复眼LED透镜全过程！_凯美瑞论坛 - 汽车之家论坛",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdnQ0ctaHNUak1hOGlFODExdlBCWG51UXF1ZngyYkw4TE5fWjVQeEh0NFVadDJMdFZHaDRKMmxxRnBuSDZJd1ZrV09MeU00M3EyR3BYNHdUV2UxVjgyLWlHeGNHT0NPcEhwOHFUM1RuVUo4Q0k3M0JuNmhkU2hwRUU3dw?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -655,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4849,
-      "importance": 0.4849,
-      "importance_score": 0.4849,
+      "score": 0.4831,
+      "importance": 0.4831,
+      "importance_score": 0.4831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0205,
+        "recency": 0.0102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -677,6 +657,84 @@
         "title": "【视频】奥迪 A8L 顶配尊贵型矩阵激光大灯+B&O 顶级音响 - chejiahao.m.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9raFUxVDM4UG5hQThaS1JBZDFTclkwNmVNRGh4OVNHRHRWR0NscGw2S2xEVkF3WXBBbHlZUl9FeTNhSkMtNTM3WHdhODlhSVdDdkc3bll5TWo1VHhvaUE?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_f574c3867e9d",
+      "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
+          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-14T00:00:00Z"
+        },
+        {
+          "id": "a0d23595a10d37393ffce075cdfa18443fd44978",
+          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - 电子工程专辑",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
+          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-14T00:00:00Z"
+        },
+        {
+          "id": "a0d23595a10d37393ffce075cdfa18443fd44978",
+          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - 电子工程专辑",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4799,
+      "importance": 0.4799,
+      "importance_score": 0.4799,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T00:00:00Z",
+      "latest_at": "2026-08-14T00:00:00Z",
+      "primary_item": {
+        "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
+        "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
+        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -733,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4708,
-      "importance": 0.4708,
-      "importance_score": 0.4708,
+      "score": 0.4677,
+      "importance": 0.4677,
+      "importance_score": 0.4677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0343,
+        "recency": 0.0171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -811,15 +869,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4669,
-      "importance": 0.4669,
-      "importance_score": 0.4669,
+      "score": 0.4657,
+      "importance": 0.4657,
+      "importance_score": 0.4657,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0127,
+        "recency": 0.0063,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,84 +891,6 @@
         "title": "星宇股份递交上市申请 车灯女王能否再续传奇 - news.qq.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsbVN0Z3RER3l1dTJGd09zdFZGdEoxbTA1eXprSTNtalQ3R0owWllkUTVUSkRuSWc4ak9TZXBSNUdNcEt6VXFhVkxHWF9QNzV3ZEJFTTRn?oc=5",
         "source": "Google News: 国际车灯供应商中文",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_f574c3867e9d",
-      "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
-          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "a0d23595a10d37393ffce075cdfa18443fd44978",
-          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - 电子工程专辑",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
-          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "a0d23595a10d37393ffce075cdfa18443fd44978",
-          "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - 电子工程专辑",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.1697,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
-      "primary_item": {
-        "id": "abb1d76007345a5cc3b394783afcc434d31018cc",
-        "title": "国外召回｜车灯太亮也需召回！20349辆特斯拉将被召回！ - eet-china.com",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWlUc0p2TURIRENFcThpQVlNMTVqazA2SjdKVHZVdGIwNGxQeW9PWHpPeU55Ukpfckh5a2RXcUtVS3g0T1lKS0VKY3VjQThia2Q0?oc=5",
-        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -967,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4904,
-      "importance": 0.4904,
-      "importance_score": 0.4904,
+      "score": 0.49,
+      "importance": 0.49,
+      "importance_score": 0.49,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0048,
+        "recency": 0.0024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1064,15 +1044,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0033,
+        "recency": 0.0016,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1142,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4842,
-      "importance": 0.4842,
-      "importance_score": 0.4842,
+      "score": 0.4785,
+      "importance": 0.4785,
+      "importance_score": 0.4785,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0625,
+        "recency": 0.0312,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1220,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4692,
-      "importance": 0.4692,
-      "importance_score": 0.4692,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0025,
+        "recency": 0.0012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,15 +1278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4668,
-      "importance": 0.4668,
-      "importance_score": 0.4668,
+      "score": 0.4657,
+      "importance": 0.4657,
+      "importance_score": 0.4657,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0122,
+        "recency": 0.0061,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4654,
-      "importance": 0.4654,
-      "importance_score": 0.4654,
+      "score": 0.465,
+      "importance": 0.465,
+      "importance_score": 0.465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0045,
+        "recency": 0.0022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0036,
+        "recency": 0.0018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4774,
-      "importance": 0.4774,
-      "importance_score": 0.4774,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0712,
+        "recency": 0.0356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1612,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0015,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1690,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4654,
-      "importance": 0.4654,
-      "importance_score": 0.4654,
+      "score": 0.465,
+      "importance": 0.465,
+      "importance_score": 0.465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0044,
+        "recency": 0.0022,
         "story_heat": 0.25
       },
       "category": "watch",
