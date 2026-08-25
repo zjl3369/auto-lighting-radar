@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:53:30.300656Z",
+  "generated_at": "2026-08-25T02:49:44.861918Z",
   "window_hours": 720,
   "total_items": 20,
   "items": [
@@ -94,15 +94,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0028,
+        "recency": 0.0014,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -216,7 +216,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0003,
+        "recency": 0.0001,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -330,7 +330,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -400,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0034,
+        "recency": 0.0017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -479,15 +479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4829,
-      "importance": 0.4829,
-      "importance_score": 0.4829,
+      "score": 0.4821,
+      "importance": 0.4821,
+      "importance_score": 0.4821,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0091,
+        "recency": 0.0046,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -557,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0083,
+        "recency": 0.0041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -635,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4822,
-      "importance": 0.4822,
-      "importance_score": 0.4822,
+      "score": 0.4817,
+      "importance": 0.4817,
+      "importance_score": 0.4817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0051,
+        "recency": 0.0026,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -713,15 +713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4722,
-      "importance": 0.4722,
-      "importance_score": 0.4722,
+      "score": 0.4684,
+      "importance": 0.4684,
+      "importance_score": 0.4684,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0424,
+        "recency": 0.0212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4661,
-      "importance": 0.4661,
-      "importance_score": 0.4661,
+      "score": 0.4654,
+      "importance": 0.4654,
+      "importance_score": 0.4654,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0086,
+        "recency": 0.0043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -869,15 +869,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0032,
+        "recency": 0.0016,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -947,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4898,
-      "importance": 0.4898,
-      "importance_score": 0.4898,
+      "score": 0.4897,
+      "importance": 0.4897,
+      "importance_score": 0.4897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0012,
+        "recency": 0.0006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,7 +1052,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0008,
+        "recency": 0.0004,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1122,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4757,
-      "importance": 0.4757,
-      "importance_score": 0.4757,
+      "score": 0.4743,
+      "importance": 0.4743,
+      "importance_score": 0.4743,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0156,
+        "recency": 0.0078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,30 +1148,30 @@
       }
     },
     {
-      "story_id": "story_f554f2eea929",
-      "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+      "story_id": "story_cf9621701e83",
+      "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
       "source": "Google News: 车型灯组/灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
+          "published_at": "2026-07-31T08:05:00Z"
         },
         {
-          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "id": "29295e2347806e30ccf97508607d7bb864683308",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
+          "published_at": "2026-07-31T08:05:00Z"
         }
       ],
       "source_count": 2,
@@ -1180,47 +1180,47 @@
       ],
       "items": [
         {
-          "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
+          "published_at": "2026-07-31T08:05:00Z"
         },
         {
-          "id": "308e00298ab9504c11b4172ff870a73cac184aae",
-          "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 集微网",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+          "id": "29295e2347806e30ccf97508607d7bb864683308",
+          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-01T19:45:39Z"
+          "published_at": "2026-07-31T08:05:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0006,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T19:45:39Z",
-      "latest_at": "2026-08-01T19:45:39Z",
+      "earliest_at": "2026-07-31T08:05:00Z",
+      "latest_at": "2026-07-31T08:05:00Z",
       "primary_item": {
-        "id": "a48b00b9c7ece74a39cf5019d0df0b8dfc709d3b",
-        "title": "全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - laoyaoba.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOWFLUWNtbHdFbk5qYlZ2S3E5TThNaXZiT2QzamhOS29VaG1kOTFrRHlWa0sxcW96aTFwNWtVd3pjYjVGLWxoZFJn?oc=5",
+        "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
+        "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
@@ -1278,15 +1278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.003,
+        "recency": 0.0015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0011,
+        "recency": 0.0006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4897,
-      "importance": 0.4897,
-      "importance_score": 0.4897,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0009,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,30 +1462,30 @@
       }
     },
     {
-      "story_id": "story_cf9621701e83",
-      "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+      "story_id": "story_c25e162264e0",
+      "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
       "source": "Google News: 车型灯组/灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-07-29T14:00:00Z"
         },
         {
-          "id": "29295e2347806e30ccf97508607d7bb864683308",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-07-29T14:00:00Z"
         }
       ],
       "source_count": 2,
@@ -1494,22 +1494,22 @@
       ],
       "items": [
         {
-          "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-07-29T14:00:00Z"
         },
         {
-          "id": "29295e2347806e30ccf97508607d7bb864683308",
-          "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - news.qq.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+          "id": "1fe482071bd8ea0fee733abf96b531116732f702",
+          "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
           "source": "Google News: 车型灯组/灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-07-31T08:05:00Z"
+          "published_at": "2026-07-29T14:00:00Z"
         }
       ],
       "item_count": 2,
@@ -1522,19 +1522,19 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0004,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T08:05:00Z",
-      "latest_at": "2026-07-31T08:05:00Z",
+      "earliest_at": "2026-07-29T14:00:00Z",
+      "latest_at": "2026-07-29T14:00:00Z",
       "primary_item": {
-        "id": "a090cb378931f7a76a2fd0ae86d73303ebd9b096",
-        "title": "中国汽车标准化研究院安全是底线规范汽车灯光安装使用 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNuY2M4X3FhQlN3Z2ZjSk1qMzhFTENLeGpOWEgwTmJWbFhXMEZOM3NrTERYLWl5M29TVF9ual9adk5ibkdnQzJfeFdOdlZvTGVGWDhB?oc=5",
+        "id": "6eb47e232c2c3ca529d4a70180bb9fd99a8458d9",
+        "title": "事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用 - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU3lQdHZLaVlCa3oxRUVua0tDckVwY1JJX1lKT0pkQ0I1Vm1TUEFiNmZVdFZRZExoazN1VV9qNXYwbDk4U3phZWJxWDlNUDV6dU45YW1DX1lYUU9sVGM1cUN6YmJpdmJsWUFvbDVZTEFwLWI5dEhfZmZTZmRoU1E?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
@@ -1592,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4678,
-      "importance": 0.4678,
-      "importance_score": 0.4678,
+      "score": 0.4662,
+      "importance": 0.4662,
+      "importance_score": 0.4662,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0178,
+        "recency": 0.0089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1670,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0011,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
