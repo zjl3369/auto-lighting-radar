@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-08-25T02:49:44.861918Z",
+  "generated_at": "2026-08-27T12:07:22.073785Z",
   "window_hours": 720,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_eecd2ad03e83",
+      "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+      "source": "Google News: 尾灯/贯穿式/OLED",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-26T03:17:47Z"
+        },
+        {
+          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T02:46:26Z"
+        },
+        {
+          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T02:46:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Google News: 尾灯/贯穿式/OLED"
+      ],
+      "items": [
+        {
+          "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-26T03:17:47Z"
+        },
+        {
+          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T02:46:26Z"
+        },
+        {
+          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
+          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "source": "Google News: 尾灯/贯穿式/OLED",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-11T02:46:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.58,
+        "ai_relevance": 0.77,
+        "recency": 0.6225,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-11T02:46:26Z",
+      "latest_at": "2026-08-26T03:17:47Z",
+      "primary_item": {
+        "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
+        "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+        "source": "Google News: 尾灯/贯穿式/OLED",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_a9ad3c53319b",
       "title": "“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资",
@@ -94,15 +190,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0014,
+        "recency": 0.0006,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -330,7 +426,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -400,15 +496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4897,
+      "importance": 0.4897,
+      "importance_score": 0.4897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0017,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -423,84 +519,6 @@
         "title": "2026年4月2026世界杯足彩玩法期间 ZKW为全新奥迪A8配备革命性微型LED矩阵大灯技术 - tgbus.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqN0VDNnAyTFU4Wm9pVG9SOFFBZUQtT3BfaUlRRDhCamNWUV9VVXZxelI1YXRfRWNYSXhKVGdJZTFrNDNRWFhJcTZPMWRyUUFnNTh5dXVB?oc=5",
         "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_ced489f472a4",
-      "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-      "source": "Google News: 尾灯/贯穿式/OLED",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
-          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-09T13:26:20Z"
-        },
-        {
-          "id": "6c59b56750d1599270539212765db8c67059b6e3",
-          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-09T13:26:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 尾灯/贯穿式/OLED"
-      ],
-      "items": [
-        {
-          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
-          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-09T13:26:20Z"
-        },
-        {
-          "id": "6c59b56750d1599270539212765db8c67059b6e3",
-          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-09T13:26:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4821,
-      "importance": 0.4821,
-      "importance_score": 0.4821,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.0046,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T13:26:20Z",
-      "latest_at": "2026-08-09T13:26:20Z",
-      "primary_item": {
-        "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
-        "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
-        "source": "Google News: 尾灯/贯穿式/OLED",
         "source_name": "Industry / News Search"
       }
     },
@@ -557,15 +575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.482,
-      "importance": 0.482,
-      "importance_score": 0.482,
+      "score": 0.4816,
+      "importance": 0.4816,
+      "importance_score": 0.4816,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0041,
+        "recency": 0.0018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -635,15 +653,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4817,
-      "importance": 0.4817,
-      "importance_score": 0.4817,
+      "score": 0.4814,
+      "importance": 0.4814,
+      "importance_score": 0.4814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0026,
+        "recency": 0.0011,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -713,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.4663,
+      "importance": 0.4663,
+      "importance_score": 0.4663,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0212,
+        "recency": 0.0093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4654,
-      "importance": 0.4654,
-      "importance_score": 0.4654,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0043,
+        "recency": 0.0019,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -869,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0016,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -947,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4897,
-      "importance": 0.4897,
-      "importance_score": 0.4897,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0006,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,15 +1062,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4897,
-      "importance": 0.4897,
-      "importance_score": 0.4897,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0004,
+        "recency": 0.0002,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1070,30 +1088,30 @@
       }
     },
     {
-      "story_id": "story_eecd2ad03e83",
-      "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+      "story_id": "story_ced489f472a4",
+      "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
       "source": "Google News: 尾灯/贯穿式/OLED",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
           "source": "Google News: 尾灯/贯穿式/OLED",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
+          "published_at": "2026-08-09T13:26:20Z"
         },
         {
-          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "id": "6c59b56750d1599270539212765db8c67059b6e3",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
           "source": "Google News: 尾灯/贯穿式/OLED",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
+          "published_at": "2026-08-09T13:26:20Z"
         }
       ],
       "source_count": 2,
@@ -1102,47 +1120,47 @@
       ],
       "items": [
         {
-          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
           "source": "Google News: 尾灯/贯穿式/OLED",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
+          "published_at": "2026-08-09T13:26:20Z"
         },
         {
-          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+          "id": "6c59b56750d1599270539212765db8c67059b6e3",
+          "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
           "source": "Google News: 尾灯/贯穿式/OLED",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
+          "published_at": "2026-08-09T13:26:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4743,
-      "importance": 0.4743,
-      "importance_score": 0.4743,
+      "score": 0.4816,
+      "importance": 0.4816,
+      "importance_score": 0.4816,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5544,
+        "editorial": 0.5688,
         "source_tier": 0.58,
-        "ai_relevance": 0.77,
-        "recency": 0.0078,
+        "ai_relevance": 0.79,
+        "recency": 0.002,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-11T02:46:26Z",
-      "latest_at": "2026-08-11T02:46:26Z",
+      "earliest_at": "2026-08-09T13:26:20Z",
+      "latest_at": "2026-08-09T13:26:20Z",
       "primary_item": {
-        "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
-        "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
+        "id": "e1491ff934249a6eb3599f3870e1afb2eeacf130",
+        "title": "上汽奥迪A5L实车曝光：采用可发光LOGO和棱角分明的贯穿式尾灯 - chejiahao.autohome.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWVh5MWE5SHZqNjFfZm9kQUtQU0FVcGxiWUxJdTI2U3Z0R2Q4alB5Z0RmS3hNRU14OHc4M2N0RjRVcDhWdUNMNHl5bmd1cjAwdDg0UkhaVjZ1NXhNTktaRWdoNjVCb1E?oc=5",
         "source": "Google News: 尾灯/贯穿式/OLED",
         "source_name": "Industry / News Search"
       }
@@ -1208,7 +1226,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0015,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0006,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,7 +1461,7 @@
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.0005,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,7 +1540,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,15 +1610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4662,
-      "importance": 0.4662,
-      "importance_score": 0.4662,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0089,
+        "recency": 0.0039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,30 +1636,30 @@
       }
     },
     {
-      "story_id": "story_b3919852a30b",
-      "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+      "story_id": "story_55fb396cad57",
+      "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
       "source": "Google News: 国内车灯供应商",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "1e858f47a9b7c1e217689a342bb7cb21a17d83e4",
-          "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - sohu.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+          "id": "13ddf7465c85abc3ed840afbd45b348d4e538d74",
+          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-03T10:19:02Z"
+          "published_at": "2026-07-31T07:00:00Z"
         },
         {
-          "id": "2a72ccc1a045f160fd4ae61691050ea01c96f111",
-          "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+          "id": "875067bdf5a5836ec1f4c139bd39defcdcf7fe6b",
+          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-03T10:19:02Z"
+          "published_at": "2026-07-31T07:00:00Z"
         }
       ],
       "source_count": 2,
@@ -1650,47 +1668,47 @@
       ],
       "items": [
         {
-          "id": "1e858f47a9b7c1e217689a342bb7cb21a17d83e4",
-          "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - sohu.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+          "id": "13ddf7465c85abc3ed840afbd45b348d4e538d74",
+          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-03T10:19:02Z"
+          "published_at": "2026-07-31T07:00:00Z"
         },
         {
-          "id": "2a72ccc1a045f160fd4ae61691050ea01c96f111",
-          "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+          "id": "875067bdf5a5836ec1f4c139bd39defcdcf7fe6b",
+          "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - news.qq.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-03T10:19:02Z"
+          "published_at": "2026-07-31T07:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0005,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T10:19:02Z",
-      "latest_at": "2026-08-03T10:19:02Z",
+      "earliest_at": "2026-07-31T07:00:00Z",
+      "latest_at": "2026-07-31T07:00:00Z",
       "primary_item": {
-        "id": "1e858f47a9b7c1e217689a342bb7cb21a17d83e4",
-        "title": "星宇股份二度递表港交所：车灯龙头加速“A+H”全球化布局 - sohu.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lbFljdkdpVUJoSlR5VlA2Um94c0tEUUQtam9LUG1iaXlNOWJpQktCMGdLanB2WTZTRVBsU1pqVUFYWWtvck4zX2V3UE9EZE04MXc?oc=5",
+        "id": "13ddf7465c85abc3ed840afbd45b348d4e538d74",
+        "title": "一图解码：星宇股份二次递表港交所 国内车灯龙头 年入超150亿 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUDItazVYRTJwbXhOM0RrQ014WHRlbk5kektXS1lTdjh1Wk5INHFCVVlfYUxBNnpmRjR3YzdXUTlNUUVIM0x3eXdrV1VZSjVhYkp1enRn?oc=5",
         "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
