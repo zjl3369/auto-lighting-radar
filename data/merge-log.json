@@ -1,64 +1,8 @@
 {
-  "generated_at": "2026-08-27T12:07:22.073785Z",
+  "generated_at": "2026-08-29T08:23:56.467746Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 40,
+  "total_events": 32,
   "events": [
-    {
-      "story_id": "story_0944404ea653",
-      "item_id": "93f9eda6516549f2c0bb4276e91de91ff86df375",
-      "merged_into": "story_0944404ea653",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_0944404ea653",
-      "item_id": "7894a85dd57e1db5caba71d4906634267aa905a3",
-      "merged_into": "story_0944404ea653",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_0944404ea653",
-      "item_id": "b232b9c18899370bde8a73e4d9f066b894704911",
-      "merged_into": "story_0944404ea653",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_c25e162264e0",
-      "item_id": "1fe482071bd8ea0fee733abf96b531116732f702",
-      "merged_into": "story_c25e162264e0",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_ccb04749b15d",
-      "item_id": "496699e86ce4e2d7ea258ac5508d499f684c15dd",
-      "merged_into": "story_ccb04749b15d",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_9e8a4018d835",
-      "item_id": "a92a44e533d00ba8fd0297c712cabcb89dd72de0",
-      "merged_into": "story_9e8a4018d835",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_9e8a4018d835",
-      "item_id": "2585e7bb6f2da904dc10b3418fe29a8e664c3a29",
-      "merged_into": "story_9e8a4018d835",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_9e8a4018d835",
-      "item_id": "a923d006dd8a427de9a7d0b73cd886839be215cc",
-      "merged_into": "story_9e8a4018d835",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_b1fcdc7770cc",
       "item_id": "a8aa55274d45296b606260fb4246ab645725b1d7",
