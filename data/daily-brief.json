@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T06:51:44.803542Z",
+  "generated_at": "2026-09-11T06:47:43.249109Z",
   "window_hours": 720,
-  "total_items": 18,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_3dbee021e166",
@@ -21,8 +21,8 @@
           "published_at": "2026-09-05T01:23:20Z"
         },
         {
-          "id": "7a80dd4c4358741c9027a1fd3d98fc6044b15c86",
-          "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - 凤凰网财经",
+          "id": "ae7190034c9923a8e791cb43cd3987d8dd58f10a",
+          "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wWkNIdE5MeFBwYzd2Wk1DeFNNcWMzalA0b19hZGNrZUZWYzM0Z2l4ZFg2SzFoS1UzQVZEUzAyN0RTVlpDY2RadnV4YU1XNkQ2?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
@@ -45,8 +45,8 @@
           "published_at": "2026-09-05T01:23:20Z"
         },
         {
-          "id": "7a80dd4c4358741c9027a1fd3d98fc6044b15c86",
-          "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - 凤凰网财经",
+          "id": "ae7190034c9923a8e791cb43cd3987d8dd58f10a",
+          "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wWkNIdE5MeFBwYzd2Wk1DeFNNcWMzalA0b19hZGNrZUZWYzM0Z2l4ZFg2SzFoS1UzQVZEUzAyN0RTVlpDY2RadnV4YU1XNkQ2?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.4937,
+      "importance": 0.4937,
+      "importance_score": 0.4937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.231,
+        "recency": 0.1156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -78,180 +78,6 @@
         "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - finance.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wWkNIdE5MeFBwYzd2Wk1DeFNNcWMzalA0b19hZGNrZUZWYzM0Z2l4ZFg2SzFoS1UzQVZEUzAyN0RTVlpDY2RadnV4YU1XNkQ2?oc=5",
         "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_eecd2ad03e83",
-      "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-      "source": "Google News: 尾灯/贯穿式/OLED",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-26T03:17:47Z"
-        },
-        {
-          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
-        },
-        {
-          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Google News: 尾灯/贯穿式/OLED"
-      ],
-      "items": [
-        {
-          "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-26T03:17:47Z"
-        },
-        {
-          "id": "4b0a87a9e1c9b385aea72f73de4f527e8cb3a730",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
-        },
-        {
-          "id": "cd2aadd8163a03bd96daa5e10a13d4206b16cab9",
-          "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-          "source": "Google News: 尾灯/贯穿式/OLED",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T02:46:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5544,
-        "source_tier": 0.58,
-        "ai_relevance": 0.77,
-        "recency": 0.0074,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-11T02:46:26Z",
-      "latest_at": "2026-08-26T03:17:47Z",
-      "primary_item": {
-        "id": "bf13c1a156af744e6af70d3220cbc9dc79b478a2",
-        "title": "全新奥迪A6 Avant（C9）亮相：风阻仅0.25，配数字OLED尾灯！ - 车家号",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNVIyYkRtOEFGYWhPU1pWZ3RrLUVKT0Z4NnpBbThOYzhDRmRSWWN4bkJURXREWmNlUDE0SjRtQkd3dTBmNHhyQlRYU3RYSllNTVFWaGJQcl9ZZ1NpU3c?oc=5",
-        "source": "Google News: 尾灯/贯穿式/OLED",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_a63c0689cec8",
-      "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "69dd71941140ab6f912b82286be42264c33c7865",
-          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T06:34:14Z"
-        },
-        {
-          "id": "0db56bd625c7afb1d153c606f4d47be7e6896d48",
-          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T06:34:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "69dd71941140ab6f912b82286be42264c33c7865",
-          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T06:34:14Z"
-        },
-        {
-          "id": "0db56bd625c7afb1d153c606f4d47be7e6896d48",
-          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T06:34:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.0311,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T06:34:14Z",
-      "latest_at": "2026-08-30T06:34:14Z",
-      "primary_item": {
-        "id": "69dd71941140ab6f912b82286be42264c33c7865",
-        "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -316,7 +142,7 @@
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0004,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -330,6 +156,84 @@
         "title": "从拖拉机灯泡厂到新能源像素大灯，星宇股份为何收割应届生 - 凤凰网财经",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KdnNTN0ZibHhyZkdHM1ZLWERnU2dtWFhyWUtZcEp2M1ZmZDNBOHhJUUdHQWs5eHBIRVNnZUVZTDZiQmg4RThpbmhseHB3Vnla?oc=5",
         "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_a63c0689cec8",
+      "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "69dd71941140ab6f912b82286be42264c33c7865",
+          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-30T06:34:14Z"
+        },
+        {
+          "id": "0db56bd625c7afb1d153c606f4d47be7e6896d48",
+          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-30T06:34:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体"
+      ],
+      "items": [
+        {
+          "id": "69dd71941140ab6f912b82286be42264c33c7865",
+          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-30T06:34:14Z"
+        },
+        {
+          "id": "0db56bd625c7afb1d153c606f4d47be7e6896d48",
+          "title": "【视频】闪大灯的汽车灯语你知道吗？ - 车家号",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-30T06:34:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4799,
+      "importance": 0.4799,
+      "importance_score": 0.4799,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.0156,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T06:34:14Z",
+      "latest_at": "2026-08-30T06:34:14Z",
+      "primary_item": {
+        "id": "69dd71941140ab6f912b82286be42264c33c7865",
+        "title": "【视频】闪大灯的汽车灯语你知道吗？ - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USEFWYlhvRjZVMnY4VGVxVHR4cExCWmdiXzYyVWM5cHNOOGc1VEVETjMyVnlleWo4NUIwM3ROdmFDYWJEcnBvTWJwSFo4ajZEX3RvdUZVQjVSd244VEdRNmtsOUhxX1F6eHNz?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -386,15 +290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4722,
+      "importance": 0.4722,
+      "importance_score": 0.4722,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0846,
+        "recency": 0.0423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4657,
-      "importance": 0.4657,
-      "importance_score": 0.4657,
+      "score": 0.4652,
+      "importance": 0.4652,
+      "importance_score": 0.4652,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0063,
+        "recency": 0.0031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -543,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
+      "score": 0.4791,
+      "importance": 0.4791,
+      "importance_score": 0.4791,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.1615,
+        "recency": 0.0808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -564,241 +468,6 @@
         "id": "01f548c6a0a142a676686835f7698a93b32fa668",
         "title": "星宇股份国内车灯第一，创始人周晓萍为何解约107名应届生？ - finance.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uYVR5MWlsZ2hORU5NbzlNS2hUendXbDZxLUpMX0VfZUUzZGNpTW5CLU41eGdLQW5kb29DLWRXODAyNjlqUlpWNXgyVGI2UTk0?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_accb690b0dac",
-      "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - 凤凰网科技",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15eWIzRjc4Rkoxb1lkTGNPV2RpdDgxTF8tcXRkS3pYUmk2dGstYmxjeXZZX2V5ZzZ4RFZyR01pcFBGRlRWUTFpby1velc?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15eWIzRjc4Rkoxb1lkTGNPV2RpdDgxTF8tcXRkS3pYUmk2dGstYmxjeXZZX2V5ZzZ4RFZyR01pcFBGRlRWUTFpby1velc?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "8321c5a2deee67235c98093f4878278ed9ede6b9",
-          "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - 凤凰网科技",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15eWIzRjc4Rkoxb1lkTGNPV2RpdDgxTF8tcXRkS3pYUmk2dGstYmxjeXZZX2V5ZzZ4RFZyR01pcFBGRlRWUTFpby1velc?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:48Z"
-        },
-        {
-          "id": "b1ed7660cc2a91f0b660e178ce4c3dd6e156b3ae",
-          "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2ZEWktSOEZtcFVldDBzSTVhZjFXWmw3by1PQ2FTSndNTU5kMnlnRk1lNmNMdXBrWWdpWHh5TlRwYzJBYm9rcldFdEtPNUtRQUNGZjNDYmdtYVByUFBpazh5QWs5VVRlYmI2VUNudXU1c1U1TVdQNFRrN3VuSGZXQWIxelc5YXZq?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:45:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置",
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "8321c5a2deee67235c98093f4878278ed9ede6b9",
-          "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - 凤凰网科技",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15eWIzRjc4Rkoxb1lkTGNPV2RpdDgxTF8tcXRkS3pYUmk2dGstYmxjeXZZX2V5ZzZ4RFZyR01pcFBGRlRWUTFpby1velc?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:48Z"
-        },
-        {
-          "id": "b1ed7660cc2a91f0b660e178ce4c3dd6e156b3ae",
-          "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2ZEWktSOEZtcFVldDBzSTVhZjFXWmw3by1PQ2FTSndNTU5kMnlnRk1lNmNMdXBrWWdpWHh5TlRwYzJBYm9rcldFdEtPNUtRQUNGZjNDYmdtYVByUFBpazh5QWs5VVRlYmI2VUNudXU1c1U1TVdQNFRrN3VuSGZXQWIxelc5YXZq?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:45:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-11T11:45:09Z",
-      "latest_at": "2026-08-11T11:51:48Z",
-      "primary_item": {
-        "id": "8321c5a2deee67235c98093f4878278ed9ede6b9",
-        "title": "与华为联合研发：小鹏G9L官宣搭载百万像素AI数字投影大灯 - 凤凰网科技",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15eWIzRjc4Rkoxb1lkTGNPV2RpdDgxTF8tcXRkS3pYUmk2dGstYmxjeXZZX2V5ZzZ4RFZyR01pcFBGRlRWUTFpby1velc?oc=5",
-        "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_184ebbe39198",
-      "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - news18a.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "490892438b21358db89336a9242a00985f83896e",
-          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:10Z"
-        },
-        {
-          "id": "c5651325fd173d5d4cdf47eb633730d07a26b1a4",
-          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "490892438b21358db89336a9242a00985f83896e",
-          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:10Z"
-        },
-        {
-          "id": "c5651325fd173d5d4cdf47eb633730d07a26b1a4",
-          "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-11T11:51:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-11T11:51:10Z",
-      "latest_at": "2026-08-11T11:51:10Z",
-      "primary_item": {
-        "id": "490892438b21358db89336a9242a00985f83896e",
-        "title": "小鹏G9L大五座SUV全球首秀 搭载与华为联合研发百万像素AI数字投影大灯 - news18a.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcE1hZlFfM1c5cnI5ZERTMlNEc1hvT1l6WTc3b0s3dkFJeTlQTl9zc0NUdkRWYnd6YzdsMjdsZEYxcVFlZWdZNndMVzhSRWFRWVB5ODNfMkptQQ?oc=5",
-        "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_a715b59e2330",
-      "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "d9d209afe001ab5d291ec081718527331a151d59",
-          "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T13:41:16Z"
-        },
-        {
-          "id": "dcbd285075197dbb5b6c6bd643002b4c3408720e",
-          "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T13:41:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "d9d209afe001ab5d291ec081718527331a151d59",
-          "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T13:41:16Z"
-        },
-        {
-          "id": "dcbd285075197dbb5b6c6bd643002b4c3408720e",
-          "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T13:41:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4731,
-      "importance": 0.4731,
-      "importance_score": 0.4731,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0244,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:41:16Z",
-      "latest_at": "2026-08-29T13:41:16Z",
-      "primary_item": {
-        "id": "d9d209afe001ab5d291ec081718527331a151d59",
-        "title": "奥迪最出色的就是大灯，平平无奇的车灯，你们看见了吗 - k.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jLUxCaVRIN3dYRC1Fai12NkV3Z2h4cnpJYXUzc3V1eFFEc3ViYjJXY2ZJY1lRa2I1RHlqejJ0VDh4Zm5UUEhIYnlPeW1RWVRxbm5taklWaTVaNGx3YUpEcU5pdUlFUjNXc0xvbXd0MzdtaWc?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -856,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4686,
-      "importance": 0.4686,
-      "importance_score": 0.4686,
+      "score": 0.4666,
+      "importance": 0.4666,
+      "importance_score": 0.4666,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0221,
+        "recency": 0.0111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,6 +546,84 @@
         "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
         "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+        "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_6850799e2ca0",
+      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        },
+        {
+          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        },
+        {
+          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4665,
+      "importance": 0.4665,
+      "importance_score": 0.4665,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0103,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T02:04:29Z",
+      "latest_at": "2026-08-29T02:04:29Z",
+      "primary_item": {
+        "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -935,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
+      "score": 0.4664,
+      "importance": 0.4664,
+      "importance_score": 0.4664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0205,
+        "recency": 0.0103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,84 +703,6 @@
         "id": "560015be763bee662f88fb2a27b3a1d115599b72",
         "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_6850799e2ca0",
-      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        },
-        {
-          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        },
-        {
-          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0206,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T02:04:29Z",
-      "latest_at": "2026-08-29T02:04:29Z",
-      "primary_item": {
-        "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -1091,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4665,
-      "importance": 0.4665,
-      "importance_score": 0.4665,
+      "score": 0.4656,
+      "importance": 0.4656,
+      "importance_score": 0.4656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0107,
+        "recency": 0.0054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4664,
-      "importance": 0.4664,
-      "importance_score": 0.4664,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0101,
+        "recency": 0.0051,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1247,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4655,
-      "importance": 0.4655,
-      "importance_score": 0.4655,
+      "score": 0.4651,
+      "importance": 0.4651,
+      "importance_score": 0.4651,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0051,
+        "recency": 0.0026,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,15 +994,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4655,
-      "importance": 0.4655,
-      "importance_score": 0.4655,
+      "score": 0.4651,
+      "importance": 0.4651,
+      "importance_score": 0.4651,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0051,
+        "recency": 0.0026,
         "story_heat": 0.25
       },
       "category": "watch",
