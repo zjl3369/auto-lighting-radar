@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T07:23:04.481813Z",
+  "generated_at": "2026-09-23T06:54:53.925064Z",
   "window_hours": 720,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_2c7b0d8db2eb",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5009,
+      "importance": 0.5009,
+      "importance_score": 0.5009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.217,
+        "recency": 0.1092,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4883,
-      "importance": 0.4883,
-      "importance_score": 0.4883,
+      "score": 0.4869,
+      "importance": 0.4869,
+      "importance_score": 0.4869,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0162,
+        "recency": 0.0082,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -158,6 +158,85 @@
         "title": "首发双模DLP投影与Micro LED智能大灯模组 歌尔光学全面展示车载光学全链路布局 - 驱动之家",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrZ3Mwd3RlS3dBVzhQZmtjRGJrZWF1SGZDSUVLWWxHUGtVMHNTcERSeHhocjJjZlBlTlk3RzBINU5WQndUcTF2bEVLVEE3bkVZQnFiX2JCMWk?oc=5",
         "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_b378966edd82",
+      "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+      "source": "Google News: supplier lighting",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "81d39b319f824ffa739956993be4a8feb15e0fb9",
+          "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+          "source": "Google News: supplier lighting",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-03T13:30:00Z"
+        },
+        {
+          "id": "fff3e7e71815ecea95a9dc8dc5c9387efbc65c5f",
+          "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+          "source": "Google News: supplier lighting",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-03T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: supplier lighting"
+      ],
+      "items": [
+        {
+          "id": "81d39b319f824ffa739956993be4a8feb15e0fb9",
+          "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+          "source": "Google News: supplier lighting",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-03T13:30:00Z"
+        },
+        {
+          "id": "fff3e7e71815ecea95a9dc8dc5c9387efbc65c5f",
+          "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+          "source": "Google News: supplier lighting",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-03T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4856,
+      "importance": 0.4856,
+      "importance_score": 0.4856,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.576,
+        "source_tier": 0.58,
+        "ai_relevance": 0.8,
+        "recency": 0.0011,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-03T07:00:00Z",
+      "latest_at": "2026-09-03T13:30:00Z",
+      "primary_item": {
+        "id": "81d39b319f824ffa739956993be4a8feb15e0fb9",
+        "title": "High-Brightness Light-Emitting Diodes (LED) Headlamps Market Outlook 2026-2030 Featuring Profiles of Koito Manufacturing, Valeo and Stanley Electric - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFFRTzZCSDJWLXdnVEpwT3owcHhLRjBFQkVaY1ZHRHhBb1JMRGp0dmYweXZ3cktGNTVfb1RNWGtDZDFJamVOMTNKbjJIZk9BVzhsektaVmlZN0JtUzNTMDZNMUJsNVlFdWZUY1R5c2hKYlNuRXVsNXJOSlJ5dW1EMUxtSVZfWU44N0NFRmRSbE9nempJTHpFQksxNkUzT3hSRUtNY2UzZk44YjQ?oc=5",
+        "source": "Google News: supplier lighting",
         "source_name": "Industry / News Search"
       }
     },
@@ -214,15 +293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4772,
-      "importance": 0.4772,
-      "importance_score": 0.4772,
+      "score": 0.4771,
+      "importance": 0.4771,
+      "importance_score": 0.4771,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.0005,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -293,15 +372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4719,
-      "importance": 0.4719,
-      "importance_score": 0.4719,
+      "score": 0.4703,
+      "importance": 0.4703,
+      "importance_score": 0.4703,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0175,
+        "recency": 0.0088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -380,7 +459,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -398,30 +477,30 @@
       }
     },
     {
-      "story_id": "story_0155591dc0b2",
-      "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+      "story_id": "story_4ca323aafd5c",
+      "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
       "source": "Google News: 智能大灯技术",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
+          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
+          "published_at": "2026-08-30T23:44:53Z"
         },
         {
-          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
+          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
+          "published_at": "2026-08-30T23:44:53Z"
         }
       ],
       "source_count": 2,
@@ -430,47 +509,47 @@
       ],
       "items": [
         {
-          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
+          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
+          "published_at": "2026-08-30T23:44:53Z"
         },
         {
-          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
+          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
+          "published_at": "2026-08-30T23:44:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4771,
+      "importance": 0.4771,
+      "importance_score": 0.4771,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.5616,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0775,
+        "ai_relevance": 0.78,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T22:15:59Z",
-      "latest_at": "2026-09-13T22:15:59Z",
+      "earliest_at": "2026-08-30T23:44:53Z",
+      "latest_at": "2026-08-30T23:44:53Z",
       "primary_item": {
-        "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-        "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+        "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
+        "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
         "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
@@ -528,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4736,
-      "importance": 0.4736,
-      "importance_score": 0.4736,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0036,
+        "recency": 0.0018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0013,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -632,30 +711,30 @@
       }
     },
     {
-      "story_id": "story_4ca323aafd5c",
-      "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+      "story_id": "story_0155591dc0b2",
+      "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
       "source": "Google News: 智能大灯技术",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
+          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
+          "published_at": "2026-09-13T22:15:59Z"
         },
         {
-          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
+          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
+          "published_at": "2026-09-13T22:15:59Z"
         }
       ],
       "source_count": 2,
@@ -664,47 +743,47 @@
       ],
       "items": [
         {
-          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
+          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
+          "published_at": "2026-09-13T22:15:59Z"
         },
         {
-          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
+          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
           "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
+          "published_at": "2026-09-13T22:15:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4772,
-      "importance": 0.4772,
-      "importance_score": 0.4772,
+      "score": 0.4758,
+      "importance": 0.4758,
+      "importance_score": 0.4758,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
+        "editorial": 0.5472,
         "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.0006,
+        "ai_relevance": 0.76,
+        "recency": 0.039,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T23:44:53Z",
-      "latest_at": "2026-08-30T23:44:53Z",
+      "earliest_at": "2026-09-13T22:15:59Z",
+      "latest_at": "2026-09-13T22:15:59Z",
       "primary_item": {
-        "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-        "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
+        "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
+        "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
         "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
@@ -762,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4717,
-      "importance": 0.4717,
-      "importance_score": 0.4717,
+      "score": 0.4682,
+      "importance": 0.4682,
+      "importance_score": 0.4682,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0395,
+        "recency": 0.0199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -840,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0072,
+        "recency": 0.0036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -918,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0025,
+        "recency": 0.0013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -939,240 +1018,6 @@
         "id": "01f548c6a0a142a676686835f7698a93b32fa668",
         "title": "星宇股份国内车灯第一，创始人周晓萍为何解约107名应届生？ - finance.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uYVR5MWlsZ2hORU5NbzlNS2hUendXbDZxLUpMX0VfZUUzZGNpTW5CLU41eGdLQW5kb29DLWRXODAyNjlqUlpWNXgyVGI2UTk0?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_de11b7b2dd9a",
-      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T01:47:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T01:47:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0003,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:47:00Z",
-      "latest_at": "2026-08-29T07:00:00Z",
-      "primary_item": {
-        "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_baa1c0d773f7",
-      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "d45d0972798e0a2a113c36602e7ff082ca5003a7",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "d45d0972798e0a2a113c36602e7ff082ca5003a7",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0003,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T07:00:00Z",
-      "latest_at": "2026-08-29T07:00:00Z",
-      "primary_item": {
-        "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
-        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_6850799e2ca0",
-      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        },
-        {
-          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        },
-        {
-          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T02:04:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0003,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T02:04:29Z",
-      "latest_at": "2026-08-29T02:04:29Z",
-      "primary_item": {
-        "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
-        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -1238,7 +1083,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1316,7 +1161,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,7 +1239,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1472,7 +1317,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,6 +1330,240 @@
         "id": "0b97addc0950d518171178f28c0c1b364bf7bf55",
         "title": "硕士进车间打螺丝羞辱式劝退引热议！车灯龙头企业星宇股份致歉：补偿3个月求职补贴 - news.mydrivers.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6Szd1RVZiUzhtWVBpOEhhSXk5S1RXNkN5eEpjYnVtSnlNdWtTcGdiZHdWZDFlMER5WkIxdEljdmtTVXk4Uy0yS29wekl4cUhYYTI0YTd4dkE?oc=5",
+        "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_de11b7b2dd9a",
+      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T01:47:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T01:47:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0002,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:47:00Z",
+      "latest_at": "2026-08-29T07:00:00Z",
+      "primary_item": {
+        "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
+        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+        "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_baa1c0d773f7",
+      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "d45d0972798e0a2a113c36602e7ff082ca5003a7",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "d45d0972798e0a2a113c36602e7ff082ca5003a7",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0002,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:00:00Z",
+      "latest_at": "2026-08-29T07:00:00Z",
+      "primary_item": {
+        "id": "91c4d988e853817281a6b09388a9f1956e347dc1",
+        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - eastmoney.com",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DXzE1cENJMkQxbVVUVjdJa19wcUJVazJLcTFWWF9GZ2xucF9fTFhHWHhTY3QxU3VvdWlueGRyV2ZVTS02SFh3SjhZWng5YjRYdngtbFBqanNjNVlVaXZ5OA?oc=5",
+        "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_6850799e2ca0",
+      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        },
+        {
+          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        },
+        {
+          "id": "e8d1210aef66d9b2c63d4d4984c23788c8e470df",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T02:04:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0002,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T02:04:29Z",
+      "latest_at": "2026-08-29T02:04:29Z",
+      "primary_item": {
+        "id": "79641f1e6c35aad1e589948335bb0a75fff12e05",
+        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1B1b3d1VmlFa05fZWdDYXNMTVBLUWNNQ2ZtRXZGb2JLdjdIYlJJd2dtZW16WGdUcEZoNFMyTnJ0aXA1TjlUZnEzNEJPbzhUNHdSODhPSVN3TmIwMlhXZFF4dkFHUWhnYWROVkRBV1kxZnh3WUhWMDRBNllYUmNoTXQ5aTh2SWxMcS1TeXFlWEp5ZWgxS0MxY1lfSHFiMGlB?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
