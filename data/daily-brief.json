@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-09-23T06:54:53.925064Z",
+  "generated_at": "2026-09-25T06:48:31.940725Z",
   "window_hours": 720,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
+    {
+      "story_id": "story_796f4f6693c9",
+      "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "81c0103dcfbc5d1a1ac0f1adfa7503c59561d0ff",
+          "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-20T03:31:02Z"
+        },
+        {
+          "id": "6b41c23b4406569aa4aee49363e09e333ea57821",
+          "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-04T17:18:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "81c0103dcfbc5d1a1ac0f1adfa7503c59561d0ff",
+          "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-20T03:31:02Z"
+        },
+        {
+          "id": "6b41c23b4406569aa4aee49363e09e333ea57821",
+          "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-04T17:18:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.58,
+        "ai_relevance": 0.77,
+        "recency": 0.1686,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-04T17:18:50Z",
+      "latest_at": "2026-09-20T03:31:02Z",
+      "primary_item": {
+        "id": "81c0103dcfbc5d1a1ac0f1adfa7503c59561d0ff",
+        "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
+        "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_2c7b0d8db2eb",
       "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
@@ -21,10 +100,10 @@
           "published_at": "2026-09-16T21:35:13Z"
         },
         {
-          "id": "bf0e4c324c29ddd525cded52aabe0f07ff090a47",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛加",
+          "id": "cdb32dbeadf8939fd5ac3e38c6bfaa1f217e52ec",
+          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-09-16T21:35:13Z"
@@ -32,7 +111,6 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 智能大灯技术",
         "Google News: 车灯/汽车照明"
       ],
       "items": [
@@ -46,10 +124,10 @@
           "published_at": "2026-09-16T21:35:13Z"
         },
         {
-          "id": "bf0e4c324c29ddd525cded52aabe0f07ff090a47",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛加",
+          "id": "cdb32dbeadf8939fd5ac3e38c6bfaa1f217e52ec",
+          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
           "published_at": "2026-09-16T21:35:13Z"
@@ -57,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5009,
-      "importance": 0.5009,
-      "importance_score": 0.5009,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.1092,
+        "recency": 0.0547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4869,
-      "importance": 0.4869,
-      "importance_score": 0.4869,
+      "score": 0.4861,
+      "importance": 0.4861,
+      "importance_score": 0.4861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0082,
+        "recency": 0.0041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -214,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4856,
-      "importance": 0.4856,
-      "importance_score": 0.4856,
+      "score": 0.4855,
+      "importance": 0.4855,
+      "importance_score": 0.4855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0011,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -301,7 +379,7 @@
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -319,109 +397,108 @@
       }
     },
     {
-      "story_id": "story_4fbcada92872",
-      "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-      "source": "Google News: 主机厂灯光配置",
+      "story_id": "story_036bf11238aa",
+      "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHBvT3cyd2lXcm5RS1VzUHR4UFJlZUtGZktOMXFQdG9iRVAxQzdkN0lkbGJNVkhGczdwYnJtblNONnl0eFVDaEFZbHROMU5ZNVlJblM3TGJ6TDdDeXVFYWloVU40bWZvRGJqYlpTSC1lMlBzM2Fya0JhNnliQlBBeWpkYWd1WGtBMlJTVg?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHBvT3cyd2lXcm5RS1VzUHR4UFJlZUtGZktOMXFQdG9iRVAxQzdkN0lkbGJNVkhGczdwYnJtblNONnl0eFVDaEFZbHROMU5ZNVlJblM3TGJ6TDdDeXVFYWloVU40bWZvRGJqYlpTSC1lMlBzM2Fya0JhNnliQlBBeWpkYWd1WGtBMlJTVg?oc=5",
+      "source": "Google News: 国际车灯供应商中文",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "7066d3c4d35473f822e789cdb3240455a9740349",
-          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "9b71dfbce3c17b5088f970a6ccd4d5556d73a606",
+          "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - sohu.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHBvT3cyd2lXcm5RS1VzUHR4UFJlZUtGZktOMXFQdG9iRVAxQzdkN0lkbGJNVkhGczdwYnJtblNONnl0eFVDaEFZbHROMU5ZNVlJblM3TGJ6TDdDeXVFYWloVU40bWZvRGJqYlpTSC1lMlBzM2Fya0JhNnliQlBBeWpkYWd1WGtBMlJTVg?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-09T15:06:14Z"
+          "published_at": "2026-09-07T12:37:11Z"
         },
         {
-          "id": "34a40a7da81a1bfddd2353085bb0859b77861ae0",
-          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "6e5ce565b283947625a5430251d5fd232d364fbc",
+          "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEUW9nSGVLMmwxUUtmOVNUZVNfVWJQRDRaTnAtSzNxQkgzRmRkUllval9POGhaSnZIQndDYXlGR1JxX3FZbHlnS0Y3RGcxWXg4TU9n?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-09T15:06:14Z"
+          "published_at": "2026-09-07T07:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 主机厂灯光配置",
-        "Google News: 智能大灯技术"
+        "Google News: 国际车灯供应商中文"
       ],
       "items": [
         {
-          "id": "7066d3c4d35473f822e789cdb3240455a9740349",
-          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-          "source": "Google News: 主机厂灯光配置",
+          "id": "9b71dfbce3c17b5088f970a6ccd4d5556d73a606",
+          "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - sohu.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHBvT3cyd2lXcm5RS1VzUHR4UFJlZUtGZktOMXFQdG9iRVAxQzdkN0lkbGJNVkhGczdwYnJtblNONnl0eFVDaEFZbHROMU5ZNVlJblM3TGJ6TDdDeXVFYWloVU40bWZvRGJqYlpTSC1lMlBzM2Fya0JhNnliQlBBeWpkYWd1WGtBMlJTVg?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-09T15:06:14Z"
+          "published_at": "2026-09-07T12:37:11Z"
         },
         {
-          "id": "34a40a7da81a1bfddd2353085bb0859b77861ae0",
-          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-          "source": "Google News: 智能大灯技术",
+          "id": "6e5ce565b283947625a5430251d5fd232d364fbc",
+          "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEUW9nSGVLMmwxUUtmOVNUZVNfVWJQRDRaTnAtSzNxQkgzRmRkUllval9POGhaSnZIQndDYXlGR1JxX3FZbHlnS0Y3RGcxWXg4TU9n?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-09T15:06:14Z"
+          "published_at": "2026-09-07T07:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
+      "score": 0.4733,
+      "importance": 0.4733,
+      "importance_score": 0.4733,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.5544,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0088,
+        "ai_relevance": 0.77,
+        "recency": 0.0021,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-09T15:06:14Z",
-      "latest_at": "2026-09-09T15:06:14Z",
+      "earliest_at": "2026-09-07T07:00:00Z",
+      "latest_at": "2026-09-07T12:37:11Z",
       "primary_item": {
-        "id": "7066d3c4d35473f822e789cdb3240455a9740349",
-        "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
-        "source": "Google News: 主机厂灯光配置",
+        "id": "9b71dfbce3c17b5088f970a6ccd4d5556d73a606",
+        "title": "全球第一大车灯企业：年收入超过400亿元，星宇股份第七，华域视觉第九 - sohu.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHBvT3cyd2lXcm5RS1VzUHR4UFJlZUtGZktOMXFQdG9iRVAxQzdkN0lkbGJNVkhGczdwYnJtblNONnl0eFVDaEFZbHROMU5ZNVlJblM3TGJ6TDdDeXVFYWloVU40bWZvRGJqYlpTSC1lMlBzM2Fya0JhNnliQlBBeWpkYWd1WGtBMlJTVg?oc=5",
+        "source": "Google News: 国际车灯供应商中文",
         "source_name": "Industry / News Search"
       }
     },
     {
-      "story_id": "story_a588ed6ffa19",
-      "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - thecover.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+      "story_id": "story_0446fd4184a1",
+      "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
       "source": "Google News: 国内车灯供应商",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "1f5d89100fd28edd4cdff68b66ab60ec77012704",
-          "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - thecover.cn",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+          "id": "9527bc21d244acc917f828805462c20aea3b399c",
+          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-25T15:40:00Z"
+          "published_at": "2026-08-27T07:00:00Z"
         },
         {
-          "id": "039dfd2e07c852e0d97d1409dc64ad4eb6e0e467",
-          "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - 封面新闻",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+          "id": "ca3207af59839881fe586074686f45381a180832",
+          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-25T15:40:00Z"
+          "published_at": "2026-08-27T04:30:00Z"
         }
       ],
       "source_count": 2,
@@ -431,22 +508,22 @@
       ],
       "items": [
         {
-          "id": "1f5d89100fd28edd4cdff68b66ab60ec77012704",
-          "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - thecover.cn",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+          "id": "9527bc21d244acc917f828805462c20aea3b399c",
+          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
           "source": "Google News: 国内车灯供应商",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-25T15:40:00Z"
+          "published_at": "2026-08-27T07:00:00Z"
         },
         {
-          "id": "039dfd2e07c852e0d97d1409dc64ad4eb6e0e467",
-          "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - 封面新闻",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+          "id": "ca3207af59839881fe586074686f45381a180832",
+          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-08-25T15:40:00Z"
+          "published_at": "2026-08-27T04:30:00Z"
         }
       ],
       "item_count": 2,
@@ -466,12 +543,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-25T15:40:00Z",
-      "latest_at": "2026-08-25T15:40:00Z",
+      "earliest_at": "2026-08-27T04:30:00Z",
+      "latest_at": "2026-08-27T07:00:00Z",
       "primary_item": {
-        "id": "1f5d89100fd28edd4cdff68b66ab60ec77012704",
-        "title": "A股车灯龙头星宇股份惹众怒，近300名应届生被“羞辱式”劝退 当地人社部门：已介入调查 - thecover.cn",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejluSjhfQTJFazNrY3lSLXlHOGcxMjZBc0EzMEdGR01GX1djdXJ4cmM1R2JQSkI5dEtxQW9jcU8waW45R3VjZ05wTWxWQmt5UGZsQ28yX3dFMlpIVUNnTk5sOGcwWFNvM2RYYkREM1YtcFpnemRsSQ?oc=5",
+        "id": "9527bc21d244acc917f828805462c20aea3b399c",
+        "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
         "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
@@ -537,7 +614,7 @@
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.0003,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -607,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.4731,
+      "importance": 0.4731,
+      "importance_score": 0.4731,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0018,
+        "recency": 0.0009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -693,7 +770,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -707,6 +784,85 @@
         "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 车家号",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
         "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_de11b7b2dd9a",
+      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+      "source": "Google News: 国内车灯供应商",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "200bd88ac38fec6e3f9e3a19786e0e0196b60dd7",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 国内车灯供应商",
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "200bd88ac38fec6e3f9e3a19786e0e0196b60dd7",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 国内车灯供应商",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        },
+        {
+          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
+          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-08-29T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0001,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:00:00Z",
+      "latest_at": "2026-08-29T07:00:00Z",
+      "primary_item": {
+        "id": "200bd88ac38fec6e3f9e3a19786e0e0196b60dd7",
+        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
+        "source": "Google News: 国内车灯供应商",
         "source_name": "Industry / News Search"
       }
     },
@@ -763,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4758,
-      "importance": 0.4758,
-      "importance_score": 0.4758,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.039,
+        "recency": 0.0195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4682,
-      "importance": 0.4682,
-      "importance_score": 0.4682,
+      "score": 0.4664,
+      "importance": 0.4664,
+      "importance_score": 0.4664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0199,
+        "recency": 0.0099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,6 +1019,84 @@
         "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
         "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_4fbcada92872",
+      "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "8a5d0822455b6707b95d967976de204c5cbd49a4",
+          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-09T15:06:14Z"
+        },
+        {
+          "id": "34a40a7da81a1bfddd2353085bb0859b77861ae0",
+          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-09T15:06:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "8a5d0822455b6707b95d967976de204c5cbd49a4",
+          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-09T15:06:14Z"
+        },
+        {
+          "id": "34a40a7da81a1bfddd2353085bb0859b77861ae0",
+          "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-09T15:06:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4696,
+      "importance": 0.4696,
+      "importance_score": 0.4696,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0044,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-09T15:06:14Z",
+      "latest_at": "2026-09-09T15:06:14Z",
+      "primary_item": {
+        "id": "8a5d0822455b6707b95d967976de204c5cbd49a4",
+        "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
+        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -919,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4653,
-      "importance": 0.4653,
-      "importance_score": 0.4653,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0036,
+        "recency": 0.0018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0013,
+        "recency": 0.0006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,240 +1252,6 @@
         "id": "01f548c6a0a142a676686835f7698a93b32fa668",
         "title": "星宇股份国内车灯第一，创始人周晓萍为何解约107名应届生？ - finance.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uYVR5MWlsZ2hORU5NbzlNS2hUendXbDZxLUpMX0VfZUUzZGNpTW5CLU41eGdLQW5kb29DLWRXODAyNjlqUlpWNXgyVGI2UTk0?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_0446fd4184a1",
-      "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "26389b12e2afc4eb3a9cfd3bb8f08248b4bcd886",
-          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-27T04:40:58Z"
-        },
-        {
-          "id": "ca3207af59839881fe586074686f45381a180832",
-          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-27T04:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "26389b12e2afc4eb3a9cfd3bb8f08248b4bcd886",
-          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-27T04:40:58Z"
-        },
-        {
-          "id": "ca3207af59839881fe586074686f45381a180832",
-          "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-27T04:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0001,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-27T04:30:00Z",
-      "latest_at": "2026-08-27T04:40:58Z",
-      "primary_item": {
-        "id": "26389b12e2afc4eb3a9cfd3bb8f08248b4bcd886",
-        "title": "批量劝退应届生的车灯公司星宇股份2026 上半年净利润6.69 亿元，应付职工薪酬同比下降45.9% - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yU3dmb0tnellsOEJTSXhjS2UwLWlJVFFUR05UNE9CQmZTV1cxM01DZGRZQnB1djdibEZkMktEY1IwZ2s2Nll4MjFJR3h2OUhub3V4bmdIYTdxNmF6bkc3M2ktWXQ4UDRHVUFScmlsbThMN1RMYUVKX25BTmxTbEk?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_fd76317ea28e",
-      "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "b693eb04f87bee32322022d55339cb99b92e4ca1",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:31Z"
-        },
-        {
-          "id": "3f7d93d198f7a62ade554330dc0cd94e247f59d1",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "b693eb04f87bee32322022d55339cb99b92e4ca1",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:31Z"
-        },
-        {
-          "id": "3f7d93d198f7a62ade554330dc0cd94e247f59d1",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T01:47:31Z",
-      "latest_at": "2026-08-25T01:47:31Z",
-      "primary_item": {
-        "id": "b693eb04f87bee32322022d55339cb99b92e4ca1",
-        "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝 - Sohu",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGo1Ml95dW5VbGJPS0o5NDRSWkdOc1N0Zl9NM09VQXg5aXlIaWF3UVZ0cHpmNjQ5S0QtVElscFl5ZkFLdU1GNlhYYndzX0stSVV2NTVxaUp1MjZWQjlhbWpueUQyelFRTF9lOWZzQ1FHRGpnUDYxT05vYVBna1I5NjZmM2xYR0pW?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_b8f04ae8e0df",
-      "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "d967b615c6c0a7a1fce1b2c99f2effbb245424d2",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:00Z"
-        },
-        {
-          "id": "66016ccc8ffecc089dbd39ed0ce4b019838e6852",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "d967b615c6c0a7a1fce1b2c99f2effbb245424d2",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:00Z"
-        },
-        {
-          "id": "66016ccc8ffecc089dbd39ed0ce4b019838e6852",
-          "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-25T01:47:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T01:47:00Z",
-      "latest_at": "2026-08-25T01:47:00Z",
-      "primary_item": {
-        "id": "d967b615c6c0a7a1fce1b2c99f2effbb245424d2",
-        "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职 - finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTlZfb0RkMnFtLWswdEllOV9IcllIY0R0eFB2bDZaNnMwaDR5U2hZNFBhUjcyQkNiN3JWMlh4bl83cVhYNUpCb2tSWEM4QlU5N0tJcFZweEtKemdUWGVwaks3cUJydHdmOWRJUmV0MXpTTXowbW1fQV9McExkV2M?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -1317,7 +1317,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,84 +1330,6 @@
         "id": "0b97addc0950d518171178f28c0c1b364bf7bf55",
         "title": "硕士进车间打螺丝羞辱式劝退引热议！车灯龙头企业星宇股份致歉：补偿3个月求职补贴 - news.mydrivers.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6Szd1RVZiUzhtWVBpOEhhSXk5S1RXNkN5eEpjYnVtSnlNdWtTcGdiZHdWZDFlMER5WkIxdEljdmtTVXk4Uy0yS29wekl4cUhYYTI0YTd4dkE?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_de11b7b2dd9a",
-      "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T01:47:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T07:00:00Z"
-        },
-        {
-          "id": "560015be763bee662f88fb2a27b3a1d115599b72",
-          "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21jingji.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-29T01:47:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:47:00Z",
-      "latest_at": "2026-08-29T07:00:00Z",
-      "primary_item": {
-        "id": "853f138f181c9ed9944e0a915edbe62e581ed741",
-        "title": "车灯龙头企业星宇股份被曝裁撤应届生，有人入职一个月就被逼退 - 21财经",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVHNHNXSUJiNDRfekdpRXRhVVlFdkRZSGVzcXJCM2VjaGtpaGNWYm8zLU9LVVRsNjJxd0RXX3dvZ3NrUENNNlFJelM0MUhjMFRDbDZSM1ZrRkplaWFMbnpmWEpCdWIwRGxobnFhVU4xSTRZcWhERE9IYkl4NDhMNVdaVDVmQ21NMGxrUQ?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -1473,7 +1395,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1551,7 +1473,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
