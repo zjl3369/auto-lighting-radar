@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T07:38:21.262813Z",
+  "generated_at": "2026-10-01T07:57:42.117726Z",
   "window_hours": 720,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_0eb6d56bb7b2",
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.2248,
+        "recency": 0.1119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -213,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4837,
-      "importance": 0.4837,
-      "importance_score": 0.4837,
+      "score": 0.4825,
+      "importance": 0.4825,
+      "importance_score": 0.4825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0135,
+        "recency": 0.0067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.4767,
+      "importance": 0.4767,
+      "importance_score": 0.4767,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0416,
+        "recency": 0.0207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -378,7 +378,7 @@
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0005,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -448,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4856,
-      "importance": 0.4856,
-      "importance_score": 0.4856,
+      "score": 0.4855,
+      "importance": 0.4855,
+      "importance_score": 0.4855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.001,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -527,15 +527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.473,
-      "importance": 0.473,
-      "importance_score": 0.473,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.58,
         "ai_relevance": 0.77,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,240 +548,6 @@
         "id": "e98baa22df02a107b92ae3eaf4ab47b7b16be33d",
         "title": "车灯龙头星宇股份劝退107名应届生，为何触发大众奔驰供应链调查 - finance.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wWkNIdE5MeFBwYzd2Wk1DeFNNcWMzalA0b19hZGNrZUZWYzM0Z2l4ZFg2SzFoS1UzQVZEUzAyN0RTVlpDY2RadnV4YU1XNkQ2?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_bd91a73eb0d1",
-      "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 车家号",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "ddb4b9eb95ef21efe135bf6557bd4860be564d94",
-          "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-02T03:47:30Z"
-        },
-        {
-          "id": "1fe291d356548f1355c08b062e21af4db0aed133",
-          "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-01T03:48:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "ddb4b9eb95ef21efe135bf6557bd4860be564d94",
-          "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 车家号",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-02T03:47:30Z"
-        },
-        {
-          "id": "1fe291d356548f1355c08b062e21af4db0aed133",
-          "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-01T03:48:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0001,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T03:48:37Z",
-      "latest_at": "2026-09-02T03:47:30Z",
-      "primary_item": {
-        "id": "ddb4b9eb95ef21efe135bf6557bd4860be564d94",
-        "title": "【视频】沉浸式体验小鹏G9L，800V快充+一体式尾翼+投影大灯 - 车家号",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZX2hMMGNZM2JrNmJtbXpOX0tnYnlTMEZJX21yYUVWaFRxazlDMWh0Mk5yQXQyQzRSeS02UjNpcXZzc2lmblhzVThnclVfU2RJZHRkbGM3aGFIYzg?oc=5",
-        "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_4ca323aafd5c",
-      "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
-        },
-        {
-          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
-        },
-        {
-          "id": "caee52222fe8f811086784dafc1d6c34f5ca55ca",
-          "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - 网通社",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-08-30T23:44:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4771,
-      "importance": 0.4771,
-      "importance_score": 0.4771,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T23:44:53Z",
-      "latest_at": "2026-08-30T23:44:53Z",
-      "primary_item": {
-        "id": "9c0abc788f47fc7ecb12d65dc69186b1a86796c8",
-        "title": "会“说话”的车灯？聊聊智能像素大灯技术前景图片锦集 - auto.news18a.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUlk2S0E5Q0RCM1FlUVJHX2lhV3hUMzJmRUt3aG9tM24zLXdpNUdNRWVGNm9TdTdLX1hFX1Z4RmFtaGtsb05IVFNhU09NOEFQRjgzYTdJWUIwdGltQXI3LTdKTWhOUmRIRlFtZ2JZQTI5QWdtT2Z4Zmp3?oc=5",
-        "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_4b762c2744fb",
-      "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
-          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-10T07:00:00Z"
-        },
-        {
-          "id": "56aabb1efb7259b14e87178261448c3c0e981c71",
-          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - 湖北日报传媒集团",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-10T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
-          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-10T07:00:00Z"
-        },
-        {
-          "id": "56aabb1efb7259b14e87178261448c3c0e981c71",
-          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - 湖北日报传媒集团",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-10T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0014,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-10T07:00:00Z",
-      "latest_at": "2026-09-10T07:00:00Z",
-      "primary_item": {
-        "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
-        "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -839,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0048,
+        "recency": 0.0024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,30 +631,30 @@
       }
     },
     {
-      "story_id": "story_a2630c5e4803",
-      "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+      "story_id": "story_4b762c2744fb",
+      "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
       "source": "Google News: 车灯/汽车照明",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
+          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
+          "published_at": "2026-09-10T07:00:00Z"
         },
         {
-          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "id": "56aabb1efb7259b14e87178261448c3c0e981c71",
+          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - 湖北日报传媒集团",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
+          "published_at": "2026-09-10T07:00:00Z"
         }
       ],
       "source_count": 2,
@@ -897,47 +663,47 @@
       ],
       "items": [
         {
-          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
+          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
+          "published_at": "2026-09-10T07:00:00Z"
         },
         {
-          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "id": "56aabb1efb7259b14e87178261448c3c0e981c71",
+          "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - 湖北日报传媒集团",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
           "source": "Google News: 车灯/汽车照明",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
+          "published_at": "2026-09-10T07:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.54,
+        "editorial": 0.5472,
         "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0025,
+        "ai_relevance": 0.76,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T23:31:20Z",
-      "latest_at": "2026-09-11T23:31:20Z",
+      "earliest_at": "2026-09-10T07:00:00Z",
+      "latest_at": "2026-09-10T07:00:00Z",
       "primary_item": {
-        "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-        "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+        "id": "a6981a5c9f8b44f16ce238497259fbfc895bcca5",
+        "title": "智能车灯，每一个像素都能独立控制，既能照明还会投影！星曦光亮相深圳光博会- 湖北日报新闻客户端 - news.hubeidaily.net",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbDRmdmEyNTdIb2RPcDJtaVhSRGswUEQ4V2psTGNsN0R1WFFmcXpzbEtaUVpCeFhNb0phazBGU0V2Wm1PZzNONzRaWUFYaEl6S1JvZVlrOEJJeUpDRXc?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
@@ -995,15 +761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0011,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1017,6 +783,84 @@
         "title": "华为问界M9黑科技盘点：百万像素大灯、ADS 5、途灵龙行平台，值50万吗？+FAQ - finance.sina.com.cn",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sR0dTSWNDMjdsWDFOcWYzeE9ib3B4Ni1ibVF4bnBrLUNmYVhadTJFOHdqNmxCd293cUpkSnJaTUk5YkVVcS1LVXJ0ek9TOGRxbVlzVlZqOUxXdlIxNzZzNnZjTjhOeFNPRU9fc2ptcFFBaUowWDRIRU1vczZPZw?oc=5",
         "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_a2630c5e4803",
+      "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
+          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-11T23:31:20Z"
+        },
+        {
+          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
+          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-11T23:31:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
+          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-11T23:31:20Z"
+        },
+        {
+          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
+          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-11T23:31:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0012,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T23:31:20Z",
+      "latest_at": "2026-09-11T23:31:20Z",
+      "primary_item": {
+        "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
+        "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
+        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -1073,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0005,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,7 +1003,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
