@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T07:51:55.256103Z",
+  "generated_at": "2026-10-09T08:07:52.971981Z",
   "window_hours": 720,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_a0d49aae9780",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.4624,
+        "recency": 0.2303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4926,
-      "importance": 0.4926,
-      "importance_score": 0.4926,
+      "score": 0.4869,
+      "importance": 0.4869,
+      "importance_score": 0.4869,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0633,
+        "recency": 0.0315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -221,7 +221,7 @@
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -300,7 +300,7 @@
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -371,15 +371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4838,
-      "importance": 0.4838,
-      "importance_score": 0.4838,
+      "score": 0.4825,
+      "importance": 0.4825,
+      "importance_score": 0.4825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.014,
+        "recency": 0.007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -393,84 +393,6 @@
         "title": "【视频】华为百万像素大灯+四激光雷达，奕境X9这配置你服不服？ - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRUhiRlEwVkp0b3haVE4wV3pRNDAxRzRnSVlkc052enlpbGlpNmhsWGVhTlFJT3hHZWF2b3FxYkhkSVgxekdFNTV5NURkUHl0UjFBTG1ZblpXenM?oc=5",
         "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_0e793938ab12",
-      "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        },
-        {
-          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        },
-        {
-          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4825,
-      "importance": 0.4825,
-      "importance_score": 0.4825,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0763,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T21:42:37Z",
-      "latest_at": "2026-09-29T21:42:37Z",
-      "primary_item": {
-        "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-        "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -527,15 +449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4814,
-      "importance": 0.4814,
-      "importance_score": 0.4814,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0008,
+        "recency": 0.0004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -549,6 +471,84 @@
         "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
         "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_0e793938ab12",
+      "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+      "source": "Google News: 站点限定-汽车媒体",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
+          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T21:42:37Z"
+        },
+        {
+          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
+          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T21:42:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 站点限定-汽车媒体"
+      ],
+      "items": [
+        {
+          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
+          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T21:42:37Z"
+        },
+        {
+          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
+          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+          "source": "Google News: 站点限定-汽车媒体",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T21:42:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4756,
+      "importance": 0.4756,
+      "importance_score": 0.4756,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.038,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-29T21:42:37Z",
+      "latest_at": "2026-09-29T21:42:37Z",
+      "primary_item": {
+        "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
+        "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
+        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -605,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4823,
-      "importance": 0.4823,
-      "importance_score": 0.4823,
+      "score": 0.4755,
+      "importance": 0.4755,
+      "importance_score": 0.4755,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0751,
+        "recency": 0.0374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +691,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0003,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,7 +769,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -839,15 +839,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.48,
-      "importance": 0.48,
-      "importance_score": 0.48,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0856,
+        "recency": 0.0427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +925,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,7 +1003,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1016,84 +1016,6 @@
         "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
         "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_99b77f63a237",
-      "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - OR新媒体",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "d0a8493bbcdb10290843dd6d71dc42381c26894e",
-          "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - OR新媒体",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-08T07:00:00Z"
-        },
-        {
-          "id": "8ff8e49a71c7fe25527c7b729f108bc54b4896ba",
-          "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - or100.cc",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-08T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "d0a8493bbcdb10290843dd6d71dc42381c26894e",
-          "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - OR新媒体",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-08T07:00:00Z"
-        },
-        {
-          "id": "8ff8e49a71c7fe25527c7b729f108bc54b4896ba",
-          "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - or100.cc",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-08T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T07:00:00Z",
-      "latest_at": "2026-09-08T07:00:00Z",
-      "primary_item": {
-        "id": "d0a8493bbcdb10290843dd6d71dc42381c26894e",
-        "title": "社会｜车灯龙头“灯下黑”——星宇股份百名应届生遭弃录风波始末 - OR新媒体",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56WkU3UmdFeUYxdWVNTXdodDRvb3pkT1pXMGFUVVpJODhBUmh4bVJMS2ZlQU9RQ3M3M2VBdGxkVjFjbnhv?oc=5",
         "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
