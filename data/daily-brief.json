@@ -1,166 +1,8 @@
 {
-  "generated_at": "2026-10-11T07:59:17.590001Z",
+  "generated_at": "2026-10-13T08:40:07.569157Z",
   "window_hours": 720,
-  "total_items": 10,
+  "total_items": 8,
   "items": [
-    {
-      "story_id": "story_a0d49aae9780",
-      "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-      "source": "Google News: 智能座舱/氛围灯",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 智能座舱/氛围灯",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
-        },
-        {
-          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能座舱/氛围灯",
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 智能座舱/氛围灯",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
-        },
-        {
-          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4854,
-      "importance": 0.4854,
-      "importance_score": 0.4854,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.1154,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T02:27:00Z",
-      "latest_at": "2026-10-05T02:27:00Z",
-      "primary_item": {
-        "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-        "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-        "source": "Google News: 智能座舱/氛围灯",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_7ee98a034223",
-      "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - chejiahao.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "616e82bd96660faf8fa39c0983670093d22a55c8",
-          "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-12T11:17:20Z"
-        },
-        {
-          "id": "08b6520d4f5ece07d59ed7526625eed91527e4a9",
-          "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-12T11:17:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "616e82bd96660faf8fa39c0983670093d22a55c8",
-          "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-12T11:17:20Z"
-        },
-        {
-          "id": "08b6520d4f5ece07d59ed7526625eed91527e4a9",
-          "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-12T11:17:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4854,
-      "importance": 0.4854,
-      "importance_score": 0.4854,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.576,
-        "source_tier": 0.58,
-        "ai_relevance": 0.8,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T11:17:20Z",
-      "latest_at": "2026-09-12T11:17:20Z",
-      "primary_item": {
-        "id": "616e82bd96660faf8fa39c0983670093d22a55c8",
-        "title": "灯光升级探险者改大灯升级氙气大灯改LED灯泡，完美解决车灯不亮 - chejiahao.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00TEpiTGxqb2VQZ0pLTFZrTHExN01ORHZlSkxTRWRlLWVjQ1hkUl9iaEFjc1YtTWJib01lY2NXVDB4cmlCRE9wMVpGQjhmT05BMzFRUHhfeUVEUQ?oc=5",
-        "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
     {
       "story_id": "story_e60a37f1bf0a",
       "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
@@ -214,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4841,
-      "importance": 0.4841,
-      "importance_score": 0.4841,
+      "score": 0.4826,
+      "importance": 0.4826,
+      "importance_score": 0.4826,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0158,
+        "recency": 0.0078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,15 +134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4819,
-      "importance": 0.4819,
-      "importance_score": 0.4819,
+      "score": 0.4816,
+      "importance": 0.4816,
+      "importance_score": 0.4816,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0035,
+        "recency": 0.0017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -378,7 +220,7 @@
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -392,6 +234,85 @@
         "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
         "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_a0d49aae9780",
+      "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+      "source": "Google News: 智能座舱/氛围灯",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
+          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+          "source": "Google News: 智能座舱/氛围灯",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-05T02:27:00Z"
+        },
+        {
+          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
+          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-05T02:27:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能座舱/氛围灯",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
+          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+          "source": "Google News: 智能座舱/氛围灯",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-05T02:27:00Z"
+        },
+        {
+          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
+          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-05T02:27:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4749,
+      "importance": 0.4749,
+      "importance_score": 0.4749,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0571,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T02:27:00Z",
+      "latest_at": "2026-10-05T02:27:00Z",
+      "primary_item": {
+        "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
+        "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
+        "source": "Google News: 智能座舱/氛围灯",
         "source_name": "Industry / News Search"
       }
     },
@@ -448,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4722,
-      "importance": 0.4722,
-      "importance_score": 0.4722,
+      "score": 0.4705,
+      "importance": 0.4705,
+      "importance_score": 0.4705,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.019,
+        "recency": 0.0094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -534,7 +455,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4721,
-      "importance": 0.4721,
-      "importance_score": 0.4721,
+      "score": 0.4704,
+      "importance": 0.4704,
+      "importance_score": 0.4704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0188,
+        "recency": 0.0093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -626,84 +547,6 @@
         "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
         "source": "Google News: 站点限定-汽车媒体",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_a2630c5e4803",
-      "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
-        },
-        {
-          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
-        },
-        {
-          "id": "18af086a837b4aba1f5190a565f742108af19a8e",
-          "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-11T23:31:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T23:31:20Z",
-      "latest_at": "2026-09-11T23:31:20Z",
-      "primary_item": {
-        "id": "afd3b1a42b5ad0711a5f06d9aa2ddbb71689f741",
-        "title": "星宇股份的底气是什么？车灯行业的壁垒在哪里？ - i.ifeng.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VblFMMkdPVE9ZV3dCV1hGTm1sRVR0VE9DdFVrVVJZak9RUE0wMlg5dm53UGw5SEEtZ2xxNl9KRzZ3NUMxUnpzTw?oc=5",
-        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -760,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.4665,
+      "importance": 0.4665,
+      "importance_score": 0.4665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0214,
+        "recency": 0.0106,
         "story_heat": 0.25
       },
       "category": "watch",
