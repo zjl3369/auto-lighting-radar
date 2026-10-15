@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:40:07.569157Z",
+  "generated_at": "2026-10-15T06:39:59.720657Z",
   "window_hours": 720,
   "total_items": 8,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4826,
-      "importance": 0.4826,
-      "importance_score": 0.4826,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0078,
+        "recency": 0.004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -134,15 +134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4816,
-      "importance": 0.4816,
-      "importance_score": 0.4816,
+      "score": 0.4814,
+      "importance": 0.4814,
+      "importance_score": 0.4814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0017,
+        "recency": 0.0009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -212,9 +212,9 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4813,
-      "importance": 0.4813,
-      "importance_score": 0.4813,
+      "score": 0.4812,
+      "importance": 0.4812,
+      "importance_score": 0.4812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
@@ -234,6 +234,84 @@
         "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
         "source": "Google News: 车灯/汽车照明",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_d141823d2d34",
+      "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        },
+        {
+          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
+          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        },
+        {
+          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
+          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4799,
+      "importance": 0.4799,
+      "importance_score": 0.4799,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0852,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-08T04:06:00Z",
+      "latest_at": "2026-10-08T04:06:00Z",
+      "primary_item": {
+        "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+        "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -291,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4749,
-      "importance": 0.4749,
-      "importance_score": 0.4749,
+      "score": 0.4699,
+      "importance": 0.4699,
+      "importance_score": 0.4699,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0571,
+        "recency": 0.0294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -369,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4705,
-      "importance": 0.4705,
-      "importance_score": 0.4705,
+      "score": 0.4696,
+      "importance": 0.4696,
+      "importance_score": 0.4696,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0094,
+        "recency": 0.0049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -391,84 +469,6 @@
         "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
         "source": "Google News: 站点限定-汽车媒体",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_0155591dc0b2",
-      "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
-        },
-        {
-          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
-        },
-        {
-          "id": "deaf60c365e32ae60b6fab57238a207d07261333",
-          "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-13T22:15:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T22:15:59Z",
-      "latest_at": "2026-09-13T22:15:59Z",
-      "primary_item": {
-        "id": "cbdd57fdf01db1a1a52cae8c4cfefa04d4eabaed",
-        "title": "2026款奥迪Q3上市，三屏+矩阵大灯标配，25.18万起值不值？+FAQ - cj.sina.cn",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1lnTnpTQmozQkxJeTd1UlJWcHZ6X29nZEZNWkg1RUx4bG9DaHRiQTZ5OW9BU08xZjd3Z2FZM3BrTkJiUERkUF9KLXRwajZmWFBRR2Naa2J4U3hLX01FZW02bWhWeUtZRHd6T3ZIQVRkN3k2emhzU25kZ3dJNXItUGNMUlA?oc=5",
-        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -525,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4704,
-      "importance": 0.4704,
-      "importance_score": 0.4704,
+      "score": 0.4696,
+      "importance": 0.4696,
+      "importance_score": 0.4696,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0093,
+        "recency": 0.0048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4665,
-      "importance": 0.4665,
-      "importance_score": 0.4665,
+      "score": 0.4656,
+      "importance": 0.4656,
+      "importance_score": 0.4656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0106,
+        "recency": 0.0054,
         "story_heat": 0.25
       },
       "category": "watch",
