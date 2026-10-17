@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T06:39:59.720657Z",
+  "generated_at": "2026-10-17T06:21:45.752538Z",
   "window_hours": 720,
-  "total_items": 8,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_e60a37f1bf0a",
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.482,
-      "importance": 0.482,
-      "importance_score": 0.482,
+      "score": 0.4816,
+      "importance": 0.4816,
+      "importance_score": 0.4816,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.004,
+        "recency": 0.002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -134,15 +134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4814,
-      "importance": 0.4814,
-      "importance_score": 0.4814,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0009,
+        "recency": 0.0004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -156,84 +156,6 @@
         "title": "【视频】华为百万像素大灯+四激光雷达，奕境X9这配置你服不服？ - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRUhiRlEwVkp0b3haVE4wV3pRNDAxRzRnSVlkc052enlpbGlpNmhsWGVhTlFJT3hHZWF2b3FxYkhkSVgxekdFNTV5NURkUHl0UjFBTG1ZblpXenM?oc=5",
         "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_2c7b0d8db2eb",
-      "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "67ca6b1b8ab848f75b675453dd2d2d2981797c15",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-16T21:35:13Z"
-        },
-        {
-          "id": "cdb32dbeadf8939fd5ac3e38c6bfaa1f217e52ec",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-16T21:35:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "67ca6b1b8ab848f75b675453dd2d2d2981797c15",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-16T21:35:13Z"
-        },
-        {
-          "id": "cdb32dbeadf8939fd5ac3e38c6bfaa1f217e52ec",
-          "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - 体坛",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-16T21:35:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4812,
-      "importance": 0.4812,
-      "importance_score": 0.4812,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.0001,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T21:35:13Z",
-      "latest_at": "2026-09-16T21:35:13Z",
-      "primary_item": {
-        "id": "67ca6b1b8ab848f75b675453dd2d2d2981797c15",
-        "title": "欧宝体育登陆官网下载安装携手ZKW推出配备768颗微型LED的矩阵大灯技术- 体坛网_体坛+ - ttplus.cn",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dk1QaDl0OWFNS251RWNmNk1ORzNCcGZxZmRISjJBSkVlZ1V2RjJXWlBMaGt0c2UweUFlN3pyck5XYUU3VkxXVzhrbUlzMzA5V3U5ZGVwTlhjWjhKTnczYg?oc=5",
-        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     },
@@ -290,15 +212,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4799,
-      "importance": 0.4799,
-      "importance_score": 0.4799,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0852,
+        "recency": 0.0428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -369,15 +291,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4699,
-      "importance": 0.4699,
-      "importance_score": 0.4699,
+      "score": 0.4673,
+      "importance": 0.4673,
+      "importance_score": 0.4673,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0294,
+        "recency": 0.0148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -447,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0049,
+        "recency": 0.0024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0048,
+        "recency": 0.0024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4656,
-      "importance": 0.4656,
-      "importance_score": 0.4656,
+      "score": 0.4651,
+      "importance": 0.4651,
+      "importance_score": 0.4651,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0054,
+        "recency": 0.0027,
         "story_heat": 0.25
       },
       "category": "watch",
