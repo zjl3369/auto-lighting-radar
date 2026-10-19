@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-10-17T06:21:45.752538Z",
+  "generated_at": "2026-10-19T07:04:45.235730Z",
   "window_hours": 720,
-  "total_items": 7,
+  "total_items": 9,
   "items": [
+    {
+      "story_id": "story_1cc4fa54848f",
+      "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "cf55f948e8bc64471435d832a86ce81762560624",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T15:06:19Z"
+        },
+        {
+          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T14:22:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置",
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "cf55f948e8bc64471435d832a86ce81762560624",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T15:06:19Z"
+        },
+        {
+          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T14:22:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.1985,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-14T14:22:57Z",
+      "latest_at": "2026-10-14T15:06:19Z",
+      "primary_item": {
+        "id": "cf55f948e8bc64471435d832a86ce81762560624",
+        "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_e60a37f1bf0a",
       "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
@@ -56,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4816,
-      "importance": 0.4816,
-      "importance_score": 0.4816,
+      "score": 0.4814,
+      "importance": 0.4814,
+      "importance_score": 0.4814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.002,
+        "recency": 0.001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -142,7 +221,7 @@
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0004,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -156,84 +235,6 @@
         "title": "【视频】华为百万像素大灯+四激光雷达，奕境X9这配置你服不服？ - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRUhiRlEwVkp0b3haVE4wV3pRNDAxRzRnSVlkc052enlpbGlpNmhsWGVhTlFJT3hHZWF2b3FxYkhkSVgxekdFNTV5NURkUHl0UjFBTG1ZblpXenM?oc=5",
         "source": "Google News: 智能大灯技术",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_d141823d2d34",
-      "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
-          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-08T04:06:00Z"
-        },
-        {
-          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
-          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-08T04:06:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
-          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-08T04:06:00Z"
-        },
-        {
-          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
-          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-08T04:06:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4723,
-      "importance": 0.4723,
-      "importance_score": 0.4723,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0428,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-08T04:06:00Z",
-      "latest_at": "2026-10-08T04:06:00Z",
-      "primary_item": {
-        "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
-        "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -291,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4673,
-      "importance": 0.4673,
-      "importance_score": 0.4673,
+      "score": 0.4659,
+      "importance": 0.4659,
+      "importance_score": 0.4659,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0148,
+        "recency": 0.0073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -313,6 +314,84 @@
         "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
         "source": "Google News: 智能座舱/氛围灯",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_c49a80cb9fb7",
+      "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-30T07:00:00Z"
+        },
+        {
+          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
+          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T16:44:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-30T07:00:00Z"
+        },
+        {
+          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
+          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T16:44:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0014,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-29T16:44:00Z",
+      "latest_at": "2026-09-30T07:00:00Z",
+      "primary_item": {
+        "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+        "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -369,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4692,
-      "importance": 0.4692,
-      "importance_score": 0.4692,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0024,
+        "recency": 0.0012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -391,6 +470,84 @@
         "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
         "source": "Google News: 站点限定-汽车媒体",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_d141823d2d34",
+      "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        },
+        {
+          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
+          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+          "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        },
+        {
+          "id": "daacab3694a31eda47781ce8f18f40ee93fe8661",
+          "title": "Ford因LED大灯问题召回近4.2万辆汽车——Motor1 - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-08T04:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4684,
+      "importance": 0.4684,
+      "importance_score": 0.4684,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0212,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-08T04:06:00Z",
+      "latest_at": "2026-10-08T04:06:00Z",
+      "primary_item": {
+        "id": "1208371ce23d6c8d47c45585c2e459e64af8332d",
+        "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -447,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4692,
-      "importance": 0.4692,
-      "importance_score": 0.4692,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0024,
+        "recency": 0.0012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0027,
+        "recency": 0.0014,
         "story_heat": 0.25
       },
       "category": "watch",
