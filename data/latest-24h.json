@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-19T07:04:45.235730Z",
+  "generated_at": "2026-10-21T06:44:31.400950Z",
   "window_hours": 720,
-  "total_items": 60,
-  "total_items_ai_raw": 104,
-  "total_items_raw": 1216,
-  "total_items_all_mode": 863,
+  "total_items": 59,
+  "total_items_ai_raw": 103,
+  "total_items_raw": 1116,
+  "total_items_all_mode": 791,
   "topic_filter": "lighting_relevance_tiers_v1",
   "ai_relevance_threshold": 0.25,
   "tier_counts": {
-    "core_count": 71,
-    "adjacent_count": 792,
+    "core_count": 70,
+    "adjacent_count": 721,
     "broad_count": 0,
-    "rejected_count": 2103
+    "rejected_count": 1928
   },
-  "core_count": 71,
-  "adjacent_count": 792,
+  "core_count": 70,
+  "adjacent_count": 721,
   "broad_count": 0,
-  "rejected_count": 2103,
-  "archive_total": 15186,
+  "rejected_count": 1928,
+  "archive_total": 15190,
   "site_count": 3,
   "source_count": 16,
   "site_stats": [
     {
       "site_id": "lighting_media",
       "site_name": "Industry / News Search",
-      "count": 856,
-      "raw_count": 3259
+      "count": 782,
+      "raw_count": 2986
     },
     {
       "site_id": "lighting_search",
       "site_name": "Search / Topic Feeds",
-      "count": 7,
-      "raw_count": 57
+      "count": 9,
+      "raw_count": 55
     },
     {
       "site_id": "lighting_official",
@@ -1765,36 +1765,6 @@
       "title_en": null,
       "title_zh": "智能化浪潮赋能，星宇股份抢占汽车照明黄金窗口期 - 搜狐网",
       "title_bilingual": "智能化浪潮赋能，星宇股份抢占汽车照明黄金窗口期 - 搜狐网"
-    },
-    {
-      "id": "81c0103dcfbc5d1a1ac0f1adfa7503c59561d0ff",
-      "site_id": "lighting_media",
-      "site_name": "Industry / News Search",
-      "source": "Google News: 主机厂灯光配置",
-      "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
-      "published_at": "2026-09-20T03:31:02Z",
-      "first_seen_at": "2026-09-25T06:48:31.940725Z",
-      "last_seen_at": "2026-09-25T06:48:31.940725Z",
-      "ai_is_related": true,
-      "ai_score": 0.77,
-      "ai_label": "headlamp",
-      "ai_relevance_reason": "matched_lighting_signal",
-      "ai_signals": [
-        "大灯",
-        "投影",
-        "激光",
-        "问界"
-      ],
-      "ai_noise": [],
-      "lighting_relevance_tier": "core",
-      "source_tier": "ai_media",
-      "source_tier_label": "Industry news source",
-      "source_tier_rank": 2,
-      "title_original": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "title_en": null,
-      "title_zh": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "title_bilingual": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn"
     }
   ],
   "items_ai": [
@@ -3518,36 +3488,6 @@
       "title_en": null,
       "title_zh": "智能化浪潮赋能，星宇股份抢占汽车照明黄金窗口期 - 搜狐网",
       "title_bilingual": "智能化浪潮赋能，星宇股份抢占汽车照明黄金窗口期 - 搜狐网"
-    },
-    {
-      "id": "81c0103dcfbc5d1a1ac0f1adfa7503c59561d0ff",
-      "site_id": "lighting_media",
-      "site_name": "Industry / News Search",
-      "source": "Google News: 主机厂灯光配置",
-      "title": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ocnd0MHFvaE9WOGdfRDk5UV9iWFNtUk9YUVJuVXlhekRxTUhCVTVIUl9EbENPMEFiUGpUeWNMUlhscHNwdU41dnFFUGdKT1REcVJ2VTE3ckZYN1lUY2c?oc=5",
-      "published_at": "2026-09-20T03:31:02Z",
-      "first_seen_at": "2026-09-25T06:48:31.940725Z",
-      "last_seen_at": "2026-09-25T06:48:31.940725Z",
-      "ai_is_related": true,
-      "ai_score": 0.77,
-      "ai_label": "headlamp",
-      "ai_relevance_reason": "matched_lighting_signal",
-      "ai_signals": [
-        "大灯",
-        "投影",
-        "激光",
-        "问界"
-      ],
-      "ai_noise": [],
-      "lighting_relevance_tier": "core",
-      "source_tier": "ai_media",
-      "source_tier_label": "Industry news source",
-      "source_tier_rank": 2,
-      "title_original": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "title_en": null,
-      "title_zh": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn",
-      "title_bilingual": "全新问界M9首发彩色投影大灯：舱内激光投影可玩性重磅升级 - chejiahao.m.autohome.com.cn"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json",
