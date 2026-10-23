@@ -1,84 +1,83 @@
 {
-  "generated_at": "2026-10-21T06:44:31.400950Z",
+  "generated_at": "2026-10-23T06:41:08.996580Z",
   "window_hours": 720,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
-      "story_id": "story_1cc4fa54848f",
-      "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
-      "source": "Google News: 车型灯组/灯光配置",
+      "story_id": "story_36659a9e99b1",
+      "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+      "source": "Google News: 主机厂灯光配置",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "cf55f948e8bc64471435d832a86ce81762560624",
-          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-14T15:06:19Z"
+          "published_at": "2026-10-17T06:44:00Z"
         },
         {
-          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
-          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
+          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-14T14:22:57Z"
+          "published_at": "2026-10-17T06:44:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 车型灯组/灯光配置",
-        "Google News: 车灯/汽车照明"
+        "Google News: 主机厂灯光配置"
       ],
       "items": [
         {
-          "id": "cf55f948e8bc64471435d832a86ce81762560624",
-          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-14T15:06:19Z"
+          "published_at": "2026-10-17T06:44:00Z"
         },
         {
-          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
-          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
-          "source": "Google News: 车灯/汽车照明",
+          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-14T14:22:57Z"
+          "published_at": "2026-10-17T06:44:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4867,
-      "importance": 0.4867,
-      "importance_score": 0.4867,
+      "score": 0.4871,
+      "importance": 0.4871,
+      "importance_score": 0.4871,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.54,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0997,
+        "ai_relevance": 0.75,
+        "recency": 0.1251,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-14T14:22:57Z",
-      "latest_at": "2026-10-14T15:06:19Z",
+      "earliest_at": "2026-10-17T06:44:00Z",
+      "latest_at": "2026-10-17T06:44:00Z",
       "primary_item": {
-        "id": "cf55f948e8bc64471435d832a86ce81762560624",
-        "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
-        "source": "Google News: 车型灯组/灯光配置",
+        "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+        "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -221,7 +220,7 @@
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0005,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -235,6 +234,85 @@
         "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
         "source": "Google News: 站点限定-汽车媒体",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_1cc4fa54848f",
+      "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+      "source": "Google News: 车型灯组/灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "cf55f948e8bc64471435d832a86ce81762560624",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T15:06:19Z"
+        },
+        {
+          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T14:22:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车型灯组/灯光配置",
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "cf55f948e8bc64471435d832a86ce81762560624",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T15:06:19Z"
+        },
+        {
+          "id": "5f3afc1f87d9db380a6e274fc75b56e06eff46ce",
+          "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZVFQTWh2M21MM0c2aUNkSV9iYU9ZelJYQVgwcERoS2ZGSlFORmtrcmpJMHh3cDVnUVowaHB0TFNIUEVmWXdRU1NZZk9SVGRuTmRDUDF2Z1l0amZhMktTYUZEeFp5VEdNWkh1YWlzSnRzclh6clFrOA?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-14T14:22:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4777,
+      "importance": 0.4777,
+      "importance_score": 0.4777,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0499,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-14T14:22:57Z",
+      "latest_at": "2026-10-14T15:06:19Z",
+      "primary_item": {
+        "id": "cf55f948e8bc64471435d832a86ce81762560624",
+        "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
+        "source": "Google News: 车型灯组/灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -292,15 +370,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4653,
-      "importance": 0.4653,
-      "importance_score": 0.4653,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0037,
+        "recency": 0.0018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -314,84 +392,6 @@
         "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
         "source": "Google News: 智能座舱/氛围灯",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_c49a80cb9fb7",
-      "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T07:00:00Z"
-        },
-        {
-          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
-          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T16:44:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T07:00:00Z"
-        },
-        {
-          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
-          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T16:44:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0007,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T16:44:00Z",
-      "latest_at": "2026-09-30T07:00:00Z",
-      "primary_item": {
-        "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-        "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -448,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0006,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -526,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4665,
-      "importance": 0.4665,
-      "importance_score": 0.4665,
+      "score": 0.4656,
+      "importance": 0.4656,
+      "importance_score": 0.4656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0106,
+        "recency": 0.0053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,6 +548,84 @@
         "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_c49a80cb9fb7",
+      "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-30T07:00:00Z"
+        },
+        {
+          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
+          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T16:44:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-30T07:00:00Z"
+        },
+        {
+          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
+          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-09-29T16:44:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0003,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-29T16:44:00Z",
+      "latest_at": "2026-09-30T07:00:00Z",
+      "primary_item": {
+        "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
+        "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
+        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -604,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0006,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,7 +768,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
