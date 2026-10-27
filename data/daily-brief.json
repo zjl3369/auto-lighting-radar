@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:04:42.996992Z",
+  "generated_at": "2026-10-27T06:59:14.940155Z",
   "window_hours": 720,
   "total_items": 9,
   "items": [
@@ -82,84 +82,6 @@
       }
     },
     {
-      "story_id": "story_36659a9e99b1",
-      "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        },
-        {
-          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        },
-        {
-          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4758,
-      "importance": 0.4758,
-      "importance_score": 0.4758,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0622,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T06:44:00Z",
-      "latest_at": "2026-10-17T06:44:00Z",
-      "primary_item": {
-        "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-        "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-        "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
       "story_id": "story_1cc4fa54848f",
       "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
@@ -213,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0248,
+        "recency": 0.0124,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -235,6 +157,84 @@
         "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_36659a9e99b1",
+      "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-17T06:44:00Z"
+        },
+        {
+          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-17T06:44:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置"
+      ],
+      "items": [
+        {
+          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-17T06:44:00Z"
+        },
+        {
+          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
+          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-17T06:44:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4702,
+      "importance": 0.4702,
+      "importance_score": 0.4702,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0311,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T06:44:00Z",
+      "latest_at": "2026-10-17T06:44:00Z",
+      "primary_item": {
+        "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
+        "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
+        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     },
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0009,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -378,7 +378,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -448,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0026,
+        "recency": 0.0013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -534,7 +534,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,7 +690,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
