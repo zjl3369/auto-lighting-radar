@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T06:59:14.940155Z",
+  "generated_at": "2026-10-29T07:45:45.618795Z",
   "window_hours": 720,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_e60a37f1bf0a",
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4813,
-      "importance": 0.4813,
-      "importance_score": 0.4813,
+      "score": 0.4812,
+      "importance": 0.4812,
+      "importance_score": 0.4812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.471,
-      "importance": 0.471,
-      "importance_score": 0.471,
+      "score": 0.4699,
+      "importance": 0.4699,
+      "importance_score": 0.4699,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0124,
+        "recency": 0.0061,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -213,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4702,
-      "importance": 0.4702,
-      "importance_score": 0.4702,
+      "score": 0.4674,
+      "importance": 0.4674,
+      "importance_score": 0.4674,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0311,
+        "recency": 0.0154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -235,6 +235,85 @@
         "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
         "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_36d8360f8936",
+      "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+      "source": "Google News: LED/光学产业链",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-13T07:00:00Z"
+        },
+        {
+          "id": "37543332195d9ad14fd5ad53328220d91fb148ff",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-12T20:01:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: LED/光学产业链",
+        "Google News: 车型灯组/灯光配置"
+      ],
+      "items": [
+        {
+          "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-13T07:00:00Z"
+        },
+        {
+          "id": "37543332195d9ad14fd5ad53328220d91fb148ff",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+          "source": "Google News: 车型灯组/灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-12T20:01:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0039,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-12T20:01:41Z",
+      "latest_at": "2026-10-13T07:00:00Z",
+      "primary_item": {
+        "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
+        "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
+        "source": "Google News: LED/光学产业链",
         "source_name": "Industry / News Search"
       }
     },
@@ -292,15 +371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4647,
-      "importance": 0.4647,
-      "importance_score": 0.4647,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0005,
+        "recency": 0.0002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -378,7 +457,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -448,15 +527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4648,
-      "importance": 0.4648,
-      "importance_score": 0.4648,
+      "score": 0.4647,
+      "importance": 0.4647,
+      "importance_score": 0.4647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0013,
+        "recency": 0.0007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -534,7 +613,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -612,7 +691,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,7 +769,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0001,
+        "recency": 0.0,
         "story_heat": 0.25
       },
       "category": "watch",
