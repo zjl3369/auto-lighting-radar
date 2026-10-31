@@ -1,86 +1,8 @@
 {
-  "generated_at": "2026-10-29T07:45:45.618795Z",
+  "generated_at": "2026-10-31T07:41:10.678536Z",
   "window_hours": 720,
-  "total_items": 10,
+  "total_items": 6,
   "items": [
-    {
-      "story_id": "story_e60a37f1bf0a",
-      "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "427090169f378a086b8ba1b5b9f832ef4326e038",
-          "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T08:42:07Z"
-        },
-        {
-          "id": "a99e766228e5029aad2a6cbd6fdbb957dc63300b",
-          "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T08:42:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "427090169f378a086b8ba1b5b9f832ef4326e038",
-          "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T08:42:07Z"
-        },
-        {
-          "id": "a99e766228e5029aad2a6cbd6fdbb957dc63300b",
-          "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T08:42:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4812,
-      "importance": 0.4812,
-      "importance_score": 0.4812,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T08:42:07Z",
-      "latest_at": "2026-09-29T08:42:07Z",
-      "primary_item": {
-        "id": "427090169f378a086b8ba1b5b9f832ef4326e038",
-        "title": "汽车大灯升级指南！LED、氙气、激光大灯到底怎么选？ - chejiahao.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a2JIZm1kV1UwTTk4U2stT2lzRTYzeWpoUWdBek9FdjhLQ0NzZ3JNS3Jac3pnRUZ2UzhUVVVER1VMVlRfYUxIYWZrVXRDRzJncG1hYnhFYmRpU3c?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
-        "source_name": "Industry / News Search"
-      }
-    },
     {
       "story_id": "story_1cc4fa54848f",
       "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
@@ -135,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4699,
-      "importance": 0.4699,
-      "importance_score": 0.4699,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0061,
+        "recency": 0.0031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -157,6 +79,84 @@
         "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_bb0d4f65d0ac",
+      "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-09T07:00:00Z"
+        },
+        {
+          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
+          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-09T04:45:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-09T07:00:00Z"
+        },
+        {
+          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
+          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-09T04:45:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0005,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T04:45:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
+      "primary_item": {
+        "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+        "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -213,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4674,
-      "importance": 0.4674,
-      "importance_score": 0.4674,
+      "score": 0.466,
+      "importance": 0.466,
+      "importance_score": 0.466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0154,
+        "recency": 0.0077,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4653,
-      "importance": 0.4653,
-      "importance_score": 0.4653,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0039,
+        "recency": 0.0019,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -379,7 +379,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0002,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -393,84 +393,6 @@
         "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
         "source": "Google News: 智能座舱/氛围灯",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_0e793938ab12",
-      "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        },
-        {
-          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        },
-        {
-          "id": "a675a75a2748c49492a1ccf05e6316a0481724cb",
-          "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T21:42:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T21:42:37Z",
-      "latest_at": "2026-09-29T21:42:37Z",
-      "primary_item": {
-        "id": "b1681f9ba01c8e30680cd1f53e6fa279af6a8d3a",
-        "title": "【视频】2023款保时捷卡宴亮相，激光大灯+22寸轮毂 - chejiahao.m.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUmJjMENwNTNkcEV5djBGWTd5MHJnM1FDTnN6YllyaVNSX3NqcEwwSDdnZjdGV2VKUkZEUXNoOVpyUE1TdDdmZnRnX2ZUXzFDUzNRNlVhNVNRWC1GSlE?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     },
@@ -535,7 +457,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -549,240 +471,6 @@
         "title": "Ford因LED大灯问题召回近4.2万辆Expedition和Super Duty车型——Motor1 - UA.NEWS",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFmTzhRd3RGRE0xd2dxSzhJS0RjS2lsUWZ1OHd1dDdVd1VpMU42aThQMFBqc1FHajY4RnZKazJpeXh2TTE3aHUydjI1Qk1ZQWtJSkFDdjBuWHBNUVBBRy03U1J3NXFiUEMwRjBfZVVLeHYzcTdZaU4wVE5Za3ZCX1NkRDNtSGFpVzRWVFVDWUU3MDFCc2ZUTlVaMHVlWHpzS1BHZkI3T284NWM1akE?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_c49a80cb9fb7",
-      "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T07:00:00Z"
-        },
-        {
-          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
-          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T16:44:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-          "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T07:00:00Z"
-        },
-        {
-          "id": "2d5224cabe87ad137081bb68ffc1bef7c36e0bb4",
-          "title": "蔚来投影大灯秒识别过马路行人 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T16:44:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T16:44:00Z",
-      "latest_at": "2026-09-30T07:00:00Z",
-      "primary_item": {
-        "id": "f033747b3fc2d440bb40473461d71c48892b88b1",
-        "title": "蔚来投影大灯秒识别过马路行人 - 腾讯新闻",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSVdXaURBbm1Rd2lzaFppcTZjYWg3SWwxQVdnVmc1bjdaOVJBZlE5aS1sdGVWeVRFcU1oTElmcldjN0NpeGthWkdaQTJiaDRkOHNiNXdB?oc=5",
-        "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_601776edd21d",
-      "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - chejiahao.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "488195233ab8dfddc5bfb12e145098b22c578fc4",
-          "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T20:37:09Z"
-        },
-        {
-          "id": "b3aa15e1b0c1d241dd17b308a68fe41676cb26c1",
-          "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T20:37:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "488195233ab8dfddc5bfb12e145098b22c578fc4",
-          "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - chejiahao.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T20:37:09Z"
-        },
-        {
-          "id": "b3aa15e1b0c1d241dd17b308a68fe41676cb26c1",
-          "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-29T20:37:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-29T20:37:09Z",
-      "latest_at": "2026-09-29T20:37:09Z",
-      "primary_item": {
-        "id": "488195233ab8dfddc5bfb12e145098b22c578fc4",
-        "title": "比亚迪唐DM-i大灯升级方案：灯腔结构与透镜搭配的技术拆解 - chejiahao.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fdVhoUFVTSzlPSlhFVXBNVEl4Q1lsbWw4VjZoMzBnWU5udkJ2UGtEMHlJajMtQlN4MEVhT2Znb2ZLblR5M1pWRVdTdHNpLUc0OW53MGtsekZ5MTg?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_800273dbd9b4",
-      "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - chejiahao.m.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-      "source": "Google News: 站点限定-汽车媒体",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "e36349172b8baf6bd560cf67808032f1d17a7273",
-          "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T05:41:00Z"
-        },
-        {
-          "id": "38b75a7c1a13463a986fe5fbf089c2b7292f6916",
-          "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T05:41:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 站点限定-汽车媒体"
-      ],
-      "items": [
-        {
-          "id": "e36349172b8baf6bd560cf67808032f1d17a7273",
-          "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - chejiahao.m.autohome.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T05:41:00Z"
-        },
-        {
-          "id": "38b75a7c1a13463a986fe5fbf089c2b7292f6916",
-          "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - 汽车之家",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-          "source": "Google News: 站点限定-汽车媒体",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-09-30T05:41:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T05:41:00Z",
-      "latest_at": "2026-09-30T05:41:00Z",
-      "primary_item": {
-        "id": "e36349172b8baf6bd560cf67808032f1d17a7273",
-        "title": "【视频】全新贯穿式LED尾灯，Flyme Auto2.5座舱，静态体验2027款吉利博越 - chejiahao.m.autohome.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pd2hWRkhKcmowUDZDRFhwSEhtd041RE1RRUtqb3RGQzhQbmZWQ2NPMVNRSm5NTnZCVzRYX2NETm9qVENBSDZ5Z1RoRXdla3l3N2dqbXhHNGxQVWFXQzIyR2c2ekJoUjBtTUNXWTNMOHI0N1M0WWhqX2NEZU0?oc=5",
-        "source": "Google News: 站点限定-汽车媒体",
         "source_name": "Industry / News Search"
       }
     }
