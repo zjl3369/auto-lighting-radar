@@ -1,8 +1,165 @@
 {
-  "generated_at": "2026-11-03T08:47:13.017569Z",
+  "generated_at": "2026-11-05T08:41:20.371363Z",
   "window_hours": 720,
-  "total_items": 6,
+  "total_items": 7,
   "items": [
+    {
+      "story_id": "story_f543a37a54c3",
+      "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSm5RbFNITHBjOUtBVXJuZGxtTlR4LTA3eG55c2hlVGVmVGVVZUM2MmJUdFVBeGwxZXlFU19kM0R2Zm8weGFhU0xWZllKZGJXSWhEdVFGLWFjd2VfVy00dlRZZw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSm5RbFNITHBjOUtBVXJuZGxtTlR4LTA3eG55c2hlVGVmVGVVZUM2MmJUdFVBeGwxZXlFU19kM0R2Zm8weGFhU0xWZllKZGJXSWhEdVFGLWFjd2VfVy00dlRZZw?oc=5",
+      "source": "Google News: 国内车灯供应商",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "653d28d07ce1c9bcde74f4baa7e4419c14988119",
+          "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 - 金融界",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSm5RbFNITHBjOUtBVXJuZGxtTlR4LTA3eG55c2hlVGVmVGVVZUM2MmJUdFVBeGwxZXlFU19kM0R2Zm8weGFhU0xWZllKZGJXSWhEdVFGLWFjd2VfVy00dlRZZw?oc=5",
+          "source": "Google News: 国内车灯供应商",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-02T23:38:38Z"
+        },
+        {
+          "id": "4b3cc9b1db6cb252425c09cbea2a3e1e268b6eae",
+          "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 39.62% - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN1F0VlVmNlEzSnNTX25ST1V4bC1rVXdOYS1ybXhOMVY4ZUxTYmczWGhQZXE5bkR5b2tnWk9QQmQ0emdqd2tCaW5aRHVYbTZLOXBvRGh4WXdZWkpOZEh2bERDLWVzNUdLWVlXX0tKVWdaN1hFNV9TZ1h2dlhheFlGQjdaQllSaHhM?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-02T23:38:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 国内车灯供应商",
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "653d28d07ce1c9bcde74f4baa7e4419c14988119",
+          "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 - 金融界",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSm5RbFNITHBjOUtBVXJuZGxtTlR4LTA3eG55c2hlVGVmVGVVZUM2MmJUdFVBeGwxZXlFU19kM0R2Zm8weGFhU0xWZllKZGJXSWhEdVFGLWFjd2VfVy00dlRZZw?oc=5",
+          "source": "Google News: 国内车灯供应商",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-02T23:38:38Z"
+        },
+        {
+          "id": "4b3cc9b1db6cb252425c09cbea2a3e1e268b6eae",
+          "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 39.62% - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN1F0VlVmNlEzSnNTX25ST1V4bC1rVXdOYS1ybXhOMVY4ZUxTYmczWGhQZXE5bkR5b2tnWk9QQmQ0emdqd2tCaW5aRHVYbTZLOXBvRGh4WXdZWkpOZEh2bERDLWVzNUdLWVlXX0tKVWdaN1hFNV9TZ1h2dlhheFlGQjdaQllSaHhM?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-02T23:38:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.4388,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T23:38:38Z",
+      "latest_at": "2026-11-02T23:38:38Z",
+      "primary_item": {
+        "id": "653d28d07ce1c9bcde74f4baa7e4419c14988119",
+        "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 - 金融界",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSm5RbFNITHBjOUtBVXJuZGxtTlR4LTA3eG55c2hlVGVmVGVVZUM2MmJUdFVBeGwxZXlFU19kM0R2Zm8weGFhU0xWZllKZGJXSWhEdVFGLWFjd2VfVy00dlRZZw?oc=5",
+        "source": "Google News: 国内车灯供应商",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_a9803ab2a663",
+      "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:29Z"
+        },
+        {
+          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
+          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:29Z"
+        },
+        {
+          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
+          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.1813,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T10:25:28Z",
+      "latest_at": "2026-10-31T10:25:29Z",
+      "primary_item": {
+        "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+        "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+        "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_1cc4fa54848f",
       "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
@@ -57,15 +214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0011,
+        "recency": 0.0005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -79,84 +236,6 @@
         "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_bb0d4f65d0ac",
-      "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T07:00:00Z"
-        },
-        {
-          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
-          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T04:45:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T07:00:00Z"
-        },
-        {
-          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
-          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T04:45:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T04:45:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-        "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -213,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0027,
+        "recency": 0.0013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -300,7 +379,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -318,81 +397,80 @@
       }
     },
     {
-      "story_id": "story_a0d49aae9780",
-      "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-      "source": "Google News: 智能座舱/氛围灯",
+      "story_id": "story_bb0d4f65d0ac",
+      "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+      "source": "Google News: 智能大灯技术",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 智能座舱/氛围灯",
+          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
+          "published_at": "2026-10-09T07:00:00Z"
         },
         {
-          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
+          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
+          "published_at": "2026-10-09T04:45:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google News: 智能座舱/氛围灯",
-        "Google News: 车型灯组/灯光配置"
+        "Google News: 智能大灯技术"
       ],
       "items": [
         {
-          "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 智能座舱/氛围灯",
+          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
+          "published_at": "2026-10-09T07:00:00Z"
         },
         {
-          "id": "80e27dd0b40981b53272f6d624d67d47622d766d",
-          "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
+          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
+          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+          "source": "Google News: 智能大灯技术",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
-          "published_at": "2026-10-05T02:27:00Z"
+          "published_at": "2026-10-09T04:45:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
+      "score": 0.4688,
+      "importance": 0.4688,
+      "importance_score": 0.4688,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.54,
+        "editorial": 0.5472,
         "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
+        "ai_relevance": 0.76,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T02:27:00Z",
-      "latest_at": "2026-10-05T02:27:00Z",
+      "earliest_at": "2026-10-09T04:45:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
       "primary_item": {
-        "id": "d7be3bd054ca9d6367b1678bdf432479807e5da9",
-        "title": "2026氛围灯最好看的车，奔驰/奥迪/高尔夫谁赢了？3个维度拆解+FAQ - k.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WdjZuVU52M0JtQ1F5OGFPemt0bHR4dmlDMDNBcURva0dHTG4yQndiNHpSa0pMY0Z6eWlKMDlVOGhoaWpkQjdQX0x5SWhlUDRqM2Z3WmVyQ0FhdVduaHRqYVVRT19yU3VXNFR4YXhzVWxxdw?oc=5",
-        "source": "Google News: 智能座舱/氛围灯",
+        "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
+        "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
+        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
