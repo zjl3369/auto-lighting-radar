@@ -1,8 +1,166 @@
 {
-  "generated_at": "2026-11-07T07:57:19.910789Z",
+  "generated_at": "2026-11-09T08:49:41.521837Z",
   "window_hours": 720,
-  "total_items": 6,
+  "total_items": 7,
   "items": [
+    {
+      "story_id": "story_41ad3e63ab9c",
+      "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlQ3RHFWV2JYN21qQm1IbXo1VTRoLTJRd1BmOHJlYXRDUTBjMHRULVNiZ3h2TVBsSEhoVFlpUy1CUGE3STRGZWJaY2l5aFEwUEM0X3F6TWlpSkU?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlQ3RHFWV2JYN21qQm1IbXo1VTRoLTJRd1BmOHJlYXRDUTBjMHRULVNiZ3h2TVBsSEhoVFlpUy1CUGE3STRGZWJaY2l5aFEwUEM0X3F6TWlpSkU?oc=5",
+      "source": "Google News: 主机厂灯光配置",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "9a994f0c94669fe7dfe37ca790e59d8016d34e5b",
+          "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlQ3RHFWV2JYN21qQm1IbXo1VTRoLTJRd1BmOHJlYXRDUTBjMHRULVNiZ3h2TVBsSEhoVFlpUy1CUGE3STRGZWJaY2l5aFEwUEM0X3F6TWlpSkU?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T05:32:32Z"
+        },
+        {
+          "id": "0ed9359511dafebe7503631be8c319f437550224",
+          "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYlBQcUZYYWF2ZG1MLXVDdkNaMzZmMzcxZ1Yzc1NHdk01LUZrUHZrYXY5OTZfNWZORlNZNXlvclVQVWkwMDIwNWRicW1PZi1iS2UwV05IMzNWQVYtNGxWekdIbGF5QXpTUWZ4dnRfLWRvLVhhLTdjVHpVc0hqelk?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T05:14:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 主机厂灯光配置",
+        "Google News: 国际车灯供应商中文"
+      ],
+      "items": [
+        {
+          "id": "9a994f0c94669fe7dfe37ca790e59d8016d34e5b",
+          "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlQ3RHFWV2JYN21qQm1IbXo1VTRoLTJRd1BmOHJlYXRDUTBjMHRULVNiZ3h2TVBsSEhoVFlpUy1CUGE3STRGZWJaY2l5aFEwUEM0X3F6TWlpSkU?oc=5",
+          "source": "Google News: 主机厂灯光配置",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T05:32:32Z"
+        },
+        {
+          "id": "0ed9359511dafebe7503631be8c319f437550224",
+          "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYlBQcUZYYWF2ZG1MLXVDdkNaMzZmMzcxZ1Yzc1NHdk01LUZrUHZrYXY5OTZfNWZORlNZNXlvclVQVWkwMDIwNWRicW1PZi1iS2UwV05IMzNWQVYtNGxWekdIbGF5QXpTUWZ4dnRfLWRvLVhhLTdjVHpVc0hqelk?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T05:14:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6363,
+      "importance": 0.6363,
+      "importance_score": 0.6363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.9537,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T05:14:00Z",
+      "latest_at": "2026-11-09T05:32:32Z",
+      "primary_item": {
+        "id": "9a994f0c94669fe7dfe37ca790e59d8016d34e5b",
+        "title": "日本车灯老大拆完比亚迪和问界，说了一句“我们要输了” - 汽车之家",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlQ3RHFWV2JYN21qQm1IbXo1VTRoLTJRd1BmOHJlYXRDUTBjMHRULVNiZ3h2TVBsSEhoVFlpUy1CUGE3STRGZWJaY2l5aFEwUEM0X3F6TWlpSkU?oc=5",
+        "source": "Google News: 主机厂灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_2d62e3563523",
+      "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+      "source": "Google News: 国际车灯供应商中文",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
+          "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T02:34:00Z"
+        },
+        {
+          "id": "0085d4fcc3541d79753016e267680028c04fee10",
+          "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRjMyaktOakhQYWxBZ1VIUnV1azljdlc2elA1RmFJTHd6Rkc4WW5mdXFCLTVjUjNTeS0tZ2s0N2dhVm1VX0lGMjBzVHRNRlpoX3BzUjZnd24?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T01:40:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 国际车灯供应商中文",
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
+          "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+          "source": "Google News: 国际车灯供应商中文",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T02:34:00Z"
+        },
+        {
+          "id": "0085d4fcc3541d79753016e267680028c04fee10",
+          "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRjMyaktOakhQYWxBZ1VIUnV1azljdlc2elA1RmFJTHd6Rkc4WW5mdXFCLTVjUjNTeS0tZ2s0N2dhVm1VX0lGMjBzVHRNRlpoX3BzUjZnd24?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-11-09T01:40:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.629,
+      "importance": 0.629,
+      "importance_score": 0.629,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.9135,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T01:40:00Z",
+      "latest_at": "2026-11-09T02:34:00Z",
+      "primary_item": {
+        "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
+        "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+        "source": "Google News: 国际车灯供应商中文",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_f543a37a54c3",
       "title": "批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 - 金融界",
@@ -57,15 +215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5045,
-      "importance": 0.5045,
-      "importance_score": 0.5045,
+      "score": 0.4843,
+      "importance": 0.4843,
+      "importance_score": 0.4843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.2217,
+        "recency": 0.1095,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -135,15 +293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4852,
-      "importance": 0.4852,
-      "importance_score": 0.4852,
+      "score": 0.4769,
+      "importance": 0.4769,
+      "importance_score": 0.4769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0916,
+        "recency": 0.0452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -222,7 +380,7 @@
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0003,
+        "recency": 0.0001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -236,6 +394,84 @@
         "title": "2026款理想i6，ADB矩阵大灯，前排双零重力，续航780公里 - 汽车之家",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRWZVSURxUi1xTHJWUmUwZUtiVFRWanBfb014NHhzeDB0akRlWTlVNGhqRV9Cemk3bWd0N1A4ckF1Tmh5ZzFiUHpUOExuejN3dTBldWp3eThjM0U?oc=5",
         "source": "Google News: 车型灯组/灯光配置",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_7db9b670980c",
+      "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+      "source": "Google News: LED/光学产业链",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "012f8fe127ad8aa933505457184a6d43013717e5",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-13T07:00:00Z"
+        },
+        {
+          "id": "2d4f00839804aae997b7754bf5d71fcebb42f0d8",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-12T20:15:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: LED/光学产业链"
+      ],
+      "items": [
+        {
+          "id": "012f8fe127ad8aa933505457184a6d43013717e5",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-13T07:00:00Z"
+        },
+        {
+          "id": "2d4f00839804aae997b7754bf5d71fcebb42f0d8",
+          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+          "source": "Google News: LED/光学产业链",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-12T20:15:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0001,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-12T20:15:22Z",
+      "latest_at": "2026-10-13T07:00:00Z",
+      "primary_item": {
+        "id": "012f8fe127ad8aa933505457184a6d43013717e5",
+        "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubEYzdjI2RlI5Q2lTZE10ekFUNS1BZDBnZzR4eFNRTVQ5X2NQV0VqWmQtb3FyUkZ2N1dpYjRibmVWMTRPR3BROTdTT0FyLVliZV9aVXhFczl6UzJCU0Uw?oc=5",
+        "source": "Google News: LED/光学产业链",
         "source_name": "Industry / News Search"
       }
     },
@@ -300,7 +536,7 @@
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0007,
+        "recency": 0.0003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -314,163 +550,6 @@
         "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
         "source": "Google News: 主机厂灯光配置",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_36d8360f8936",
-      "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-      "source": "Google News: LED/光学产业链",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
-          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-          "source": "Google News: LED/光学产业链",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-13T07:00:00Z"
-        },
-        {
-          "id": "37543332195d9ad14fd5ad53328220d91fb148ff",
-          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-12T20:01:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: LED/光学产业链",
-        "Google News: 车型灯组/灯光配置"
-      ],
-      "items": [
-        {
-          "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
-          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-          "source": "Google News: LED/光学产业链",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-13T07:00:00Z"
-        },
-        {
-          "id": "37543332195d9ad14fd5ad53328220d91fb148ff",
-          "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-          "source": "Google News: 车型灯组/灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-12T20:01:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T20:01:41Z",
-      "latest_at": "2026-10-13T07:00:00Z",
-      "primary_item": {
-        "id": "749fcaf6df2f128ee010e331adc4919b19ae231c",
-        "title": "哪些车氛围灯好看？2025款奔驰S/宝马X3/红旗H5对比，3个维度说清+FAQ - 新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zSDFVc045Zi1Ta2hnbkhGbXhwbW1tdUIwcHRjZ0k3V1NwVWEtc0ZIUWpKLWpYMUtZRmxmVllYdWRRWWpRS1FlbFFtVG04bFRQMDVyUnhmcFhsX2VrV0s0SUpJUEtoX2xSemR2dFJSdw?oc=5",
-        "source": "Google News: LED/光学产业链",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_bb0d4f65d0ac",
-      "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T07:00:00Z"
-        },
-        {
-          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
-          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T04:45:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-          "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T07:00:00Z"
-        },
-        {
-          "id": "585cea7ac14cae86fa9131459f6fe42bcb34dc6c",
-          "title": "理想新i6官图来了！外门把手改了，电动前备箱有了，ADB矩阵大灯有了，前排双零重力座椅有了。巴黎车展欧洲首秀，感觉欧洲人会对这种激进的设计很有兴趣[偷笑] ​_新浪新闻 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-09T04:45:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T04:45:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "db3bf37857ce5cf3bce6e2035c874cf9f9070511",
-        "title": "理想新i6 官图来了，欧洲人会对这种激进设计感兴趣吗|理想新i6|外门把手|电动前备箱|adb矩阵大灯|零重力座椅|巴黎车展 - 手机新浪网",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QktVTlpmQk1hSEt1R2hxSWtfeDhGcGd0TkZwS29EbEc5Q04wa2RfSzBrLVZXVXhhMGNRbmJSRlNDTzBkV1hTTmNjRVNPWk1LNVg4eDl4MER0VGlTNGoxMGJFUQ?oc=5",
-        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     }
