@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T08:35:52.707569Z",
+  "generated_at": "2026-11-17T09:52:10.810114Z",
   "window_hours": 720,
-  "total_items": 5,
+  "total_items": 4,
   "items": [
     {
       "story_id": "story_2d62e3563523",
       "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84QUczb1B1VkI5eHVyZmc1c0VjalFlMU1rLWVZcTlnZ1hrVFVlWnczdVNIWUxNaUhMRXdPS0lGOUozbFphLVBDeEdEZmZuV3NWVVhEZnJkdDU1RVZpNEtLWFF0alRoOEhSeDZSdDVFc1pSbTU4aDFjSnVUSGN3VU0?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84QUczb1B1VkI5eHVyZmc1c0VjalFlMU1rLWVZcTlnZ1hrVFVlWnczdVNIWUxNaUhMRXdPS0lGOUozbFphLVBDeEdEZmZuV3NWVVhEZnJkdDU1RVZpNEtLWFF0alRoOEhSeDZSdDVFc1pSbTU4aDFjSnVUSGN3VU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
       "source": "Google News: 国际车灯供应商中文",
       "source_name": "Industry / News Search",
       "sources": [
         {
-          "id": "c6831a77e74cd078ab856e64e5aff205602c4d39",
+          "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
           "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84QUczb1B1VkI5eHVyZmc1c0VjalFlMU1rLWVZcTlnZ1hrVFVlWnczdVNIWUxNaUhMRXdPS0lGOUozbFphLVBDeEdEZmZuV3NWVVhEZnJkdDU1RVZpNEtLWFF0alRoOEhSeDZSdDVFc1pSbTU4aDFjSnVUSGN3VU0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
           "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
@@ -37,9 +37,9 @@
       ],
       "items": [
         {
-          "id": "c6831a77e74cd078ab856e64e5aff205602c4d39",
+          "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
           "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84QUczb1B1VkI5eHVyZmc1c0VjalFlMU1rLWVZcTlnZ1hrVFVlWnczdVNIWUxNaUhMRXdPS0lGOUozbFphLVBDeEdEZmZuV3NWVVhEZnJkdDU1RVZpNEtLWFF0alRoOEhSeDZSdDVFc1pSbTU4aDFjSnVUSGN3VU0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
           "source": "Google News: 国际车灯供应商中文",
           "source_name": "Industry / News Search",
           "site_id": "lighting_media",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4852,
-      "importance": 0.4852,
-      "importance_score": 0.4852,
+      "score": 0.4747,
+      "importance": 0.4747,
+      "importance_score": 0.4747,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.1146,
+        "recency": 0.0562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -75,9 +75,9 @@
       "earliest_at": "2026-11-09T01:40:00Z",
       "latest_at": "2026-11-09T02:34:00Z",
       "primary_item": {
-        "id": "c6831a77e74cd078ab856e64e5aff205602c4d39",
+        "id": "c5c4b48e860416dfc69924cfd30dc6453649a5a9",
         "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84QUczb1B1VkI5eHVyZmc1c0VjalFlMU1rLWVZcTlnZ1hrVFVlWnczdVNIWUxNaUhMRXdPS0lGOUozbFphLVBDeEdEZmZuV3NWVVhEZnJkdDU1RVZpNEtLWFF0alRoOEhSeDZSdDVFc1pSbTU4aDFjSnVUSGN3VU0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aXZBMGdaY2xYV3A4ZGNhZURXa215eklVV2ZqTmZCQXJ1Y2Vlc240a1ZGVG9mXzNWdXRWdkhyaTVFM0lOelh1YnpuM0pSX3VNVmxUN2RiV1F3YjM3S2RKaWYzN05md3c5bjBSSThSc0tYZw?oc=5",
         "source": "Google News: 国际车灯供应商中文",
         "source_name": "Industry / News Search"
       }
@@ -136,15 +136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4845,
-      "importance": 0.4845,
-      "importance_score": 0.4845,
+      "score": 0.4744,
+      "importance": 0.4744,
+      "importance_score": 0.4744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.1107,
+        "recency": 0.0543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -214,15 +214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4698,
-      "importance": 0.4698,
-      "importance_score": 0.4698,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0057,
+        "recency": 0.0028,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4666,
-      "importance": 0.4666,
-      "importance_score": 0.4666,
+      "score": 0.4656,
+      "importance": 0.4656,
+      "importance_score": 0.4656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0111,
+        "recency": 0.0054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -314,84 +314,6 @@
         "title": "星宇股份第三季度营收净利双降，车灯龙头增长模式承压 - 虎嗅",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRT0dEbUNBS1pIQm1lclZLX1Nwendadnc2V0tQMnpNLTBFYXRpTVJ5bUNHRGRfcTZZaTU4ekM3SEV1TVpiQkRWM1VPZUo2VkU0UkpkLQ?oc=5",
         "source": "Google News: 国内车灯供应商",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_36659a9e99b1",
-      "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-      "source": "Google News: 主机厂灯光配置",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        },
-        {
-          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 主机厂灯光配置"
-      ],
-      "items": [
-        {
-          "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        },
-        {
-          "id": "5bdbcd79f9aa8ba7e0f4685279f478c88c75cc1f",
-          "title": "夜里我还没看见人，蔚来投影大灯先警示 - 腾讯新闻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-          "source": "Google News: 主机厂灯光配置",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-17T06:44:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T06:44:00Z",
-      "latest_at": "2026-10-17T06:44:00Z",
-      "primary_item": {
-        "id": "f6c1df5ddbd1fefc4bfd174ca17c738608d53b17",
-        "title": "夜里我还没看见人，蔚来投影大灯先警示 - QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MERyUTM3U2ZTRkJlcnpkUnNYd1ZyWWVMV0F1Qktoelhwd2l3ZGJhU2VWcFU2dEpaV1k3VXQ4VThZWEhYR1QwT1NyaVRIeTRIYktfRm5R?oc=5",
-        "source": "Google News: 主机厂灯光配置",
         "source_name": "Industry / News Search"
       }
     }
