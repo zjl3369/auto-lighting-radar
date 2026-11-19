@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T09:52:10.810114Z",
+  "generated_at": "2026-11-19T09:37:47.418594Z",
   "window_hours": 720,
-  "total_items": 4,
+  "total_items": 5,
   "items": [
     {
       "story_id": "story_2d62e3563523",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4747,
-      "importance": 0.4747,
-      "importance_score": 0.4747,
+      "score": 0.4697,
+      "importance": 0.4697,
+      "importance_score": 0.4697,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0562,
+        "recency": 0.0282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -136,15 +136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4744,
-      "importance": 0.4744,
-      "importance_score": 0.4744,
+      "score": 0.4695,
+      "importance": 0.4695,
+      "importance_score": 0.4695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0543,
+        "recency": 0.0273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -214,15 +214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4693,
-      "importance": 0.4693,
-      "importance_score": 0.4693,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.0028,
+        "recency": 0.0014,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4656,
-      "importance": 0.4656,
-      "importance_score": 0.4656,
+      "score": 0.4651,
+      "importance": 0.4651,
+      "importance_score": 0.4651,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0054,
+        "recency": 0.0027,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -314,6 +314,84 @@
         "title": "星宇股份第三季度营收净利双降，车灯龙头增长模式承压 - 虎嗅",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRT0dEbUNBS1pIQm1lclZLX1Nwendadnc2V0tQMnpNLTBFYXRpTVJ5bUNHRGRfcTZZaTU4ekM3SEV1TVpiQkRWM1VPZUo2VkU0UkpkLQ?oc=5",
         "source": "Google News: 国内车灯供应商",
+        "source_name": "Industry / News Search"
+      }
+    },
+    {
+      "story_id": "story_5616ce045242",
+      "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
+      "source": "Google News: 车灯/汽车照明",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
+          "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-20T15:48:00Z"
+        },
+        {
+          "id": "e151032002528bc35b7a589727f53caef9fdb03f",
+          "title": "工信部：智驾拟启用“蓝绿色”标志灯，车灯禁止显示文字和表情包，新标准建议自2028年1月1日起实施 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFJITmhaVksxN2IwWmZFUjJBM1JySGdBN2Z1ZzNkYVE4UEE4RzhVc21wYWVabW02VHZKQnVtSjJzbEllLXBaamtGSHZhU2x2TjNvRjFXSlAxclVndHMyMVhOazRZclZoZGFRaWRNTDRJQlN3MENKaTNmbS1ldDFITWh3QVVMOHZxanVn?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-20T10:27:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 车灯/汽车照明"
+      ],
+      "items": [
+        {
+          "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
+          "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-20T15:48:00Z"
+        },
+        {
+          "id": "e151032002528bc35b7a589727f53caef9fdb03f",
+          "title": "工信部：智驾拟启用“蓝绿色”标志灯，车灯禁止显示文字和表情包，新标准建议自2028年1月1日起实施 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFJITmhaVksxN2IwWmZFUjJBM1JySGdBN2Z1ZzNkYVE4UEE4RzhVc21wYWVabW02VHZKQnVtSjJzbEllLXBaamtGSHZhU2x2TjNvRjFXSlAxclVndHMyMVhOazRZclZoZGFRaWRNTDRJQlN3MENKaTNmbS1ldDFITWh3QVVMOHZxanVn?oc=5",
+          "source": "Google News: 车灯/汽车照明",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-20T10:27:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-20T10:27:42Z",
+      "latest_at": "2026-10-20T15:48:00Z",
+      "primary_item": {
+        "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
+        "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
+        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     }
