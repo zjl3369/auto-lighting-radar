@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-11-19T09:37:47.418594Z",
+  "generated_at": "2026-11-21T08:56:48.794841Z",
   "window_hours": 720,
-  "total_items": 5,
+  "total_items": 4,
   "items": [
+    {
+      "story_id": "story_a9803ab2a663",
+      "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+      "source": "Google News: 智能大灯技术",
+      "source_name": "Industry / News Search",
+      "sources": [
+        {
+          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:29Z"
+        },
+        {
+          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
+          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google News: 智能大灯技术"
+      ],
+      "items": [
+        {
+          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:29Z"
+        },
+        {
+          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
+          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
+          "source": "Google News: 智能大灯技术",
+          "source_name": "Industry / News Search",
+          "site_id": "lighting_media",
+          "published_at": "2026-10-31T10:25:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.0007,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T10:25:28Z",
+      "latest_at": "2026-10-31T10:25:29Z",
+      "primary_item": {
+        "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
+        "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
+        "source": "Google News: 智能大灯技术",
+        "source_name": "Industry / News Search"
+      }
+    },
     {
       "story_id": "story_2d62e3563523",
       "title": "这价格咋做到的！日本车灯巨头为降本狂拆比亚迪、问界等中国车 - 手机新浪网",
@@ -57,15 +135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4697,
-      "importance": 0.4697,
-      "importance_score": 0.4697,
+      "score": 0.4672,
+      "importance": 0.4672,
+      "importance_score": 0.4672,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0282,
+        "recency": 0.0142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -136,15 +214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4695,
-      "importance": 0.4695,
-      "importance_score": 0.4695,
+      "score": 0.4671,
+      "importance": 0.4671,
+      "importance_score": 0.4671,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0273,
+        "recency": 0.0138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -158,84 +236,6 @@
         "title": "日本车灯巨头小糸制作所拟降本30%，拆解比亚迪、问界车灯寻低价秘诀 - 凤凰网",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbmdEY1IzLXZpNUpldGtjdW1CT0ZnMVZPUzVxSHI2eEhfNkp4OVZjeklfYW5VMzlsb0tJY1JXRTBENUZrRVAzam10R0d2MjhZYUE?oc=5",
         "source": "Google News: 车灯/汽车照明",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_a9803ab2a663",
-      "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
-      "source": "Google News: 智能大灯技术",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
-          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-31T10:25:29Z"
-        },
-        {
-          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
-          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-31T10:25:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 智能大灯技术"
-      ],
-      "items": [
-        {
-          "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
-          "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-31T10:25:29Z"
-        },
-        {
-          "id": "fdd90b27fc79b119b84d24496cb173abf8fb146c",
-          "title": "奥迪A3三厢版2026款外观值得等吗？发光LOGO与像素大灯3个维度说清+FAQ - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNzNlJCYTl5MDNPLW5XOTN6Q0xFQjhWMjlBSEdnSE1ITFkxZk9nYVZpbHZ6NXdJRDBva1JLVy1xbG5qeW1sdUhaMnkxY0NxcUQwbFRQVjVBVjJaVVhR?oc=5",
-          "source": "Google News: 智能大灯技术",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-31T10:25:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.0014,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T10:25:28Z",
-      "latest_at": "2026-10-31T10:25:29Z",
-      "primary_item": {
-        "id": "7c02863775c1e3757afb4cbd373f6b9c5f389ce3",
-        "title": "奥迪A3三厢版2026款外观值得等吗？3个维度说清发光LOGO与像素大灯+FAQ - 手机新浪网",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNE96OEttQzJ1dlZDbEh6eUZNdDVzY0NmNVV5TU5CNmlNNl9uVnBxblIwLXVqaEpCMWlSUHRndUZHV1NxeWJHOWV6cFpBbi11V0NfUFJsVU11X3FNY2xZ?oc=5",
-        "source": "Google News: 智能大灯技术",
         "source_name": "Industry / News Search"
       }
     },
@@ -292,15 +292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4648,
+      "importance": 0.4648,
+      "importance_score": 0.4648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.0027,
+        "recency": 0.0014,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -314,84 +314,6 @@
         "title": "星宇股份第三季度营收净利双降，车灯龙头增长模式承压 - 虎嗅",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRT0dEbUNBS1pIQm1lclZLX1Nwendadnc2V0tQMnpNLTBFYXRpTVJ5bUNHRGRfcTZZaTU4ekM3SEV1TVpiQkRWM1VPZUo2VkU0UkpkLQ?oc=5",
         "source": "Google News: 国内车灯供应商",
-        "source_name": "Industry / News Search"
-      }
-    },
-    {
-      "story_id": "story_5616ce045242",
-      "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
-      "source": "Google News: 车灯/汽车照明",
-      "source_name": "Industry / News Search",
-      "sources": [
-        {
-          "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
-          "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-20T15:48:00Z"
-        },
-        {
-          "id": "e151032002528bc35b7a589727f53caef9fdb03f",
-          "title": "工信部：智驾拟启用“蓝绿色”标志灯，车灯禁止显示文字和表情包，新标准建议自2028年1月1日起实施 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFJITmhaVksxN2IwWmZFUjJBM1JySGdBN2Z1ZzNkYVE4UEE4RzhVc21wYWVabW02VHZKQnVtSjJzbEllLXBaamtGSHZhU2x2TjNvRjFXSlAxclVndHMyMVhOazRZclZoZGFRaWRNTDRJQlN3MENKaTNmbS1ldDFITWh3QVVMOHZxanVn?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-20T10:27:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google News: 车灯/汽车照明"
-      ],
-      "items": [
-        {
-          "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
-          "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-20T15:48:00Z"
-        },
-        {
-          "id": "e151032002528bc35b7a589727f53caef9fdb03f",
-          "title": "工信部：智驾拟启用“蓝绿色”标志灯，车灯禁止显示文字和表情包，新标准建议自2028年1月1日起实施 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFJITmhaVksxN2IwWmZFUjJBM1JySGdBN2Z1ZzNkYVE4UEE4RzhVc21wYWVabW02VHZKQnVtSjJzbEllLXBaamtGSHZhU2x2TjNvRjFXSlAxclVndHMyMVhOazRZclZoZGFRaWRNTDRJQlN3MENKaTNmbS1ldDFITWh3QVVMOHZxanVn?oc=5",
-          "source": "Google News: 车灯/汽车照明",
-          "source_name": "Industry / News Search",
-          "site_id": "lighting_media",
-          "published_at": "2026-10-20T10:27:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4646,
-      "importance": 0.4646,
-      "importance_score": 0.4646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-20T10:27:42Z",
-      "latest_at": "2026-10-20T15:48:00Z",
-      "primary_item": {
-        "id": "29ff817110d6ed9b068d30d5df272462c8c3d7aa",
-        "title": "工信部：智驾拟启用“蓝绿色”标志灯车灯禁止显示文字和表情包新标准建议自2028年1月1日起实施 - 证券时报",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zemhIUGdMLUNMX24tUFVPUmNJR2FTU0xGbTFVaW16bmxzQVVmQ3ZUVk1pMnZJUDFxZTBMdkx6VHBnRlp3STRVenRoQzQyN1lZbnhKZXhmMFZlckdFM0E?oc=5",
-        "source": "Google News: 车灯/汽车照明",
         "source_name": "Industry / News Search"
       }
     }
